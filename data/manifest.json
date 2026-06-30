@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "001",
+    "slug": "17776-by-jon-bois",
+    "title": "17776 by Jon Bois",
+    "wordCount": 3130,
+    "txtFile": "001.txt"
+  },
+  {
+    "id": "002",
+    "slug": "1984-by-george-orwell",
+    "title": "1984 by George Orwell",
+    "wordCount": 5947,
+    "txtFile": "002.txt"
+  },
+  {
+    "id": "003",
+    "slug": "a-christmas-carol-by-charles-dickens",
+    "title": "A Christmas Carol by Charles Dickens",
+    "wordCount": 5624,
+    "txtFile": "003.txt"
+  },
+  {
+    "id": "004",
+    "slug": "a-game-of-thrones",
+    "title": "A Game Of Thrones",
+    "wordCount": 1225,
+    "txtFile": "004.txt"
+  },
+  {
+    "id": "005",
+    "slug": "a-history-of-the-jews",
+    "title": "A History of the Jews",
+    "wordCount": 2480,
+    "txtFile": "005.txt"
+  },
+  {
+    "id": "006",
+    "slug": "a-poor-wise-man",
+    "title": "A Poor Wise Man",
+    "wordCount": 3013,
+    "txtFile": "006.txt"
+  },
+  {
+    "id": "007",
+    "slug": "a-residence-of-twenty-one-years-in-the-sandwich-islands",
+    "title": "A Residence of Twenty-One Years in the Sandwich Islands",
+    "wordCount": 8446,
+    "txtFile": "007.txt"
+  },
+  {
+    "id": "008",
+    "slug": "a-secular-age",
+    "title": "A Secular Age",
+    "wordCount": 5306,
+    "txtFile": "008.txt"
+  },
+  {
+    "id": "009",
+    "slug": "a-swim-in-a-pond-in-the-rain-by-george-saunders",
+    "title": "A Swim in a Pond in the Rain (by George Saunders)",
+    "wordCount": 7938,
+    "txtFile": "009.txt"
+  },
+  {
+    "id": "010",
+    "slug": "a-world-appears-by-michael-pollan",
+    "title": "\"A World Appears\" by Michael Pollan.",
+    "wordCount": 3570,
+    "txtFile": "010.txt"
+  },
+  {
+    "id": "011",
+    "slug": "aesopian-language-in-russian-literature",
+    "title": "Aesopian Language in Russian Literature",
+    "wordCount": 6572,
+    "txtFile": "011.txt"
+  },
+  {
+    "id": "012",
+    "slug": "agatha-christies-works",
+    "title": "Agatha Christie's Works",
+    "wordCount": 3114,
+    "txtFile": "012.txt"
+  },
+  {
+    "id": "013",
+    "slug": "alice-in-puzzle-land-by-raymond-smullyan",
+    "title": "Alice in Puzzle-Land by Raymond Smullyan",
+    "wordCount": 3023,
+    "txtFile": "013.txt"
+  },
+  {
+    "id": "014",
+    "slug": "antonio-damasios-feeling-knowing-making-minds-conscious",
+    "title": "Antonio Damasio’s Feeling & Knowing: Making Minds Conscious",
+    "wordCount": 6210,
+    "txtFile": "014.txt"
+  },
+  {
+    "id": "015",
+    "slug": "application-for-release-from-the-dream",
+    "title": "Application for Release from the Dream",
+    "wordCount": 3421,
+    "txtFile": "015.txt"
+  },
+  {
+    "id": "016",
+    "slug": "ballpark-baseball-in-the-american-city",
+    "title": "Ballpark: Baseball in the American City",
+    "wordCount": 8531,
+    "txtFile": "016.txt"
+  },
+  {
+    "id": "017",
+    "slug": "being-you-a-new-science-of-consciousness-by-anil-seth",
+    "title": "Being You: A New Science of Consciousness by Anil Seth",
+    "wordCount": 10013,
+    "txtFile": "017.txt"
+  },
+  {
+    "id": "018",
+    "slug": "bellum-catilinae-the-catiline-conspiracy",
+    "title": "Bellum Catilinae -- The Catiline Conspiracy",
+    "wordCount": 7244,
+    "txtFile": "018.txt"
+  },
+  {
+    "id": "019",
+    "slug": "between-two-fires",
+    "title": "Between Two Fires",
+    "wordCount": 2901,
+    "txtFile": "019.txt"
+  },
+  {
+    "id": "020",
+    "slug": "bleeding-edge-by-thomas-pynchon",
+    "title": "Bleeding Edge by Thomas Pynchon",
+    "wordCount": 6058,
+    "txtFile": "020.txt"
+  },
+  {
+    "id": "021",
+    "slug": "breakdown-in-pakistan-how-aid-is-eroding-institutions-for-collective-action",
+    "title": "Breakdown in Pakistan: How Aid Is Eroding Institutions for Collective Action",
+    "wordCount": 8305,
+    "txtFile": "021.txt"
+  },
+  {
+    "id": "022",
+    "slug": "bronze-age-mindset-an-exhortation",
+    "title": "Bronze Age Mindset: An Exhortation",
+    "wordCount": 9269,
+    "txtFile": "022.txt"
+  },
+  {
+    "id": "023",
+    "slug": "brook-farm-the-dark-side-of-utopia",
+    "title": "Brook Farm: The Dark Side of Utopia",
+    "wordCount": 15540,
+    "txtFile": "023.txt"
+  },
+  {
+    "id": "024",
+    "slug": "candide",
+    "title": "Candide",
+    "wordCount": 2543,
+    "txtFile": "024.txt"
+  },
+  {
+    "id": "025",
+    "slug": "capitalist-realism",
+    "title": "Capitalist Realism",
+    "wordCount": 6519,
+    "txtFile": "025.txt"
+  },
+  {
+    "id": "026",
+    "slug": "careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism",
+    "title": "Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism",
+    "wordCount": 6080,
+    "txtFile": "026.txt"
+  },
+  {
+    "id": "027",
+    "slug": "catullus-16",
+    "title": "Catullus 16",
+    "wordCount": 4242,
+    "txtFile": "027.txt"
+  },
+  {
+    "id": "028",
+    "slug": "chuang-tzu-the-inner-chapters-by-a-c-graham",
+    "title": "Chuang-Tzu: The Inner Chapters by A. C. Graham",
+    "wordCount": 7332,
+    "txtFile": "028.txt"
+  },
+  {
+    "id": "029",
+    "slug": "collected-poems-by-cs-lewis",
+    "title": "Collected Poems by C.S. Lewis",
+    "wordCount": 3843,
+    "txtFile": "029.txt"
+  },
+  {
+    "id": "030",
+    "slug": "coriolanus",
+    "title": "Coriolanus",
+    "wordCount": 27587,
+    "txtFile": "030.txt"
+  },
+  {
+    "id": "031",
+    "slug": "cry-havoc",
+    "title": "Cry Havoc",
+    "wordCount": 7274,
+    "txtFile": "031.txt"
+  },
+  {
+    "id": "032",
+    "slug": "cultural-evolution",
+    "title": "Cultural Evolution",
+    "wordCount": 6587,
+    "txtFile": "032.txt"
+  },
+  {
+    "id": "033",
+    "slug": "der-untergang-des-abendlandes",
+    "title": "Der Untergang des Abendlandes",
+    "wordCount": 6531,
+    "txtFile": "033.txt"
+  },
+  {
+    "id": "034",
+    "slug": "dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed",
+    "title": "Dictator Book Club: Yoweri Museveni’s Sowing The Mustard Seed",
+    "wordCount": 6651,
+    "txtFile": "034.txt"
+  },
+  {
+    "id": "035",
+    "slug": "dont-bang-denmark",
+    "title": "Don't Bang Denmark",
+    "wordCount": 3304,
+    "txtFile": "035.txt"
+  },
+  {
+    "id": "036",
+    "slug": "dream-of-the-red-chamber",
+    "title": "Dream of the Red Chamber",
+    "wordCount": 4619,
+    "txtFile": "036.txt"
+  },
+  {
+    "id": "037",
+    "slug": "earth-abides",
+    "title": "Earth Abides",
+    "wordCount": 2518,
+    "txtFile": "037.txt"
+  },
+  {
+    "id": "038",
+    "slug": "fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states",
+    "title": "Fairness and Freedom: A History of Two Open Societies, New Zealand and the United States",
+    "wordCount": 9655,
+    "txtFile": "038.txt"
+  },
+  {
+    "id": "039",
+    "slug": "fear-and-trembling",
+    "title": "Fear and Trembling",
+    "wordCount": 3577,
+    "txtFile": "039.txt"
+  },
+  {
+    "id": "040",
+    "slug": "free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review",
+    "title": "Free Agents by Kevin Mitchell and Determined by Robert Sapolsky (a comparative review)",
+    "wordCount": 3605,
+    "txtFile": "040.txt"
+  },
+  {
+    "id": "041",
+    "slug": "from-here-to-equality",
+    "title": "From Here to Equality",
+    "wordCount": 9874,
+    "txtFile": "041.txt"
+  },
+  {
+    "id": "042",
+    "slug": "galileos-error",
+    "title": "Galileo's error",
+    "wordCount": 6372,
+    "txtFile": "042.txt"
+  },
+  {
+    "id": "043",
+    "slug": "ghosts",
+    "title": "Ghosts",
+    "wordCount": 5234,
+    "txtFile": "043.txt"
+  },
+  {
+    "id": "044",
+    "slug": "gilead",
+    "title": "Gilead",
+    "wordCount": 3716,
+    "txtFile": "044.txt"
+  },
+  {
+    "id": "045",
+    "slug": "great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness",
+    "title": "Great and Desperate Cures: The Rise and Decline of Psychosurgery and Other Radical Treatments for Mental Illness",
+    "wordCount": 19191,
+    "txtFile": "045.txt"
+  },
+  {
+    "id": "046",
+    "slug": "harrison-bergeron",
+    "title": "Harrison Bergeron",
+    "wordCount": 6101,
+    "txtFile": "046.txt"
+  },
+  {
+    "id": "047",
+    "slug": "headbirths-of-the-germans-are-dying-out-by-gunter-grass",
+    "title": "Headbirths of The Germans are Dying Out by Gunter Grass",
+    "wordCount": 4023,
+    "txtFile": "047.txt"
+  },
+  {
+    "id": "048",
+    "slug": "house-of-leaves",
+    "title": "House Of Leaves",
+    "wordCount": 1520,
+    "txtFile": "048.txt"
+  },
+  {
+    "id": "049",
+    "slug": "how-i-killed-pluto-and-why-it-had-it-coming",
+    "title": "How I Killed Pluto and Why It Had It Coming",
+    "wordCount": 12733,
+    "txtFile": "049.txt"
+  },
+  {
+    "id": "050",
+    "slug": "how-to-prevent-coups-dtat",
+    "title": "How to Prevent Coups d’État",
+    "wordCount": 3262,
+    "txtFile": "050.txt"
+  },
+  {
+    "id": "051",
+    "slug": "imagined-communities-relfections-on-the-origin-and-spread-of-nationalism",
+    "title": "Imagined Communities: Relfections on the Origin and Spread of Nationalism",
+    "wordCount": 4511,
+    "txtFile": "051.txt"
+  },
+  {
+    "id": "052",
+    "slug": "into-the-universe-of-technical-images",
+    "title": "Into the Universe of Technical Images",
+    "wordCount": 3131,
+    "txtFile": "052.txt"
+  },
+  {
+    "id": "053",
+    "slug": "inventing-temperature",
+    "title": "Inventing Temperature",
+    "wordCount": 5151,
+    "txtFile": "053.txt"
+  },
+  {
+    "id": "054",
+    "slug": "invisible-cities-and-life-a-users-manual",
+    "title": "Invisible Cities and Life: A User's Manual",
+    "wordCount": 5302,
+    "txtFile": "054.txt"
+  },
+  {
+    "id": "055",
+    "slug": "kakistocracy-by-richard-hanania",
+    "title": "Kakistocracy, by Richard Hanania",
+    "wordCount": 9355,
+    "txtFile": "055.txt"
+  },
+  {
+    "id": "056",
+    "slug": "kindness-goes-unpunished",
+    "title": "Kindness Goes Unpunished",
+    "wordCount": 351,
+    "txtFile": "056.txt"
+  },
+  {
+    "id": "057",
+    "slug": "king-rat",
+    "title": "King Rat",
+    "wordCount": 2939,
+    "txtFile": "057.txt"
+  },
+  {
+    "id": "058",
+    "slug": "kristin-lavransdatter",
+    "title": "Kristin Lavransdatter",
+    "wordCount": 9684,
+    "txtFile": "058.txt"
+  },
+  {
+    "id": "059",
+    "slug": "lee-kuan-yews-memoirs",
+    "title": "Lee Kuan Yew’s Memoirs",
+    "wordCount": 7353,
+    "txtFile": "059.txt"
+  },
+  {
+    "id": "060",
+    "slug": "leviathan",
+    "title": "Leviathan",
+    "wordCount": 4561,
+    "txtFile": "060.txt"
+  },
+  {
+    "id": "061",
+    "slug": "meeting-hardly-meeting",
+    "title": "Meeting, Hardly Meeting",
+    "wordCount": 5553,
+    "txtFile": "061.txt"
+  },
+  {
+    "id": "062",
+    "slug": "mistletoe-and-memorandums-by-claude",
+    "title": "\"Mistletoe and Memorandums\" by Claude",
+    "wordCount": 10428,
+    "txtFile": "062.txt"
+  },
+  {
+    "id": "063",
+    "slug": "moby-dick-or-the-whale",
+    "title": "Moby-Dick; or, The Whale",
+    "wordCount": 5317,
+    "txtFile": "063.txt"
+  },
+  {
+    "id": "064",
+    "slug": "money-by-martin-amis",
+    "title": "Money by Martin Amis",
+    "wordCount": 6414,
+    "txtFile": "064.txt"
+  },
+  {
+    "id": "065",
+    "slug": "montaillou-cathars-and-catholics-in-a-french-village-1294-1324",
+    "title": "Montaillou: Cathars and Catholics in a French Village, 1294-1324",
+    "wordCount": 5442,
+    "txtFile": "065.txt"
+  },
+  {
+    "id": "066",
+    "slug": "moral-tribes",
+    "title": "Moral Tribes",
+    "wordCount": 2923,
+    "txtFile": "066.txt"
+  },
+  {
+    "id": "067",
+    "slug": "more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby",
+    "title": "More Money Than God: Hedge Funds and the Making of a New Elite, by Sebastian Mallaby",
+    "wordCount": 16783,
+    "txtFile": "067.txt"
+  },
+  {
+    "id": "068",
+    "slug": "mother-of-learning",
+    "title": "Mother of Learning",
+    "wordCount": 5858,
+    "txtFile": "068.txt"
+  },
+  {
+    "id": "069",
+    "slug": "night-by-elie-wiesel",
+    "title": "Night by Elie Wiesel",
+    "wordCount": 4681,
+    "txtFile": "069.txt"
+  },
+  {
+    "id": "070",
+    "slug": "orality-and-literacy-by-walter-ong",
+    "title": "Orality and Literacy by Walter Ong",
+    "wordCount": 6980,
+    "txtFile": "070.txt"
+  },
+  {
+    "id": "071",
+    "slug": "painting-abstract-landscapes",
+    "title": "Painting Abstract Landscapes",
+    "wordCount": 7196,
+    "txtFile": "071.txt"
+  },
+  {
+    "id": "072",
+    "slug": "parfit-a-philosopher-and-his-mission-to-save-morality",
+    "title": "Parfit: A Philosopher and his Mission to Save Morality",
+    "wordCount": 16812,
+    "txtFile": "072.txt"
+  },
+  {
+    "id": "073",
+    "slug": "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue",
+    "title": "Patrocleia. Book XVI of Homer’s Iliad, adapted by Christopher Logue",
+    "wordCount": 2137,
+    "txtFile": "073.txt"
+  },
+  {
+    "id": "074",
+    "slug": "persuasion-of-the-witchs-craft-and-when-god-talks-back",
+    "title": "\"Persuasion of the Witch's Craft\" and \"When God Talks Back\"",
+    "wordCount": 8328,
+    "txtFile": "074.txt"
+  },
+  {
+    "id": "075",
+    "slug": "pharmaceutical-freedom-why-patients-have-a-right-to-self-medicate",
+    "title": "Pharmaceutical Freedom: Why Patients Have a Right to Self-Medicate",
+    "wordCount": 6339,
+    "txtFile": "075.txt"
+  },
+  {
+    "id": "076",
+    "slug": "planecrash-es-yudwkosky",
+    "title": "planecrash – E.S. Yudwkosky",
+    "wordCount": 5176,
+    "txtFile": "076.txt"
+  },
+  {
+    "id": "077",
+    "slug": "plotting-your-fantasy-novel",
+    "title": "Plotting Your Fantasy Novel",
+    "wordCount": 5348,
+    "txtFile": "077.txt"
+  },
+  {
+    "id": "078",
+    "slug": "plutarchs-parallel-lives-tiberius-and-gaius-gracchi",
+    "title": "Plutarchs' Parallel Lives - Tiberius and Gaius Gracchi",
+    "wordCount": 5082,
+    "txtFile": "078.txt"
+  },
+  {
+    "id": "079",
+    "slug": "prior-analytics",
+    "title": "Prior Analytics",
+    "wordCount": 8149,
+    "txtFile": "079.txt"
+  },
+  {
+    "id": "080",
+    "slug": "probability-theory-the-logic-of-science",
+    "title": "Probability Theory: The Logic of Science",
+    "wordCount": 3894,
+    "txtFile": "080.txt"
+  },
+  {
+    "id": "081",
+    "slug": "progressive-myths",
+    "title": "Progressive Myths",
+    "wordCount": 6067,
+    "txtFile": "081.txt"
+  },
+  {
+    "id": "082",
+    "slug": "radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear",
+    "title": "Radical Hope: Ethics in the Face of Cultural Devastation by Jonathan Lear",
+    "wordCount": 9692,
+    "txtFile": "082.txt"
+  },
+  {
+    "id": "083",
+    "slug": "religion-for-atheists",
+    "title": "Religion for Atheists",
+    "wordCount": 5654,
+    "txtFile": "083.txt"
+  },
+  {
+    "id": "084",
+    "slug": "richard-c-schwartzs-no-bad-parts",
+    "title": "Richard C. Schwartz's \"No Bad Parts\"",
+    "wordCount": 4782,
+    "txtFile": "084.txt"
+  },
+  {
+    "id": "085",
+    "slug": "scenebux-a-novel",
+    "title": "Scenebux: A Novel",
+    "wordCount": 1931,
+    "txtFile": "085.txt"
+  },
+  {
+    "id": "086",
+    "slug": "seeing-that-frees",
+    "title": "Seeing That Frees",
+    "wordCount": 2947,
+    "txtFile": "086.txt"
+  },
+  {
+    "id": "087",
+    "slug": "siddhartha-1922-by-hermann-hesse",
+    "title": "Siddhartha (1922) by Hermann Hesse",
+    "wordCount": 4063,
+    "txtFile": "087.txt"
+  },
+  {
+    "id": "088",
+    "slug": "stabilizing-an-unstable-economy",
+    "title": "Stabilizing an Unstable Economy",
+    "wordCount": 8206,
+    "txtFile": "088.txt"
+  },
+  {
+    "id": "089",
+    "slug": "storm-of-steel",
+    "title": "Storm of Steel",
+    "wordCount": 8538,
+    "txtFile": "089.txt"
+  },
+  {
+    "id": "090",
+    "slug": "summa-technologiae",
+    "title": "Summa Technologiae",
+    "wordCount": 6790,
+    "txtFile": "090.txt"
+  },
+  {
+    "id": "091",
+    "slug": "that-hideous-strength",
+    "title": "That Hideous Strength",
+    "wordCount": 16710,
+    "txtFile": "091.txt"
+  },
+  {
+    "id": "092",
+    "slug": "the-affluent-society-by-john-kenneth-galbraith",
+    "title": "The Affluent Society by John Kenneth Galbraith",
+    "wordCount": 5829,
+    "txtFile": "092.txt"
+  },
+  {
+    "id": "093",
+    "slug": "the-bible",
+    "title": "The Bible",
+    "wordCount": 339,
+    "txtFile": "093.txt"
+  },
+  {
+    "id": "094",
+    "slug": "the-book-of-abraham",
+    "title": "The Book of Abraham.",
+    "wordCount": 14120,
+    "txtFile": "094.txt"
+  },
+  {
+    "id": "095",
+    "slug": "the-brothers-karamazov",
+    "title": "The Brothers Karamazov",
+    "wordCount": 1151,
+    "txtFile": "095.txt"
+  },
+  {
+    "id": "096",
+    "slug": "the-cambridge-introduction-to-jacques-lacan",
+    "title": "The Cambridge Introduction to Jacques Lacan",
+    "wordCount": 3498,
+    "txtFile": "096.txt"
+  },
+  {
+    "id": "097",
+    "slug": "the-campaigns-of-napoleon",
+    "title": "The Campaigns of Napoleon",
+    "wordCount": 2385,
+    "txtFile": "097.txt"
+  },
+  {
+    "id": "098",
+    "slug": "the-carnation-revolution",
+    "title": "The Carnation Revolution",
+    "wordCount": 10395,
+    "txtFile": "098.txt"
+  },
+  {
+    "id": "099",
+    "slug": "the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe",
+    "title": "The Disciplinary Revolution: Calvinism and the Rise of the State in Early Modern Europe",
+    "wordCount": 5235,
+    "txtFile": "099.txt"
+  },
+  {
+    "id": "100",
+    "slug": "the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm",
+    "title": "The Empyrean Series: Fourth Wing, Iron Flame, and Onyx Storm",
+    "wordCount": 7952,
+    "txtFile": "100.txt"
+  },
+  {
+    "id": "101",
+    "slug": "the-end-of-history-and-the-last-man",
+    "title": "The End of History and the Last Man",
+    "wordCount": 3996,
+    "txtFile": "101.txt"
+  },
+  {
+    "id": "102",
+    "slug": "the-epic-of-gilgamesh",
+    "title": "The Epic of Gilgamesh",
+    "wordCount": 11835,
+    "txtFile": "102.txt"
+  },
+  {
+    "id": "103",
+    "slug": "the-escape-artist",
+    "title": "The Escape Artist",
+    "wordCount": 7734,
+    "txtFile": "103.txt"
+  },
+  {
+    "id": "104",
+    "slug": "the-evolution-of-cooperation-by-robert-axelrod",
+    "title": "The Evolution of Cooperation (by Robert Axelrod)",
+    "wordCount": 2569,
+    "txtFile": "104.txt"
+  },
+  {
+    "id": "105",
+    "slug": "the-evolution-of-desire-by-david-buss",
+    "title": "The Evolution of Desire by David Buss",
+    "wordCount": 3781,
+    "txtFile": "105.txt"
+  },
+  {
+    "id": "106",
+    "slug": "the-fourth-sword",
+    "title": "The Fourth Sword",
+    "wordCount": 5495,
+    "txtFile": "106.txt"
+  },
+  {
+    "id": "107",
+    "slug": "the-full-facts-book-of-cold-reading",
+    "title": "The Full Facts Book Of Cold Reading",
+    "wordCount": 5944,
+    "txtFile": "107.txt"
+  },
+  {
+    "id": "108",
+    "slug": "the-ghost-in-my-brain",
+    "title": "The Ghost In My Brain",
+    "wordCount": 4193,
+    "txtFile": "108.txt"
+  },
+  {
+    "id": "109",
+    "slug": "the-gods-themselves",
+    "title": "The Gods Themselves",
+    "wordCount": 2419,
+    "txtFile": "109.txt"
+  },
+  {
+    "id": "110",
+    "slug": "the-hero-in-history",
+    "title": "The Hero in History",
+    "wordCount": 5816,
+    "txtFile": "110.txt"
+  },
+  {
+    "id": "111",
+    "slug": "the-history-and-adventures-of-an-atom-by-tobias-smollett",
+    "title": "The History and Adventures of an Atom by Tobias Smollett",
+    "wordCount": 6004,
+    "txtFile": "111.txt"
+  },
+  {
+    "id": "112",
+    "slug": "the-holy-quran",
+    "title": "The Holy Quran",
+    "wordCount": 5740,
+    "txtFile": "112.txt"
+  },
+  {
+    "id": "113",
+    "slug": "the-inhabited-island",
+    "title": "The Inhabited Island",
+    "wordCount": 2813,
+    "txtFile": "113.txt"
+  },
+  {
+    "id": "114",
+    "slug": "the-invention-of-science-a-new-history-of-the-scientific-revolution",
+    "title": "The Invention of Science: A New History of the Scientific Revolution",
+    "wordCount": 2451,
+    "txtFile": "114.txt"
+  },
+  {
+    "id": "115",
+    "slug": "the-knowledge-machine",
+    "title": "The Knowledge Machine",
+    "wordCount": 8431,
+    "txtFile": "115.txt"
+  },
+  {
+    "id": "116",
+    "slug": "the-last-temptation-of-christ",
+    "title": "The Last Temptation of Christ",
+    "wordCount": 571,
+    "txtFile": "116.txt"
+  },
+  {
+    "id": "117",
+    "slug": "the-lever-of-riches",
+    "title": "The Lever of Riches",
+    "wordCount": 11554,
+    "txtFile": "117.txt"
+  },
+  {
+    "id": "118",
+    "slug": "the-life-changing-magic-of-tidying-up",
+    "title": "The Life-Changing Magic of Tidying Up",
+    "wordCount": 5610,
+    "txtFile": "118.txt"
+  },
+  {
+    "id": "119",
+    "slug": "the-man-who-was-thursday",
+    "title": "The Man Who Was Thursday",
+    "wordCount": 12277,
+    "txtFile": "119.txt"
+  },
+  {
+    "id": "120",
+    "slug": "the-marriage-of-cadmus-and-harmony",
+    "title": "The Marriage of Cadmus and Harmony",
+    "wordCount": 8780,
+    "txtFile": "120.txt"
+  },
+  {
+    "id": "121",
+    "slug": "the-master-margarita",
+    "title": "The Master & Margarita",
+    "wordCount": 3783,
+    "txtFile": "121.txt"
+  },
+  {
+    "id": "122",
+    "slug": "the-merry-wives-of-windsor",
+    "title": "The Merry Wives of Windsor",
+    "wordCount": 7800,
+    "txtFile": "122.txt"
+  },
+  {
+    "id": "123",
+    "slug": "the-mind-is-flat-by-nick-chater",
+    "title": "The Mind is Flat by Nick Chater",
+    "wordCount": 7043,
+    "txtFile": "123.txt"
+  },
+  {
+    "id": "124",
+    "slug": "the-northern-caves",
+    "title": "The Northern Caves",
+    "wordCount": 4843,
+    "txtFile": "124.txt"
+  },
+  {
+    "id": "125",
+    "slug": "the-overstory",
+    "title": "The Overstory",
+    "wordCount": 3856,
+    "txtFile": "125.txt"
+  },
+  {
+    "id": "126",
+    "slug": "the-pictures-of-socialist-future",
+    "title": "The Pictures of Socialist Future",
+    "wordCount": 5864,
+    "txtFile": "126.txt"
+  },
+  {
+    "id": "127",
+    "slug": "the-pillow-book",
+    "title": "The Pillow Book",
+    "wordCount": 5462,
+    "txtFile": "127.txt"
+  },
+  {
+    "id": "128",
+    "slug": "the-pre-training-data",
+    "title": "The Pre-Training Data",
+    "wordCount": 3065,
+    "txtFile": "128.txt"
+  },
+  {
+    "id": "129",
+    "slug": "the-radicalism-of-the-american-revolution",
+    "title": "The Radicalism of the American Revolution",
+    "wordCount": 7634,
+    "txtFile": "129.txt"
+  },
+  {
+    "id": "130",
+    "slug": "the-red-queen",
+    "title": "The Red Queen",
+    "wordCount": 7895,
+    "txtFile": "130.txt"
+  },
+  {
+    "id": "131",
+    "slug": "the-rule-of-law",
+    "title": "The Rule of Law",
+    "wordCount": 2877,
+    "txtFile": "131.txt"
+  },
+  {
+    "id": "132",
+    "slug": "the-science-of-second-chances",
+    "title": "The Science of Second Chances",
+    "wordCount": 7802,
+    "txtFile": "132.txt"
+  },
+  {
+    "id": "133",
+    "slug": "the-short-swift-time-of-gods-on-earth",
+    "title": "The Short, Swift Time of Gods on Earth",
+    "wordCount": 9954,
+    "txtFile": "133.txt"
+  },
+  {
+    "id": "134",
+    "slug": "the-sins-of-gk-chesterton",
+    "title": "The Sins of GK Chesterton",
+    "wordCount": 7734,
+    "txtFile": "134.txt"
+  },
+  {
+    "id": "135",
+    "slug": "the-son-also-rises",
+    "title": "The Son Also Rises",
+    "wordCount": 7586,
+    "txtFile": "135.txt"
+  },
+  {
+    "id": "136",
+    "slug": "the-sovereign-child",
+    "title": "The Sovereign Child",
+    "wordCount": 8980,
+    "txtFile": "136.txt"
+  },
+  {
+    "id": "137",
+    "slug": "the-sun-also-rises",
+    "title": "The Sun Also Rises",
+    "wordCount": 1512,
+    "txtFile": "137.txt"
+  },
+  {
+    "id": "138",
+    "slug": "the-tale-of-genji",
+    "title": "The Tale of Genji",
+    "wordCount": 9850,
+    "txtFile": "138.txt"
+  },
+  {
+    "id": "139",
+    "slug": "the-war-nerd-iliad",
+    "title": "The War Nerd Iliad",
+    "wordCount": 4503,
+    "txtFile": "139.txt"
+  },
+  {
+    "id": "140",
+    "slug": "the-waves",
+    "title": "The Waves",
+    "wordCount": 4631,
+    "txtFile": "140.txt"
+  },
+  {
+    "id": "141",
+    "slug": "the-wisdom-of-mike-mentzer",
+    "title": "The Wisdom of Mike Mentzer",
+    "wordCount": 6806,
+    "txtFile": "141.txt"
+  },
+  {
+    "id": "142",
+    "slug": "theodicy",
+    "title": "Theodicy",
+    "wordCount": 5061,
+    "txtFile": "142.txt"
+  },
+  {
+    "id": "143",
+    "slug": "there-is-no-antimemetics-division",
+    "title": "There Is No Antimemetics division",
+    "wordCount": 4516,
+    "txtFile": "143.txt"
+  },
+  {
+    "id": "144",
+    "slug": "this-is-going-to-hurt",
+    "title": "This is Going to Hurt",
+    "wordCount": 12475,
+    "txtFile": "144.txt"
+  },
+  {
+    "id": "145",
+    "slug": "thomas-urquharts-translation-of-rabelais",
+    "title": "Thomas Urquhart's Translation of Rabelais",
+    "wordCount": 4604,
+    "txtFile": "145.txt"
+  },
+  {
+    "id": "146",
+    "slug": "tiger-chair",
+    "title": "Tiger Chair",
+    "wordCount": 1255,
+    "txtFile": "146.txt"
+  },
+  {
+    "id": "147",
+    "slug": "time-gifts",
+    "title": "Time Gifts",
+    "wordCount": 4931,
+    "txtFile": "147.txt"
+  },
+  {
+    "id": "148",
+    "slug": "timefulness",
+    "title": "Timefulness",
+    "wordCount": 2744,
+    "txtFile": "148.txt"
+  },
+  {
+    "id": "149",
+    "slug": "tortilla-flat-by-john-steinbeck",
+    "title": "Tortilla Flat by John Steinbeck",
+    "wordCount": 5962,
+    "txtFile": "149.txt"
+  },
+  {
+    "id": "150",
+    "slug": "traces-erased-by-the-sun",
+    "title": "Traces Erased by the Sun",
+    "wordCount": 3580,
+    "txtFile": "150.txt"
+  },
+  {
+    "id": "151",
+    "slug": "trip-sitting-the-art-and-science-of-holding-psychedelic-space",
+    "title": "Trip Sitting: The Art and Science of Holding Psychedelic Space",
+    "wordCount": 1108,
+    "txtFile": "151.txt"
+  },
+  {
+    "id": "152",
+    "slug": "unforgiving-places-the-unexpected-origins-of-american-gun-violence",
+    "title": "Unforgiving Places: The Unexpected Origins of American Gun Violence",
+    "wordCount": 2397,
+    "txtFile": "152.txt"
+  },
+  {
+    "id": "153",
+    "slug": "venomous-lumpsucker",
+    "title": "Venomous Lumpsucker",
+    "wordCount": 2456,
+    "txtFile": "153.txt"
+  },
+  {
+    "id": "154",
+    "slug": "violence-and-the-sacred",
+    "title": "Violence and the Sacred",
+    "wordCount": 13882,
+    "txtFile": "154.txt"
+  },
+  {
+    "id": "155",
+    "slug": "we-present-television",
+    "title": "We Present Television",
+    "wordCount": 9198,
+    "txtFile": "155.txt"
+  },
+  {
+    "id": "156",
+    "slug": "weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse",
+    "title": "We've Had a Hundred Years of Psychotherapy and the World's Getting Worse",
+    "wordCount": 2043,
+    "txtFile": "156.txt"
+  },
+  {
+    "id": "157",
+    "slug": "what-is-real",
+    "title": "What is Real?",
+    "wordCount": 10106,
+    "txtFile": "157.txt"
+  },
+  {
+    "id": "158",
+    "slug": "why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley",
+    "title": "Why Greatness Cannot Be Planned, by Joel Lehman and Kenneth Stanley",
+    "wordCount": 5267,
+    "txtFile": "158.txt"
+  },
+  {
+    "id": "159",
+    "slug": "wild-wise-weird",
+    "title": "Wild Wise Weird",
+    "wordCount": 1508,
+    "txtFile": "159.txt"
+  },
+  {
+    "id": "160",
+    "slug": "works-by-isaac-bickerstaff",
+    "title": "Works By Isaac Bickerstaff",
+    "wordCount": 7380,
+    "txtFile": "160.txt"
+  },
+  {
+    "id": "161",
+    "slug": "world-war-z",
+    "title": "World War Z",
+    "wordCount": 3559,
+    "txtFile": "161.txt"
+  },
+  {
+    "id": "162",
+    "slug": "undertook-learn-russian-about-ten-years",
+    "title": "Бесы",
+    "wordCount": 4801,
+    "txtFile": "162.txt"
+  }
+]

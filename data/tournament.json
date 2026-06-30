@@ -1,0 +1,789 @@
+{
+ "research": {
+  "winners": [
+   {
+    "year": 2021,
+    "title": "Progress and Poverty (reviewed by Lars Doucet)",
+    "note": "Contest began on SSC in 2020, concluded on ACX. ~20,600 words; revived Georgism for a modern audience with running jokes ('By George!') and Magic: the Gathering analogies. 2nd: Down and Out in Paris and London (Whimsi); 3rd: On the Natural Faculties (ELP); Readers' Choice: Disunited Nations vs. Dawn of Eurasia (Misha Saul)."
+   },
+   {
+    "year": 2022,
+    "title": "The Dawn of Everything (reviewed by Erik Hoel)",
+    "note": "Only ~9,500 words \u2014 short for a winner. Won by arguing WITH the famous book: accused Graeber & Wengrow of politicized scholarship and proposed an original theory, the 'gossip trap,' to resolve the Sapient Paradox; ended by admitting his own theory is also politically convenient. 2nd: 1587, A Year of No Significance (McClain); 3rd three-way tie: The Castrato, The Future of Fusion Energy, The Internationalists. Memorable finalists: Consciousness and the Brain, The Outlier ('made Jimmy Carter interesting')."
+   },
+   {
+    "year": 2023,
+    "title": "The Educated Mind (reviewed by Brandon Hendrickson)",
+    "note": "~25,000 words with Q&A scaffolding, diagrams, and confessional teacher's voice; original thesis that schools fail by pursuing three incompatible missions. Scott Alexander's own pseudonymous Njal's Saga review got the most votes but he disqualified himself; his second decoy entry placed 37th. 2nd: On the Marble Cliffs (Daniel B\u00f6ttger); 3rd: Cities and the Wealth of Nations (\u00c9tienne Fortier-Dubois). 156 entries."
+   },
+   {
+    "year": 2024,
+    "title": "Two Arms and a Head (reviewed by AmandaFromBethlehem)",
+    "note": "~5,500-word review of an obscure self-published memoir/suicide note by a paralyzed philosophy student. Unflinching, steelmanned the disability-rights opposition, and ended with raw personal payoff ('...and went for a very long walk'). 2nd: Nine Lives (David Matolcsi); 3rd: How the War Was Won (Jack Thorlin). Memorable finalists: Real Raw News (Blake Neff), Silver Age Marvel Comics, The Pale King."
+   },
+   {
+    "year": 2025,
+    "title": "Joan of Arc (Non-Book Review Contest, by William Friedman)",
+    "note": "Format changed to reviewing anything except a book; contest now alternates yearly. 2nd: Alpha School (Edward Nevraumont, drew 700+ comments); 3rd: The Russo-Ukrainian War (Gallow, withheld from publication for sensitivity). Reader-favorite honorable mention: 'Red Means No Orgies' (Eneasz Brodski). Memorable finalists reviewed the ACX commentariat, dating men in the Bay Area, and instant mashed potatoes."
+   }
+  ],
+  "themes": [
+   "Springboard thesis: every winner contributes an original idea NOT in the book \u2014 Hoel's 'gossip trap' theory of prehistory, Doucet's Georgist diagnosis of the modern housing crisis, Hendrickson's 'three incompatible missions' theory of schooling. The book is raw material; the review is the reviewer's own essay.",
+   "Obscure or unexpected book choice: an 1879 economics tract, a self-published suicide memoir, a Ming-dynasty microhistory of one uneventful year. When a famous/zeitgeist book wins (The Dawn of Everything), it's because the reviewer fights it rather than echoes it.",
+   "Length is an asset, not a liability: winners ran 5,500\u201325,000 words, mostly 10k+. ACX readers love long reviews \u2014 provided every section delivers new information or advances the argument.",
+   "Distinctive voice and humor: running gags, pop-culture analogies (Magic: the Gathering, Elder Gods, rom-com montages), confessional asides, Q&A games with the reader. Conversational register wrapped around rigorous content \u2014 but pastiche of Scott's style reads as counterfeit.",
+   "Epistemic honesty and steelmanning: winners disagree with their book somewhere, present the strongest opposing case (Two Arms genuinely engaging the disability-rights position), and admit their own biases (Hoel confessing his theory is politically motivated too).",
+   "High 'huh, I never knew that' density: surprising facts woven into the argument's load-bearing structure rather than listed as trivia.",
+   "Personal stake and emotional payoff: reviewers are often obsessives or domain insiders (a Georgist, a teacher, a military consultant), and the ending lands \u2014 catharsis, vindication, or an honest unresolved ache \u2014 rather than trailing off into 'in conclusion, a worthwhile read.'",
+   "Progressive scaffolding: hook openings (a question, a scene, a death \u2014 never publication metadata), clear headers, ideas built in stages so a layperson can follow specialist material; summary, critique, and original ideas all present."
+  ],
+  "antiPatterns": [
+   "Book report structure: chapter-by-chapter summary with no thesis of the reviewer's own \u2014 informative but forgettable; if you delete every sentence restating the book, nothing remains.",
+   "Credulity: relaying the book's speculative claims without critical examination, falsification attempts, or acknowledgment of counterarguments.",
+   "No context-building for niche topics: assuming the reader already cares about the subfield instead of earning their interest in the first 500 words.",
+   "Wall-of-text formatting: long without scaffolding \u2014 no headers, no progressive structure, no games with the reader.",
+   "Famous book + consensus take: reviewing 1984 to conclude surveillance is bad adds nothing a reader couldn't get from the back cover.",
+   "Forcing insight from an unsuitable book: if the book yields no genuine intellectual breakthrough, the deck is stacked against you from the start.",
+   "Deliberate Scott Alexander imitation: borrowed parentheticals and irony without an authentic underlying voice.",
+   "Throat-clearing openings: starting with author bio, publication year, and 'this book is divided into twelve chapters.'",
+   "Axe-grinding: hot-button political advocacy without self-awareness (Scott noted politically charged entries fared worse in finalist selection); hedged blandness is the opposite failure \u2014 no stakes, nothing risked.",
+   "No ending: trailing off after the summary instead of paying off the opening's promise emotionally or intellectually."
+  ],
+  "brief": "You are not judging books; you are judging essays that happen to wear a book as a costume. ACX readers crown the review they cannot stop forwarding to friends, and five years of contests show what that looks like.\n\nFirst, the decisive test: does the reviewer have an idea of their own? Every winner smuggled in an original thesis absent from the book \u2014 a new theory of why civilization took 90,000 years (the 'gossip trap'), a 140-year-old land tax reframed as the answer to today's housing crisis, a diagnosis of why schools fail. Delete every sentence that merely restates the book; if no essay remains, the review cannot win, however polished.\n\nSecond, interestingness per page. Count the 'huh, I never knew that' moments and check whether they bear weight in an argument or just sit there as trivia. Long is fine \u2014 winners run 5,500 to 25,000 words and readers love length \u2014 but only if every section delivers. Penalize padding, never ambition.\n\nThird, book choice as alpha. An obscure book made to matter (a self-published suicide memoir, a Ming microhistory) beats a famous book summarized. A famous book is only viable if the reviewer fights it: the Dawn of Everything review won by accusing its authors of the sin they condemned.\n\nFourth, voice. Reward running jokes, pop-culture analogies that genuinely clarify, confessional asides, a human being audibly present. Punish pastiche of Scott and punish blandness equally.\n\nFifth, epistemic manners. The winner disagrees with the book somewhere, steelmans the strongest opposing view, and confesses their own bias \u2014 Hoel ended by admitting his theory was politically convenient too. Credulous relay of the book's claims is disqualifying.\n\nSixth, arc. The opening must hook within two sentences \u2014 a question, a scene, a corpse, never publication metadata. The ending must land: catharsis, vindication, or honest unresolved weight ('I shut my computer... and went for a very long walk'). 'In conclusion, worth reading' is a forfeit.\n\nWhen two reviews tie on craft, prefer the one that risks more: the weirder book, the bolder thesis, the more naked personal stake. The mortal sins are the book report, the Wikipedia summary, and the review with nothing its author actually believes."
+ },
+ "standings": [
+  {
+   "id": "021",
+   "title": "Breakdown in Pakistan: How Aid Is Eroding Institutions for Collective Action",
+   "points": 12,
+   "firsts": 3,
+   "seed": 0
+  },
+  {
+   "id": "031",
+   "title": "Cry Havoc",
+   "points": 12,
+   "firsts": 3,
+   "seed": 34
+  },
+  {
+   "id": "041",
+   "title": "From Here to Equality",
+   "points": 11,
+   "firsts": 2,
+   "seed": 1
+  },
+  {
+   "id": "133",
+   "title": "The Short, Swift Time of Gods on Earth",
+   "points": 11,
+   "firsts": 2,
+   "seed": 2
+  },
+  {
+   "id": "018",
+   "title": "Bellum Catilinae -- The Catiline Conspiracy",
+   "points": 11,
+   "firsts": 2,
+   "seed": 4
+  },
+  {
+   "id": "136",
+   "title": "The Sovereign Child",
+   "points": 10,
+   "firsts": 2,
+   "seed": 14
+  },
+  {
+   "id": "034",
+   "title": "Dictator Book Club: Yoweri Museveni\u2019s Sowing The Mustard Seed",
+   "points": 10,
+   "firsts": 1,
+   "seed": 16
+  },
+  {
+   "id": "070",
+   "title": "Orality and Literacy by Walter Ong",
+   "points": 10,
+   "firsts": 1,
+   "seed": 17
+  },
+  {
+   "id": "090",
+   "title": "Summa Technologiae",
+   "points": 10,
+   "firsts": 1,
+   "seed": 19
+  },
+  {
+   "id": "089",
+   "title": "Storm of Steel",
+   "points": 10,
+   "firsts": 1,
+   "seed": 24
+  },
+  {
+   "id": "094",
+   "title": "The Book of Abraham.",
+   "points": 10,
+   "firsts": 1,
+   "seed": 25
+  },
+  {
+   "id": "096",
+   "title": "The Cambridge Introduction to Jacques Lacan",
+   "points": 10,
+   "firsts": 1,
+   "seed": 43
+  },
+  {
+   "id": "082",
+   "title": "Radical Hope: Ethics in the Face of Cultural Devastation by Jonathan Lear",
+   "points": 9,
+   "firsts": 2,
+   "seed": 6
+  },
+  {
+   "id": "144",
+   "title": "This is Going to Hurt",
+   "points": 9,
+   "firsts": 1,
+   "seed": 7
+  },
+  {
+   "id": "074",
+   "title": "\"Persuasion of the Witch's Craft\" and \"When God Talks Back\"",
+   "points": 9,
+   "firsts": 1,
+   "seed": 18
+  },
+  {
+   "id": "154",
+   "title": "Violence and the Sacred",
+   "points": 9,
+   "firsts": 1,
+   "seed": 32
+  },
+  {
+   "id": "011",
+   "title": "Aesopian Language in Russian Literature",
+   "points": 8,
+   "firsts": 1,
+   "seed": 9
+  },
+  {
+   "id": "102",
+   "title": "The Epic of Gilgamesh",
+   "points": 8,
+   "firsts": 1,
+   "seed": 10
+  },
+  {
+   "id": "009",
+   "title": "A Swim in a Pond in the Rain (by George Saunders)",
+   "points": 8,
+   "firsts": 1,
+   "seed": 33
+  },
+  {
+   "id": "103",
+   "title": "The Escape Artist",
+   "points": 8,
+   "firsts": 1,
+   "seed": 44
+  },
+  {
+   "id": "075",
+   "title": "Pharmaceutical Freedom: Why Patients Have a Right to Self-Medicate",
+   "points": 8,
+   "firsts": 0,
+   "seed": 5
+  },
+  {
+   "id": "155",
+   "title": "We Present Television",
+   "points": 7,
+   "firsts": 1,
+   "seed": 3
+  },
+  {
+   "id": "108",
+   "title": "The Ghost In My Brain",
+   "points": 7,
+   "firsts": 0,
+   "seed": 11
+  },
+  {
+   "id": "077",
+   "title": "Plotting Your Fantasy Novel",
+   "points": 7,
+   "firsts": 0,
+   "seed": 37
+  },
+  {
+   "id": "003",
+   "title": "A Christmas Carol by Charles Dickens",
+   "points": 6,
+   "firsts": 0,
+   "seed": 20
+  },
+  {
+   "id": "007",
+   "title": "A Residence of Twenty-One Years in the Sandwich Islands",
+   "points": 6,
+   "firsts": 0,
+   "seed": 21
+  },
+  {
+   "id": "122",
+   "title": "The Merry Wives of Windsor",
+   "points": 6,
+   "firsts": 0,
+   "seed": 28
+  },
+  {
+   "id": "017",
+   "title": "Being You: A New Science of Consciousness by Anil Seth",
+   "points": 6,
+   "firsts": 0,
+   "seed": 31
+  },
+  {
+   "id": "113",
+   "title": "The Inhabited Island",
+   "points": 5,
+   "firsts": 0,
+   "seed": 12
+  },
+  {
+   "id": "120",
+   "title": "The Marriage of Cadmus and Harmony",
+   "points": 5,
+   "firsts": 0,
+   "seed": 13
+  },
+  {
+   "id": "060",
+   "title": "Leviathan",
+   "points": 5,
+   "firsts": 0,
+   "seed": 23
+  },
+  {
+   "id": "128",
+   "title": "The Pre-Training Data",
+   "points": 5,
+   "firsts": 0,
+   "seed": 38
+  },
+  {
+   "id": "027",
+   "title": "Catullus 16",
+   "points": 4,
+   "firsts": 0,
+   "seed": 22
+  },
+  {
+   "id": "037",
+   "title": "Earth Abides",
+   "points": 4,
+   "firsts": 0,
+   "seed": 48
+  },
+  {
+   "id": "111",
+   "title": "The History and Adventures of an Atom by Tobias Smollett",
+   "points": 3,
+   "firsts": 0,
+   "seed": 27
+  },
+  {
+   "id": "145",
+   "title": "Thomas Urquhart's Translation of Rabelais",
+   "points": 3,
+   "firsts": 0,
+   "seed": 29
+  },
+  {
+   "id": "038",
+   "title": "Fairness and Freedom: A History of Two Open Societies, New Zealand and the United States",
+   "points": 3,
+   "firsts": 0,
+   "seed": 42
+  },
+  {
+   "id": "127",
+   "title": "The Pillow Book",
+   "points": 3,
+   "firsts": 0,
+   "seed": 45
+  },
+  {
+   "id": "138",
+   "title": "The Tale of Genji",
+   "points": 2,
+   "firsts": 0,
+   "seed": 15
+  },
+  {
+   "id": "036",
+   "title": "Dream of the Red Chamber",
+   "points": 2,
+   "firsts": 0,
+   "seed": 47
+  },
+  {
+   "id": "008",
+   "title": "A Secular Age",
+   "points": 1,
+   "firsts": 0,
+   "seed": 8
+  },
+  {
+   "id": "095",
+   "title": "The Brothers Karamazov",
+   "points": 1,
+   "firsts": 0,
+   "seed": 26
+  },
+  {
+   "id": "147",
+   "title": "Time Gifts",
+   "points": 1,
+   "firsts": 0,
+   "seed": 30
+  },
+  {
+   "id": "033",
+   "title": "Der Untergang des Abendlandes",
+   "points": 1,
+   "firsts": 0,
+   "seed": 35
+  },
+  {
+   "id": "054",
+   "title": "Invisible Cities and Life: A User's Manual",
+   "points": 1,
+   "firsts": 0,
+   "seed": 36
+  },
+  {
+   "id": "039",
+   "title": "Fear and Trembling",
+   "points": 1,
+   "firsts": 0,
+   "seed": 40
+  },
+  {
+   "id": "029",
+   "title": "Collected Poems by C.S. Lewis",
+   "points": 1,
+   "firsts": 0,
+   "seed": 46
+  },
+  {
+   "id": "061",
+   "title": "Meeting, Hardly Meeting",
+   "points": 1,
+   "firsts": 0,
+   "seed": 49
+  },
+  {
+   "id": "153",
+   "title": "Venomous Lumpsucker",
+   "points": 0,
+   "firsts": 0,
+   "seed": 39
+  },
+  {
+   "id": "150",
+   "title": "Traces Erased by the Sun",
+   "points": 0,
+   "firsts": 0,
+   "seed": 41
+  }
+ ],
+ "placementDetails": {
+  "133": [
+   {
+    "round": 1,
+    "rank": 1,
+    "note": "The only review that runs a genuine experiment \u2014 stating priors about the Hohokam collapse, testing them against the primary myth source the op-ed writers never read, confessing its own bias \u2014 and then detonates the unforgettable Siuuhu-as-AI ending, beating 034's superior comedy on originality of thesis."
+   },
+   {
+    "round": 2,
+    "rank": 2,
+    "note": "The most original method in the group \u2014 registering priors, then testing oral mythology against the Atlantic/Cadillac Desert consensus and honestly reporting a negative result \u2014 plus a naked personal stake and the riskiest ending (Siuuhu as AI), edged out only because its long chronicle retelling is less compulsively readable than 094's braid."
+   },
+   {
+    "round": 3,
+    "rank": 1,
+    "note": "The only entry that nails every winner pattern at once \u2014 obscure book made to matter, explicit priors tested against evidence, confessed bias, a personal stake in whether Phoenix is doomed \u2014 and its unannounced AI-as-Siuuhu ending is the boldest, most memorable close of the five."
+   }
+  ],
+  "136": [
+   {
+    "round": 1,
+    "rank": 1,
+    "note": "The only review where the reviewer out-thinks the book \u2014 deriving the irreversible-harm principle the author never states, defending correlational evidence against crit-rat dogma, and staking his own children on the result \u2014 making it the most idea-dense and epistemically honest of the five."
+   },
+   {
+    "round": 2,
+    "rank": 1,
+    "note": "The only review with a naked personal stake (the author is actually raising his kids on the book's philosophy), and it out-thinks its source \u2014 deriving the irreversibility principle Stupple never states, mounting the scurvy defense of correlational evidence, and steelmanning before demolishing \u2014 making it the most complete winner-pattern entry of the five."
+   },
+   {
+    "round": 3,
+    "rank": 3,
+    "note": "Best voice and most naked personal stake (he's actually raising his kids this way), and it fights the book hard by deriving the irreversibility principle Stupple never states \u2014 but its crit-rat critiques cover ground more familiar to ACX readers than the two entries above it."
+   }
+  ],
+  "021": [
+   {
+    "round": 1,
+    "rank": 1,
+    "note": "The only entry where the reviewer's own decades of field evidence (the Nevius missionary parallel, the hashar collapse, the Ethiopian SHGs) extend the book into an original argument aimed squarely at EA's blind spot, with confessed bias and pushback on Bano's reductionism \u2014 it out-argues 096 on epistemic care while matching it for thesis ambition."
+   },
+   {
+    "round": 2,
+    "rank": 1,
+    "note": "Beats the field by fusing the book with decades of firsthand aid-work evidence and an original Nevius-missionary parallel, delivering the most consequential and forwardable argument here with a perfect hook and EA-relevant payoff."
+   },
+   {
+    "round": 3,
+    "rank": 1,
+    "note": "The only entry where the reviewer's own decades of field evidence (Afghan hashar, Zimbabwe famine relief, Nepali HIV networks, the Nevius missionary parallel) outweighs the book itself, building an original, EA-relevant argument while still disagreeing with Bano's reductionist account of altruism \u2014 the most learn-per-page and the most forwardable of the five."
+   }
+  ],
+  "031": [
+   {
+    "round": 1,
+    "rank": 1,
+    "note": "The fullest package of the five: an obscure book mined hard, a five-theories structure that genuinely weighs and rejects hypotheses, constant wit, and an original transportable thesis (Mark Thatcher Syndrome) the reviewer extends beyond the book while honestly flagging their own overreach."
+   },
+   {
+    "round": 2,
+    "rank": 1,
+    "note": "The only entry that does everything at once: an obscure bad book made to matter, a genuinely original thesis (Mark Thatcher Syndrome) tested against four rival theories with real epistemic manners, and the funniest distinctive voice of the five."
+   },
+   {
+    "round": 3,
+    "rank": 1,
+    "note": "The purest ACX-winner shape in the group: it fights a terrible book rather than summarizing it, eliminates four rival theories before unveiling an original and generalizable concept (Mark Thatcher Syndrome), and is the funniest and most quotable of the five while staying scrupulously honest about which of its own claims are shaky."
+   }
+  ],
+  "041": [
+   {
+    "round": 1,
+    "rank": 1,
+    "note": "The only review whose central idea (reparations as a welfare-enhancing trade conservatives should accept) is wholly the reviewer's own, prosecuted with original quantitative work and an interactive game with the reader, while being more epistemically even-handed on a charged topic than any of the other four."
+   },
+   {
+    "round": 2,
+    "rank": 1,
+    "note": "The most original idea-of-its-own in the group: it hijacks a left-wing reparations tract into a Coasean bargain conservatives should accept, backs the reframe with genuinely new quantitative work (the Cosmo-quiz multiplier strings, the ATOP treaty-decay analysis), and stays epistemically even-handed enough ('that $94bn number is total bollocks') to dodge the axe-grinding trap \u2014 the entry the median ACX reader forwards and argues about."
+   },
+   {
+    "round": 3,
+    "rank": 2,
+    "note": "Boldest original idea in the field \u2014 turning a buried aside into a Pareto-improving reparations-for-DEI trade aimed at conservatives, with a participatory letter-string game and equal-opportunity bullshit-calling \u2014 edged out only because its wonkish prose and hot-button topic make it slightly less forwardable than the Lacan review."
+   }
+  ],
+  "018": [
+   {
+    "round": 1,
+    "rank": 1,
+    "note": "The only entry where the reviewer did original primary work (their own translations) in service of a question no one else is asking, and the agonal-culture answer plus 'Sallust telling on himself' is a genuinely new idea the book itself never states \u2014 it beats 094 on originality while matching it on wit."
+   },
+   {
+    "round": 2,
+    "rank": 2,
+    "note": "Edges out 017 on craft and voice: an original question answered with the reviewer's own theory and own Latin translations, with the highest density of load-bearing 'I never knew that' moments, falling just short of 021's real-world stakes."
+   },
+   {
+    "round": 3,
+    "rank": 1,
+    "note": "The only entry whose original question (why Roman historians gift their villains the best speeches) is both genuinely new and answered through the reviewer's own labor \u2014 fresh translations, agonal culture, kleos \u2014 making it the densest learning-per-page essay here without ever lapsing into book report."
+   }
+  ],
+  "034": [
+   {
+    "round": 1,
+    "rank": 2,
+    "note": "Unmatched alpha (the reviewer actually went to Uganda, interviewed locals, and hunted down the book in Kampala) and the funniest voice of the five, with a perfect boomerang ending ('Incompetent!'), but its thesis \u2014 dictatorship's real indictment is mediocrity \u2014 is a lighter intellectual payload than 133's."
+   },
+   {
+    "round": 2,
+    "rank": 1,
+    "note": "The only review with reporting alpha nobody else can replicate \u2014 on-the-ground Ugandan voices fused with dense, weight-bearing history and a perfect 'Incompetent!' callback ending \u2014 making it the most forwardable of the five."
+   },
+   {
+    "round": 3,
+    "rank": 2,
+    "note": "Primary-source reporting from inside Uganda plus a genuinely funny dissection of a dictator's self-mythology gives it the highest 'huh, I never knew that' density, and the 'Incompetent!' callback ending lands; it trails 021 only because its thesis (uninspired one-man rule) is lighter than its anecdotes."
+   }
+  ],
+  "070": [
+   {
+    "round": 1,
+    "rank": 1,
+    "note": "The most complete winner-shaped essay of the five: it earns its book summary quickly, then spends the back half on a genuinely original two-axis framework (solitary/communal x ephemeral/persistent) and a concrete program for post-Gutenberg writing, all wrapped in a perfect time-travel bookend and the highest density of 'huh, I never knew' moments (Luria's syllogisms, the Tiv genealogies, scriptio continua)."
+   },
+   {
+    "round": 2,
+    "rank": 2,
+    "note": "The boldest reviewer-owned thesis in the group (the two-axis replacement for Ong's orality-literacy continuum and a manifesto for post-Gutenberg writing) with the highest huh-per-page density, held back only by a final third that slides from argument into hobby-horse gimmicks."
+   },
+   {
+    "round": 3,
+    "rank": 2,
+    "note": "The boldest reviewer-owned thesis here \u2014 replacing Ong's continuum with a two-axis model that reframes scrolling as the real enemy \u2014 with a killer bookended hook and constant wit, but it edges below 011 because the closing typography manifesto is more contestable assertion than earned argument and loosens its grip on the book."
+   }
+  ]
+ },
+ "groupStandouts": [
+  "The opening simile of review 021 \u2014 American aid as gluing a rabbit mouth-first to a fire hose so that \"as long as the water keeps running, it looks like you've taught the rabbit to dance\" \u2014 is the single most unforgettable image across all five entries.",
+  "The single most memorable moment is 103's \"Auschwitz Karen\" \u2014 the newly arrived mother who reports the prisoner frantically warning her about the gas chambers to an SS officer, and is dead with her children within thirty minutes.",
+  "The moment the Hohokam review reveals that its whole myth-detective investigation was a parable about a resurrected demigod we are currently building, closing with 'But let's not give it control of the dams.'",
+  "The Storm of Steel review's sudden turn from J\u00fcnger's shell crater to the author timing his wife's premature labor and then holding his 675-gram daughter in the NICU is the single moment from these five that a reader will still remember a year from now.",
+  "The Gilgamesh review's closing move \u2014 clay tablets as literal fragments of the people who wrote them, so that 'if you were human, if you lived, then you made it; you're coming to the stars too' \u2014 is the single moment most likely to be quoted back in the comments.",
+  "Joseph Smith responding to a denied bank charter by overstamping his banknotes 'ANTI-' and reopening as anti-cashier of the Kirtland Safety Society Anti-Banking Company \u2014 sand-filled specie boxes and all \u2014 is the single most unforgettable moment across the five reviews.",
+  "The ending of the Saunders review, where dying Vasili reaches out of \"Master and Man\" to pull Peter Singer's drowning child onto the shore and \"sees that the child was always him,\" collapses the entire essay's Tolstoy-EA argument into one image.",
+  "The single most memorable moment is review 031's diagnosis of \"Mark Thatcher Syndrome\" \u2014 a condition that \"in its most extreme form produces its own diagnosis, by making the sufferer write a book in which they tell on themself, by portraying themself as a gentleman hero.\"",
+  "The Cadmus review's reveal that Calasso deliberately mistranslated \u03b2\u03cc\u03c3\u03c4\u03c1\u03c5\u03c7\u03b1 (\"ringlets\") as \"necklace\" so his own book would secretly close into the perfect deceitful ring he kept describing is the single most memorable moment across the five.",
+  "The stillbirth entry in [144] \u2014 Kay staying four unpaid hours, apologizing to the dead baby as he takes post-mortem samples, deployed as the single decisive exhibit against the misogyny charge \u2014 is the most memorable moment across all five reviews.",
+  "The drunk aid worker's image of American money \"gluing a rabbit mouth-first to a fire hose\" so that \"as long as the water keeps running, it looks like you've taught the rabbit to dance\" is the single most unforgettable moment across all five reviews.",
+  "The Lacan review's opening image \u2014 a magician whose curtain literally reads \"I'm standing on a spring-loaded trapdoor\" while the audience still gasps at the trick \u2014 is the single most memorable moment across all five reviews.",
+  "The Storm of Steel reviewer holding his 675-gram daughter in the NICU while Junger's 'Duty and Honour' passage plays underneath \u2014 capped by the doctor's quiet 'That is probably a good idea right now' when he asks about finding a priest \u2014 is the single most memorable moment across the five.",
+  "The most memorable moment is review 120's prestige-reveal that Calasso deliberately mistranslated Nonnus's \u03b2\u03cc\u03c3\u03c4\u03c1\u03c5\u03c7\u03b1 ('ringlets of hair') as 'necklace' on page one \u2014 planting a hidden ring at the start of his book to close the ring at its end.",
+  "The \"Auschwitz Karen\" in [103] \u2014 a newly arrived mother so offended by a prisoner's frantic warning about the gas chambers that she reports him to an SS officer, who apologizes politely; within thirty minutes she, her children, and everyone on the train are dead, the thesis of the entire review compressed into one anecdote.",
+  "The closing image of [009], where Tolstoy's dying Vasili reaches out of the snowstorm to pull Singer's drowning child from the pond and \"sees that the child was always him,\" fuses the review's entire argument into one sentence.",
+  "The single most memorable moment is in [136], where after every TCS-approved toothbrushing tactic fails, the reviewer's wife wins the war non-coercively by googling 'rotten teeth' pictures \u2014 and the daughter starts brushing out of fascination, not fear.",
+  "The most memorable moment across all five is the 1940 prophecy in \"We Present Television\" of a board meeting held as \"twelve electrical ghosts confer\" \u2014 a Zoom call described eighty years early.",
+  "The single most memorable moment is Cry Havoc's raw-sewage restaurant analogy for why running out of better coup plans never obligates you to execute the bad one \u2014 a reviewer-original line that crystallizes the whole essay's thesis.",
+  "The Parable of the Accelerometer in the Summa Technologiae review, which traces a direct line from US airbag regulation to step-counting smartphones to explain \u2014 as Lem's fear made real \u2014 why we never got flying cars.",
+  "The aid worker's opening image in [021] \u2014 a rabbit glued mouth-first to a fire hose that 'looks like you've taught it to dance' as long as the water keeps running \u2014 is the single most unforgettable moment across all five reviews.",
+  "The moment in \"Storm of Steel\" where the reviewer sets Junger's two rewritings of the killed British soldier beside his own vigil over a 675-gram daughter \u2014 fear, duty, and love fusing review and life into one argument \u2014 is the single most memorable passage across all five.",
+  "The opening of the Radical Hope review \u2014 Plenty Coups striking his bloodless severed fingertip against a log until it bleeds, then waking to eagles eating the clots \u2014 is the single most unforgettable moment across all five reviews.",
+  "The Lacan review's portrait of Sibylle \u2014 searching for patterns in when Daddy came and left, naming herself \"un-hope,\" and finally killing herself \u2014 is the single moment that makes an abstract theory of desire land like a punch.",
+  "The single most memorable moment is review 011's James Clifford reveal \u2014 a Soviet poet inventing a dead British war poet so he could publish his own dissident verse, with critics marveling that a long-dead Brit could describe Soviet life so precisely.",
+  "The close of 094's Sally Chase interlude \u2014 Joseph Smith's old seer-teacher putting her green stone in her hat one last time to hunt for his golden plates, capped by the line \"He was the better seer\" \u2014 is the single most memorable beat across all five reviews.",
+  "The most memorable moment across all five is review [144] deploying Kay's stillbirth entry \u2014 the doctor apologizing to a dead baby and asking a God he doesn't believe in to look after him \u2014 as the single decisive piece of evidence against the misogyny charge.",
+  "The ending of [133], where the question \"is Phoenix doomed?\" silently transforms into an AI allegory through the never-named Siuuhu sequence \u2014 \"Probably not. But let's not give it control of the dams.\" \u2014 is the single most memorable moment across the five reviews.",
+  "The most memorable single moment is Venomous Lumpsucker's opening image of Beijing's children weeping in smeared panda facepaint at the death of the endling of endlings \u2014 proof that 153's prose outclasses its essayistic ambition.",
+  "The most memorable moment across all five is review 120's \"Prestige\" reveal that Calasso silently mistranslated the Greek for \"ringlets\" as \"necklace\" on page one so that his book about ring-shaped deceit would itself close into a perfect, deceitful ring."
+ ],
+ "finalists": [
+  {
+   "id": "133",
+   "title": "The Short, Swift Time of Gods on Earth",
+   "groupPoints": 11,
+   "borda": 21,
+   "firstVotes": 3
+  },
+  {
+   "id": "021",
+   "title": "Breakdown in Pakistan: How Aid Is Eroding Institutions for Collective Action",
+   "groupPoints": 12,
+   "borda": 17,
+   "firstVotes": 0
+  },
+  {
+   "id": "041",
+   "title": "From Here to Equality",
+   "groupPoints": 11,
+   "borda": 12,
+   "firstVotes": 0
+  },
+  {
+   "id": "031",
+   "title": "Cry Havoc",
+   "groupPoints": 12,
+   "borda": 12,
+   "firstVotes": 0
+  },
+  {
+   "id": "018",
+   "title": "Bellum Catilinae -- The Catiline Conspiracy",
+   "groupPoints": 11,
+   "borda": 11,
+   "firstVotes": 0
+  },
+  {
+   "id": "136",
+   "title": "The Sovereign Child",
+   "groupPoints": 10,
+   "borda": 8,
+   "firstVotes": 0
+  },
+  {
+   "id": "070",
+   "title": "Orality and Literacy by Walter Ong",
+   "groupPoints": 10,
+   "borda": 2,
+   "firstVotes": 0
+  },
+  {
+   "id": "034",
+   "title": "Dictator Book Club: Yoweri Museveni\u2019s Sowing The Mustard Seed",
+   "groupPoints": 10,
+   "borda": 1,
+   "firstVotes": 0
+  }
+ ],
+ "panel": [
+  {
+   "lens": "reader",
+   "ranking": [
+    {
+     "id": "133",
+     "rank": 1,
+     "rationale": "Perfect arc from Phoenix's water crisis to an oral-tradition murder mystery, with registered priors, honest bias confession, and a concealed AI allegory that detonates in the final paragraphs. Maximum book-choice alpha \u2014 an out-of-print myth anthology made to matter for both civilizational collapse and alignment \u2014 and the single most forwardable ending in the field."
+    },
+    {
+     "id": "041",
+     "rank": 2,
+     "rationale": "The boldest original thesis: almost nothing here restates the book, because the entire review is the reviewer's own invention \u2014 reparations as a Pareto-improving trade conservatives should want, complete with an interactive methodology quiz and a closing dilemma that traps both tribes. Slightly drier prose and a wonkish middle keep it just behind the champion."
+    },
+    {
+     "id": "021",
+     "rank": 3,
+     "rationale": "The weightiest intellectual payoff: a veteran aid worker fuses Bano with Scott's foresters, Ostrom, and 1895 missiology into a damning original account of how aid destroys collective action, then turns it directly on EA's core question. Earnest rather than delightful, and the accumulation-of-evidence structure lacks a dramatic arc, but the rabbit-and-firehose image alone is unforgettable."
+    },
+    {
+     "id": "031",
+     "rank": 4,
+     "rationale": "The funniest entry, and 'Mark Thatcher Syndrome' \u2014 protagonist disease as the engine of history's stupidest risks \u2014 is a genuinely original diagnosis extracted from a book the reviewer rightly savages as unreadable. The generalizing payoff (founders, BAP, Alexander) is hedged with a disclaimer just when it should commit, costing it the top tier."
+    },
+    {
+     "id": "018",
+     "rank": 5,
+     "rationale": "A killer Mulan hook, a tweetable question (why do Romans write better speeches for their enemies?), and a satisfying answer in agonal culture and kleos, delivered through the reviewer's own translations with delicious footnotes. The thesis is more elegant synthesis of classics scholarship than a wholly new idea, and the stakes stay safely two millennia away."
+    },
+    {
+     "id": "136",
+     "rank": 6,
+     "rationale": "The most naked personal stake \u2014 he is actually raising his children on the philosophy \u2014 and the critique of Deutschian universal-explainer logic ('if my grandmother had wheels, she'd be a bicycle') is sharp, fair-minded epistemics. But the book is already well-trodden ACX territory, reducing alpha, and the epistemology detours sag where the parenting material sings."
+    },
+    {
+     "id": "070",
+     "rank": 7,
+     "rationale": "The back half \u2014 the solitary/communal x ephemeral/persistent 2x2, scrolling as the communal-persistent enemy, and the Tufte-for-prose manifesto \u2014 is real original thinking with a lovely bookended frame. But the first half is the closest thing in this final to a straight summary of the book, and the concrete proposals (mirrored letters, 72px yelling) read as whimsy rather than argument."
+    },
+    {
+     "id": "034",
+     "rank": 8,
+     "rationale": "Wonderfully entertaining field reportage \u2014 the push-up counts, the sister named Toyota, the Tsavo lions \u2014 but it borrows Scott's Dictator Book Club format wholesale, and its thesis ('uninspired one-man rule gets nothing done') is an observation, not an idea. Highest jokes-per-page, lowest intellectual payoff among eight excellent entries."
+    }
+   ],
+   "champion": {
+    "id": "133",
+    "why": "This is the review an ACX reader forwards to three different friends for three different reasons. It opens with a city dying of thirst, exposes how every major outlet uses the Hohokam as a lazy Rorschach blot, then makes the brilliantly simple move nobody else made: just ask the descendants. It practices rationalist virtue without preening \u2014 priors registered before the evidence, a reconstruction offered with an explicit confession of bias \u2014 and it earns its 'huh' moments constantly, from the vagabond named Skunk who alone carried a civilization's memory to the bird whose name survived its own meaning. And then the ending: a seemingly cute mythology recap revealed as a fully loaded allegory about creating a god you cannot kill, landing with 'Probably not. But let's not give it control of the dams.' It risks the weirdest book, delivers the most delight per page, and turns an obscure 1994 anthology of oral myth into something that matters for water policy, historiography, and AI at once. That is exactly what a contest champion looks like."
+   }
+  },
+  {
+   "lens": "craft",
+   "ranking": [
+    {
+     "id": "133",
+     "rank": 1,
+     "rationale": "The only review that preregisters falsifiable priors, tests them against a 500-year oral tradition, and honestly reports the negative result \u2014 then earns a bravura twist ending through narrative parallels it already established. It makes an obscure anthropology text demolish a lazy journalistic trope, and it is both dazzling and sound."
+    },
+    {
+     "id": "021",
+     "rank": 2,
+     "rationale": "The deepest and most consequential essay: the Nevius missionary parallel and decades of firsthand aid-work evidence are original contributions the book lacks, and the footnotes disagree with Bano's reductionist account of altruism on the merits. Loses the top spot only because the final third diffuses into policy recommendations rather than landing."
+    },
+    {
+     "id": "031",
+     "rank": 3,
+     "rationale": "A genuinely original thesis (Mark Thatcher Syndrome) built through a disciplined theory-elimination structure in which each rejected explanation retains calibrated partial credit \u2014 exemplary epistemic manners, including pre-disowning its own most speculative generalization. Minor prose sloppiness and a hedged-away ending keep it third."
+    },
+    {
+     "id": "136",
+     "rank": 4,
+     "rationale": "Maximal personal stake (raising real children by the philosophy reviewed) paired with the rare feat of attacking the epistemic foundations of a position the author adopted; the scurvy and grandmother-wheels critiques are first-rate original argument. Structure meanders in the back half, with skippable sections and listy pacing."
+    },
+    {
+     "id": "018",
+     "rank": 5,
+     "rationale": "Erudite, gorgeously paced, with original translations, the perfect Mulan hook, and honest disclaimers about amateur Latin. But its answer is a brilliant assembly of largely existing scholarship (ta deonta, agonal culture, kleos) rather than a new idea, and it fights its book the least."
+    },
+    {
+     "id": "041",
+     "rank": 6,
+     "rationale": "The boldest reframing in the field \u2014 reading a reparations text as an unintended negotiation \u2014 and admirably self-aware about its gimmicks. But the load-bearing arithmetic wobbles: the 'Pareto optimal' conclusion overstates what the multiplier game showed, and the closing dilemma is a false binary; dazzling but not quite sound."
+    },
+    {
+     "id": "070",
+     "rank": 7,
+     "rationale": "High idea density, a real original thesis (the 2x2 replacing Ong's continuum), and an elegant mirrored bookend. But the back-half manifesto drifts away from the book, relays Ong and Luria uncritically, invents its quantitative claims, and pads with a grab-bag of typographic wishes."
+    },
+    {
+     "id": "034",
+     "rank": 8,
+     "rationale": "The best pure voice and real on-the-ground reporting from Uganda, with a running joke that pays off in the final word. But it is the most observational and least argumentative entry \u2014 its history section is admitted padding, and the format pastiches Scott's own Dictator Book Club rather than risking a thesis of its own."
+    }
+   ],
+   "champion": {
+    "id": "133",
+    "why": "The Short, Swift Time of Gods on Earth review is the one entry that satisfies every winning criterion simultaneously without a craft flaw to offset it. It has an idea of its own \u2014 that the ubiquitous Hohokam hook in climate journalism is a Rorschach test, refuted by actually consulting the descendants' own record \u2014 plus a second original move in the preregistered-priors method, which turns mythology-reading into a falsifiable exercise and then honestly reports that the doom narrative fails. The book could not be more obscure or more perfectly chosen; the reviewer's stake (deciding whether to live in Phoenix) is real; the prose is controlled from the two-sentence hook to the cascade of 'Will they...' sentences at the close, the single best ending in the field, earned line by line through the Siuuhu narrative rather than pasted on. Where its nearest rivals either sprawl at the finish (021) or carry prose sloppiness (031), this review is dazzling and sound the whole way through \u2014 exactly the essay readers will forward to friends and the one that deserves the crown."
+   }
+  },
+  {
+   "lens": "pattern",
+   "ranking": [
+    {
+     "id": "133",
+     "rank": 1,
+     "rationale": "The most complete winner shape: a dying-city hook, an obscure oral chronicle made to matter, a registered-priors investigation that debunks the lazy 'mystery of the Hohokam' trope used by every major outlet, honest disappointment when the evidence refuses the tidy lesson, and an ending that turns into an AI parable with real literary force rather than pander. It extends the contest tradition (obscure book, original thesis, personal stake) while resembling no past winner."
+    },
+    {
+     "id": "021",
+     "rank": 2,
+     "rationale": "The decisive test passed at the highest level: the reviewer's own field evidence \u2014 hashar in Afghanistan, the Nepal HIV network, the Zimbabwe VO \u2014 builds an argument the book itself never could, then aims it squarely at EA's core question. Disagrees with Bano's reductionist altruism, confesses bias in the endnotes; only the familiar Seeing-Like-a-State scaffolding and aid-critique genre keep it from first."
+    },
+    {
+     "id": "018",
+     "rank": 3,
+     "rationale": "Perfect two-sentence hook (the Mulan thought experiment), original amateur translation work, and the highest density of weight-bearing 'huh, I never knew that' moments \u2014 metalepsis, agonal culture, spolia opima. An interpretive rather than arguable thesis and the absence of personal stake or real self-doubt hold it just below the top two."
+    },
+    {
+     "id": "041",
+     "rank": 4,
+     "rationale": "The boldest risk in the field: a reparations cost-benefit pitched at conservatives, with a genuinely novel interactive Cosmo-quiz mechanism and even-handed demolition of bad numbers on both sides. It pattern-matches the Georgism-winner shape a little too neatly, and the multiplier-table middle is the driest stretch among the finalists."
+    },
+    {
+     "id": "031",
+     "rank": 5,
+     "rationale": "A named original concept \u2014 Mark Thatcher Syndrome \u2014 extracted from a terrible book the reviewer openly fights, with great comic voice and the Adam Roberts redirect as honest epistemic manners. But the reviewer half-disowns his own generalization at the climax ('I will not commit myself to the rest of this paragraph'), blunting the thesis exactly where a winner would press it."
+    },
+    {
+     "id": "136",
+     "rank": 6,
+     "rationale": "The most naked personal stake \u2014 he is raising his children on the philosophy he critiques \u2014 plus a real derived principle (irreversibility) and a sharp attack on crit-rat 'in principle' reasoning. Penalized because the book is already community-famous (Scott reviewed it himself), the voice runs close to ACX house style, and the epistemology sections are inside-baseball."
+    },
+    {
+     "id": "034",
+     "rank": 7,
+     "rationale": "Genuine novelty in method \u2014 original fieldwork in Uganda, firsthand voices, the Tsavo lions digression \u2014 and a charming human presence throughout. But it borrows Scott's own Dictator Book Club title and format wholesale, the exact pastiche this lens must penalize, and its closing thesis ('uninspired one-man rule') is the thinnest idea among the eight."
+    },
+    {
+     "id": "070",
+     "rank": 8,
+     "rationale": "It does have an idea of its own \u2014 the solitary/communal x ephemeral/persistent quadrant and the typographic manifesto \u2014 and the bookended time-travel frame lands. But the first half is largely competent Ong summary, 'scrolling is destroying our minds' is the stalest beat in the rationalist-sphere, and the manifesto dissolves into a feature wishlist rather than an arc."
+    }
+   ],
+   "champion": {
+    "id": "133",
+    "why": "This is the review ACX readers forward to friends. It opens with a city visibly dying of heat and thirst, catches The Atlantic, the Sierra Club, and Cadillac Desert all leaning on the same false 'no one knows why the Hohokam vanished' hook, and then does the one thing none of them did: asks the people who remember. The rationalist machinery \u2014 priors registered before reading, evidence weighed, Christian contamination filtered out, the reviewer admitting disappointment that history refused to rhyme \u2014 is executed with a light touch, and the source material (a chronicle preserved by a homeless man nicknamed Skunk, full of songs whose words no living person can translate) is the purest book-choice alpha in the field. Then the ending takes the contest's biggest swing: the demigod the people cannot live with and cannot kill becomes an AI parable delivered as incantation, earned entirely by the myth that precedes it, closing on a perfect deflation \u2014 'Probably not. But let's not give it control of the dams.' It has the shape of past winners (obscure text elevated, original thesis, personal stake, haunting arc) while imitating none of them."
+   }
+  }
+ ],
+ "champion": {
+  "id": "133",
+  "title": "The Short, Swift Time of Gods on Earth",
+  "borda": 21,
+  "firstVotes": 3
+ }
+}

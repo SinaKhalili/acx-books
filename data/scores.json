@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "001",
+    "title": "17776 by Jon Bois",
+    "scores": {
+      "insight": 7,
+      "engagement": 6,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Shortlist-borderline: the self-exemplifying framing and the creative-format-inertia angle are genuinely interesting, but the long middle digression loses focus on the book itself and the payoff arrives later than it should.",
+    "strongest": "The closing observation that 17776 is self-exemplifying — a work in a new format about creative expression through new formats — ties the whole review together in a genuinely insightful way.",
+    "weakest": "The extended four-part analysis of why multimedia fiction hasn't gone mainstream, while interesting in isolation, drifts too far from the book and reads more like a personal essay tangent than a review.",
+    "summary_trap": false
+  },
+  {
+    "id": "002",
+    "title": "1984 by George Orwell",
+    "scores": {
+      "insight": 6,
+      "engagement": 6,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist: the review displays genuine learning and occasional sharp observations (the Burnham managerial-class angle, the Buddhist epistemology parallel, the Tolkien comparison) but is dragged down by an overlong biographical section, well-worn \"Orwellian predictions came true\" framing, and a closing checklist of contemporary examples that adds length without adding thought.",
+    "strongest": "The reading of the Party as a proto-PMC oligarchy drawing on Burnham's managerial revolution thesis is a substantive, non-obvious intellectual move that briefly elevates the review above standard Orwell commentary.",
+    "weakest": "The extensive biographical middle section reads as conventional background filler, and the final paragraph's list of present-day Orwellian parallels is exactly the kind of low-effort \"the author was right about everything\" conclusion that substitutes political agreement for critical thought.",
+    "summary_trap": false
+  },
+  {
+    "id": "003",
+    "title": "A Christmas Carol by Charles Dickens",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review advances a genuinely non-obvious thesis (Scrooge fears dying unmourned, not dying), supports it rigorously with the text, and delivers it in a warm, confident voice that earns its length.",
+    "strongest": "The central argument - that the Ghost of Christmas Yet to Come deliberately conceals the body's identity to bypass motivated reasoning, and that Scrooge's revelation is about dying without impact rather than dying at all - is a textually grounded, genuinely insightful reframe that reshapes how you read the book.",
+    "weakest": "The song-lyric brackets and the extended APT digression in footnote 7 slightly diffuse the essay's focus, and the closing call to \"honor Christmas\" edges toward the sentimental without fully earning it analytically.",
+    "summary_trap": false
+  },
+  {
+    "id": "004",
+    "title": "A Game of Thrones (A Song of Ice and Fire, Book 1) by George R.R. Martin",
+    "scores": {
+      "insight": 3,
+      "engagement": 5,
+      "originality": 2,
+      "fairness": 6,
+      "structure": 3
+    },
+    "verdict": "Do not shortlist: the review is almost entirely plot summary with a casual voice but no real thesis, argument, or non-obvious insight to reward.",
+    "strongest": "The conversational, self-aware voice has occasional wit (the \"-10 years old\" joke, calling GRRM \"Samuel Tarly\") that gives the piece some personality.",
+    "weakest": "The review is essentially a plot synopsis with no sustained argument or original angle — the one gesture toward a thesis (the book is \"real and brutal\" because characters make internally coherent choices) is never developed or defended.",
+    "summary_trap": true
+  },
+  {
+    "id": "005",
+    "title": "A History of the Jews by Paul Johnson",
+    "scores": {
+      "insight": 5,
+      "engagement": 5,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 3
+    },
+    "verdict": "Do not shortlist: the Polish-outsider-meets-rationalist-community angle is genuinely interesting but never develops into a thesis, leaving the piece as an annotated reading log rather than a review.",
+    "strongest": "The framing of a non-Jewish Pole reflecting on how Jewish culture invisibly shaped his intellectual life — via Yudkowsky, LessWrong, and his country's history — is an original and promising angle that no other reviewer is likely to share.",
+    "weakest": "The review explicitly abandons its own structure in favor of a chronological dump of highlighted passages, so the intriguing opening thesis about Jewish rationalism and the ACX community is never developed, argued, or paid off.",
+    "summary_trap": true
+  },
+  {
+    "id": "006",
+    "title": "A Poor Wise Man by Mary Roberts Rinehart",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: a clever, well-executed review that uses a forgotten 1920 bestseller to illuminate the original Red Scare and its mainstream American attitudes, with a strong framing device and a payoff ending that earns the read.",
+    "strongest": "The opening hypothetical — transposing a 1920 bestselling vigilante romance onto 2020 — is a genuinely original framing device that instantly makes the historical argument concrete and compelling.",
+    "weakest": "The middle character-sketch sections (particularly Heroine and Moderate Republican) run slightly long and shade toward plot summary, diluting the momentum built by the strong opening.",
+    "summary_trap": false
+  },
+  {
+    "id": "007",
+    "title": "A Residence of Twenty-One Years in the Sandwich Islands",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the EA/missionary parallel is a genuinely original and well-executed thesis, the personal family connection gives it unusual authenticity, and the historical detail is rich enough to earn the length.",
+    "strongest": "The structural parallel between 19th-century missionary logic and Effective Altruism — applied with specific analytical vocabulary (neglectedness, tractability, cost-effectiveness) rather than merely asserted — is a genuinely fresh insight that reframes both subjects.",
+    "weakest": "The closing \"lessons learned\" section collapses into a somewhat generic listicle of leadership maxims that undersells the more interesting tensions the review had been building throughout.",
+    "summary_trap": false
+  },
+  {
+    "id": "008",
+    "title": "A Secular Age (Charles Taylor)",
+    "scores": {
+      "insight": 7,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the personal framing and confident, playful voice make a notoriously dense 800-page philosophy tome genuinely inviting, though the review leans more toward enthusiastic guided tour than sustained original argument.",
+    "strongest": "The opening conceit — narrator reasoning themselves into wanting a religion, then discovering Taylor — is a genuinely clever hook that also accurately mirrors one of Taylor's own core arguments about cross-pressured modernity, making the structure itself an illustration of the thesis.",
+    "weakest": "The review ultimately delivers a faithful, well-paced summary of Taylor's ideas rather than a strong independent thesis or counter-argument of its own, so the \"so what\" beyond \"this book is useful for thinking about raising children with meaning\" remains somewhat thin.",
+    "summary_trap": false
+  },
+  {
+    "id": "009",
+    "title": "A Swim in a Pond in the Rain (George Saunders)",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate — the Singer/EA synthesis gives it a genuine thesis that transcends book review, and the voice is consistently alive, with a closing paragraph that genuinely lands.",
+    "strongest": "The synthesis connecting Saunders' un-othering theory of fiction to Singer's drowning-child thought experiment and the EA distance-bias problem is genuinely non-obvious and makes the whole review more than the sum of its parts.",
+    "weakest": "The three-story triptych section, while engaging, occasionally threatens to tip into extended summary before the craft-principle payoffs rescue it, and the Stalin parenthetical — though funny — slightly disrupts the argumentative momentum early on.",
+    "summary_trap": false
+  },
+  {
+    "id": "010",
+    "title": "A World Appears by Michael Pollan",
+    "scores": {
+      "insight": 4,
+      "engagement": 3,
+      "originality": 3,
+      "fairness": 5,
+      "structure": 2
+    },
+    "verdict": "Do not shortlist: this is an unfinished draft — three of four major sections exist only as bullet-point outlines with placeholder notes, making it impossible to evaluate as a complete review.",
+    "strongest": "The completed \"Sentience\" section shows genuine intellectual curiosity, tracing a coherent thread from plant intelligence through Friston's free-energy principle to the question of why phenomenal consciousness exists at all if goal-directed behavior doesn't require it.",
+    "weakest": "The review is structurally incomplete: the \"Feeling,\" \"Thinking,\" and \"Self\" chapters are nothing but skeletal outlines with stub labels and editorial placeholders like \"[insert]\", rendering most of the promised analysis absent.",
+    "summary_trap": false
+  },
+  {
+    "id": "011",
+    "title": "Aesopian Language in Russian Literature (Lev Loseff / Alexandra Arkhipova)",
+    "scores": {
+      "insight": 9,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate: the review advances a genuine thesis about Aesopian as both diagnostic tool and survival skill, teaches through well-chosen examples, and earns its length with a productive final section that interrogates the method's epistemological limits.",
+    "strongest": "The epistemological challenge in Section 5 — honestly confronting the unfalsifiability of Aesopian readings and then arguing that unfalsifiability is the mechanism's feature, not a flaw — is genuinely non-obvious and analytically satisfying.",
+    "weakest": "The LLM experiment section is tantalizing but left incomplete, with the actual GPT-5.5 responses described as placeholders (\"This is GPT-5.5's response after I fed it…\") rather than quoted, which deflates a promising empirical digression.",
+    "summary_trap": false
+  },
+  {
+    "id": "012",
+    "title": "Agatha Christie's Works",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy but not quite finalist material — it makes genuine arguments about Christie's craft and ethics with confidence and voice, but the core aesthetic defense (apparent weaknesses are actually purposive strengths) is a recognizable position rather than a truly fresh take.",
+    "strongest": "The ethics section, particularly the argument that Christie's appeal lies in a world governed by unquestioned rules where evil is treated as an anomaly rather than a constant condition, offers a genuinely interesting and well-supported thesis that most Christie defenses don't articulate this clearly.",
+    "weakest": "The aesthetic argument, while competent, covers well-trodden ground — defending Christie against literary condescension by invoking purposive craft is a position readers have encountered before, and the review doesn't push it into genuinely surprising territory.",
+    "summary_trap": false
+  },
+  {
+    "id": "013",
+    "title": "Alice in Puzzle-Land by Raymond Smullyan",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Worth shortlisting: the review earns genuine insight by using Smullyan's own logical tricks to frame the argument for reading the book, and it has a confident, playful voice that matches the subject matter, though it leans a bit too heavily on puzzle demonstration at the expense of a sharper critical thesis.",
+    "strongest": "The opening gambit — deploying Smullyan's own self-referential logic to \"prove\" you should read the review — perfectly embodies the book's spirit and immediately distinguishes the piece from a generic summary.",
+    "weakest": "The middle sections describing individual puzzle types function more as enthusiastic tour-guide narration than critical argument, and the piece never quite coalesces around a single strong thesis about what makes Smullyan's work distinctively important beyond \"it's great puzzles + Gödel-lite.\"",
+    "summary_trap": false
+  },
+  {
+    "id": "014",
+    "title": "Feeling & Knowing: Making Minds Conscious by Antonio Damasio",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the review uses Damasio's SMFK framework as a genuine springboard for original thinking about AI alignment-as-love, but the theatrical dialogue device bloats the middle sections and dilutes what could be a tighter, more forceful argument.",
+    "strongest": "The genuinely novel thesis that AI alignment requires relational empathy modeled on family dynamics — not command-and-control — emerges organically from Damasio's biology and lands as a surprising, non-obvious payoff.",
+    "weakest": "The multi-character Socratic dialogue format, while distinctive, frequently sacrifices pacing for theatrical effect, with stage directions and banter that pad length without adding intellectual substance.",
+    "summary_trap": false
+  },
+  {
+    "id": "015",
+    "title": "Application for Release from the Dream by Tony Hoagland",
+    "scores": {
+      "insight": 5,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 6,
+      "structure": 6
+    },
+    "verdict": "Do not shortlist: the review's formal inventiveness and distinctive voice are real assets, but it is too inward-looking to teach a reader anything substantive about Hoagland or his collection, and the emotional impressionism never coheres into a transferable argument.",
+    "strongest": "The structural conceit of ending with a mock bureaucratic \"reviewing body\" that mirrors the book's title is genuinely clever and earns its place as a formal payoff.",
+    "weakest": "The review is almost entirely about the reviewer's private emotional reactions to individual poems, and a reader who does not already know the collection learns almost nothing about what makes Hoagland's work distinctive or worth reading.",
+    "summary_trap": false
+  },
+  {
+    "id": "016",
+    "title": "Ballpark: Baseball in the American City by Paul Goldberger",
+    "scores": {
+      "insight": 7,
+      "engagement": 6,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-borderline: the theories section offers genuine intellectual payoff and a clever framing of ballparks as a natural experiment for urbanism debates, but the lengthy historical summary in Part 1 dilutes the impact and the piece would benefit from getting to its thesis faster.",
+    "strongest": "The review uses the complete arc from Golden Age to concrete donuts to retro ballparks as a genuine natural experiment to test theories about why we can no longer build beautiful walkable neighborhoods, drawing on ideas about externalities, consolidated land ownership, and regulatory capture that go meaningfully beyond the book.",
+    "weakest": "The first half is dominated by a thorough but slow historical summary that delays the more valuable theory-testing material, creating a pacing problem where the review's best ideas arrive only after considerable patience is required.",
+    "summary_trap": false
+  },
+  {
+    "id": "017",
+    "title": "Being You: A New Science of Consciousness by Anil Seth",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Strong shortlist candidate: the double-dissociation critique of Beast Machine theory is genuinely sharp and well-sourced, and the Semantic Calculus framing advances a novel argument, though the essay's ambition occasionally outpaces its discipline and the structure sprawls in the later sections.",
+    "strongest": "The double-dissociation argument against Seth's consciousness-as-allostasis thesis — showing consciousness without homeostasis (anesthesia, vegetative patients) and homeostasis without consciousness (bacteria, sleep, pure autonomic failure) — is a genuinely rigorous, well-evidenced critique that lands hard.",
+    "weakest": "The Semantic Calculus Hypothesis section becomes increasingly speculative and insufficiently tethered to the book under review, feeling more like an undergraduate philosophy essay than a book review with a tight payoff.",
+    "summary_trap": false
+  },
+  {
+    "id": "018",
+    "title": "Bellum Catilinae (The Catiline Conspiracy) by Sallust",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Shortlist-worthy: the reviewer builds a genuine argument about agonal culture and Roman historiography's relationship to virtus and immortality, grounded in their own translation work and close literary reading, with a voice that is distinctly alive throughout.",
+    "strongest": "The Mulan opening reframes the central puzzle with immediate, memorable clarity, and the rest of the review actually delivers on that framing with layered intellectual payoff — metalepsis, agonal culture, kleos, Sallust's personal grudge against Cicero — rather than letting the hook dissipate into mere summary.",
+    "weakest": "The structure follows a fairly conventional arc (historical background, author biography, then close readings), which mutes the originality somewhat — a bolder organizational choice could have made the argument land with more force.",
+    "summary_trap": false
+  },
+  {
+    "id": "019",
+    "title": "Between Two Fires by Christopher Buehlman",
+    "scores": {
+      "insight": 6,
+      "engagement": 6,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 4
+    },
+    "verdict": "Do not shortlist: the preternatural/Aquinas hook is genuinely smart but the review explicitly abandons any unifying thesis and fragments into loosely related digressions that never cohere into a payoff worth the journey.",
+    "strongest": "The opening distinction between natural, supernatural, and preternatural (drawn from Aquinas) provides a genuinely illuminating conceptual frame for the novel's theology and is more intellectually interesting than most book-review openers.",
+    "weakest": "The three-section structure never builds toward a conclusion, the author openly admits there is no unifying theme, and the review ends on an anti-climactic riff about TikTok rather than a meaningful payoff.",
+    "summary_trap": false
+  },
+  {
+    "id": "020",
+    "title": "Bleeding Edge by Thomas Pynchon",
+    "scores": {
+      "insight": 4,
+      "engagement": 5,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 3
+    },
+    "verdict": "Do not shortlist: the ABCs framework is a charming gimmick but never generates a real argument, producing a catalog of appreciation and quotation rather than a critical reading of Bleeding Edge.",
+    "strongest": "The reviewer's genuine love for Pynchon produces some vivid micro-observations — particularly on free-indirect discourse and the book's pre-9/11 pastoral — that briefly illuminate the novel's texture.",
+    "weakest": "The review substitutes an elaborate organizational conceit for analytical argument, and most of the 26 \"letters\" are thin pretexts for a quote plus a sentence of praise, with extensive personal digressions crowding out any sustained thesis about the book.",
+    "summary_trap": true
+  },
+  {
+    "id": "021",
+    "title": "Breakdown in Pakistan (Masooda Bano)",
+    "scores": {
+      "insight": 9,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate: the reviewer brings deep firsthand experience and a genuine thesis — that foreign aid systematically guts the voluntary collective action capacity it most needs — making this one of the most intellectually substantive reviews in the field.",
+    "strongest": "The reviewer weaves the book's theoretical framework together with vivid personal fieldwork anecdotes (Afghanistan hashar, Zimbabwe religious VO, Nepal HIV network) and unexpected historical parallels (Nevius's 1895 missionary critique, Ostrom's Nepal forestry) to construct a genuinely cumulative argument rather than a summary.",
+    "weakest": "The piece occasionally loses pacing in its final third, where the transition into Ethiopian Self-Help Groups and EA-targeted policy recommendations feels somewhat grafted on, diluting the tight analytical focus of the earlier sections.",
+    "summary_trap": false
+  },
+  {
+    "id": "022",
+    "title": "Bronze Age Mindset: An Exhortation by Bronze Age Pervert",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the immanent critique — using BAP's own metaphysics to argue he betrays his first principles by excluding posthumanism — is genuinely original and philosophically rigorous, though the second half runs slightly long and the Diamond Age conclusion is underintegrated.",
+    "strongest": "The central argument is sharply non-obvious: BAP's own cosmology (will as species-transcendent, intelligence as \"endless forms\") logically demands embracing AI and posthumanism, making his bronze-age humanism a philosophical self-contradiction.",
+    "weakest": "The extended detour through Yudkowsky and the AI pause letter in Part 2 loses momentum and reads more like background summary than integrated argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "023",
+    "title": "Brook Farm: The Dark Side of Utopia (by Sterling Delano), with comparison to Brigham Young via Pioneer Prophet",
+    "scores": {
+      "insight": 5,
+      "engagement": 5,
+      "originality": 5,
+      "fairness": 8,
+      "structure": 4
+    },
+    "verdict": "Not shortlist material — the Ripley/Young comparative frame is a genuine structural idea, but both halves are predominantly biographical summary rather than sustained argument, and the analysis never arrives at conclusions more illuminating than \"good leaders have practical skills and selectivity matters.\"",
+    "strongest": "The cross-book comparison of George Ripley and Brigham Young as contrasting leader archetypes is a creative structural choice that gives the review more shape than most single-book summaries.",
+    "weakest": "The Young section occupies roughly half the review but functions almost entirely as a biographical narrative from a second book, with only glancing comparative observations connecting it back to the thesis, making the piece feel like two long summaries stapled together.",
+    "summary_trap": true
+  },
+  {
+    "id": "024",
+    "title": "Candide by Voltaire",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy for its sharp central thesis — that Candide attacks the compulsion to explain rather than optimism per se — and for its Pococurante reading, though the middle sections lean too heavily on scene-by-scene recap and the ending gestures at an insight without fully committing to it.",
+    "strongest": "The identification of Pangloss's explanations as the obscenity rather than as a target needing disproof is a genuinely non-obvious reading that reframes the book's satirical method.",
+    "weakest": "Sections II and III function largely as annotated plot summary, with the thesis only loosely anchoring each scene rather than driving a continuous argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "025",
+    "title": "Capitalist Realism by Mark Fisher",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 6,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: it constructs a genuinely generative thesis from Fisher's framework that produces non-obvious predictions and actually advances an argument rather than just reporting the book, though the review's relationship to the book itself is so attenuated that it can barely be called a book review.",
+    "strongest": "The three-bucket taxonomy of why people don't have children — especially the \"self-auditing wounded\" as a structural metastability that capitalism cannot argue with without undermining its own auditing infrastructure — is genuinely original and payoff-rich thinking.",
+    "weakest": "The piece is almost entirely a novel essay that uses Fisher as a springboard; it barely engages with the actual arguments, evidence, or writing of Capitalist Realism, making fairness to the source text impossible to evaluate and undercutting its claim to be a book review.",
+    "summary_trap": false
+  },
+  {
+    "id": "026",
+    "title": "Careless People by Sarah Wynn-Williams",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy for its sharp pivot from memoir recap to AI alignment argument, though the structural ambitions slightly outrun the execution in the final section.",
+    "strongest": "The central thesis — that \"careless\" undersells the danger because Zuckerberg and Sandberg are intensely purposeful optimizers for maximum engagement, not lazy Gatsby-style idlers — is a genuinely non-obvious reframing that earns the whole review.",
+    "weakest": "The Taghairm/AI section, while conceptually interesting, arrives somewhat abruptly and the connection between etymology, AI alignment, and the memoir's thesis is gestured at rather than fully argued, leaving the payoff feeling a bit rushed.",
+    "summary_trap": false
+  },
+  {
+    "id": "027",
+    "title": "Catullus 16 (review of the poem / neoteric Latin poetry)",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy as an unusually lively and thoughtful piece of literary criticism, though its subject is a single short poem rather than a book, which may raise eligibility questions; nonetheless it earns its length through genuine interpretive argument and memorable voice.",
+    "strongest": "The diss-track-vs-banter dual-reading framework is genuinely illuminating, and the connection between Roman sexual ethics and Catullus's precise rhetorical strategy (who is doing the penetrating and why that matters culturally) gives readers a non-obvious conceptual payoff.",
+    "weakest": "The \"Brief Aside on Latin Meter\" section, while charming, largely functions as a tangent that dilutes the momentum of the main argument and doesn't connect back meaningfully to the thesis.",
+    "summary_trap": false
+  },
+  {
+    "id": "028",
+    "title": "Chuang-Tzu: The Inner Chapters by A. C. Graham",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the EA/rationalism framing is genuinely illuminating and the chapter-by-chapter argumentation builds real philosophical momentum, though some sections overstay their welcome and dilute the thesis.",
+    "strongest": "The sustained mapping of each Inner Chapter to a specific challenge to EA/utilitarian assumptions — culminating in the Hundun parable as \"the most devastating critique of altruism in the entire book\" — gives the review a coherent, cumulative intellectual argument rather than mere summary.",
+    "weakest": "The lengthy dramatis personae section and the \"rest of the book\" coda are genuinely informative but interrupt the argumentative momentum and feel more like a scholar's duty to comprehensiveness than a reviewer's instinct for what earns its length.",
+    "summary_trap": false
+  },
+  {
+    "id": "029",
+    "title": "Collected Poems by C.S. Lewis",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review builds a genuine thesis — that Lewis's poetry is best understood as a vehicle for transmitting \"Stock Responses\" — and earns it through well-chosen examples and a confident, warm voice, though it could mine the actual poems more deeply.",
+    "strongest": "The central argument linking Lewis's poetics to the \"Stock Response\" concept is genuinely illuminating and gives the review a unifying thesis that most poetry-collection reviews lack.",
+    "weakest": "The biographical first section is fairly generic \"here's who Lewis was\" territory that delays the real argument, and the Philip Rieff \"Deathworks\" detour is under-integrated rather than load-bearing.",
+    "summary_trap": false
+  },
+  {
+    "id": "030",
+    "title": "Coriolanus (Shakespeare)",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 9,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Shortlist-worthy: a genuinely original, thesis-driven essay that uses Coriolanus as scaffolding for a novel theory of democratic legitimacy, fitness interdependence, and \"kayfabocracy,\" marred primarily by its unwieldy length and the overlong Socratic dialogue that delays the payoff.",
+    "strongest": "The \"mutual information\" framework for legitimacy circulation and the \"kayfabocracy\" coinage are genuinely original conceptual contributions that reframe both the play and contemporary democratic decay in a way you have not encountered before.",
+    "weakest": "The common-room Socratic dialogue constitutes roughly a third of the piece and dramatically overshoots its purpose, sapping momentum before the Shakespeare analysis and the kayfabocracy argument have a chance to land.",
+    "summary_trap": false
+  },
+  {
+    "id": "031",
+    "title": "Cry Havoc by Simon Mann",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate: the \"Mark Thatcher Syndrome\" thesis is a genuinely original analytical frame that earns the length and transforms a niche mercenary memoir into a meditation on identity, adventure-hunger, and self-deception.",
+    "strongest": "The invention and sustained development of \"Mark Thatcher Syndrome\" as an explanatory concept gives the review a real thesis that pays off across all four earlier theories, making the whole piece feel like a proper argument rather than a tour through the book.",
+    "weakest": "The fairness toward Mann occasionally slips — particularly the torture-cooperation criticism and the ethnic composition of his officer corps — where the reviewer acknowledges the unfairness but still deploys the point, slightly undermining the analytical rigor the rest of the piece earns.",
+    "summary_trap": false
+  },
+  {
+    "id": "032",
+    "title": "Cultural Evolution by Ronald Inglehart",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 9,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review moves well beyond summary, adds original analysis (Saudi Arabia case, life extension implications, evolutionary speculation), and its intellectual honesty about methodological limits is exemplary — though the middle sections track the book's structure too closely to fully distinguish it.",
+    "strongest": "The \"Open Questions\" section and the evolutionary biology speculation at the close are entirely the reviewer's own contribution, demonstrating genuine independent thought that elevates the piece above explanation into intellectual engagement.",
+    "weakest": "The middle sections (Democratic Transition, Case Studies) follow the book's own chapter structure fairly closely, making the review feel expository for stretches when it could be more argumentative or selective.",
+    "summary_trap": false
+  },
+  {
+    "id": "033",
+    "title": "Der Untergang des Abendlandes (The Decline of the West) by Oswald Spengler",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review advances a genuine, non-obvious thesis (Spengler's work as self-fulfilling catalyst), writes with real voice and wit, and earns its length through substantive engagement rather than summary padding.",
+    "strongest": "The recursive meta-argument — that Untergang des Abendlandes may itself be a load-bearing demolition of the Western self-conception it claims only to describe — is a genuinely original and thought-provoking insight that elevates this well above a standard book report.",
+    "weakest": "Section III (the synthesized Spenglerian forecast) is largely a mechanical restatement of points already made in section II, slowing the pace at exactly the moment the review should be building toward its conclusion.",
+    "summary_trap": false
+  },
+  {
+    "id": "034",
+    "title": "Sowing the Mustard Seed by Yoweri Museveni",
+    "scores": {
+      "insight": 7,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review succeeds brilliantly as narrative journalism and character study, with a distinctive voice and genuinely interesting on-the-ground observations, though it leans on travelogue charm more than analytical depth in its final accounting of Museveni's legacy.",
+    "strongest": "The review has an exceptionally alive, confident voice that weaves firsthand travel observations, dry humor, and real historical texture into something far more vivid and illuminating than a conventional book review — the contrast between Museveni's grandiose self-myth and his helplessness over school fees is the kind of specific insight that sticks.",
+    "weakest": "The extensive historical digression (Uganda Railway, Tsavo Lions, Patterson's Forrest Gump career) is entertaining but bloats the piece well beyond what the actual book analysis earns, and the final verdict — \"incompetent!\" — feels like a punchline that dodges a harder, more substantive reckoning with what 40 years of Museveni rule actually means.",
+    "summary_trap": false
+  },
+  {
+    "id": "035",
+    "title": "Don't Bang Denmark by Roosh V",
+    "scores": {
+      "insight": 6,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "A shortlist-adjacent review that earns its place through sharp wit and a genuinely interesting insider angle, but the Ozy Brennan digression and loose ending keep it from being a true standout.",
+    "strongest": "The reviewer's identity as a Danish woman gives the review an earned authority and produces genuinely funny, non-obvious observations — particularly the reframing of Danish egalitarianism as redistributing sexual opportunity the same way it redistributes wealth.",
+    "weakest": "The extended Ozy Brennan quote and surrounding commentary derail the pacing in the final third, functioning more as a separate essay than a payoff to the review's central argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "036",
+    "title": "Dream of the Red Chamber",
+    "scores": {
+      "insight": 9,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 9,
+      "structure": 9
+    },
+    "verdict": "Strong shortlist candidate: it advances a clear, well-argued thesis about a misread character, earns its close readings, and lands a final turn — the identification of Baochai's posture with Cao Xueqin's act of writing — that genuinely reframes both the character and the novel.",
+    "strongest": "The comparison between Baochai's mode of \"bearing\" and Cao Xueqin's own authorial posture — staying where placed, finishing what must be done — is an original, structurally satisfying insight that elevates the entire essay.",
+    "weakest": "The contemporary parallel (the \"reliable person in a modern office\") is the essay's least-earned move, stated rather than demonstrated, and risks flattening the historical specificity that the rest of the review handles with care.",
+    "summary_trap": false
+  },
+  {
+    "id": "037",
+    "title": "Earth Abides by George R. Stewart",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the autistic self-insert framing gives the review a genuine thesis and personal resonance that lifts it well above plot summary, though it stops just short of exceptional because the central argument (Ish as Stewart's letter to his younger self) is asserted rather than fully developed with textual rigor.",
+    "strongest": "The reviewer's personal identification with Ish is deployed purposefully rather than indulgently — it drives a real critical argument about the novel's themes of vestigial behavior, arrogance, and acceptance, making the review feel like genuine thinking rather than fan appreciation.",
+    "weakest": "The autism-as-lens framing, while fresh, is leaned on somewhat loosely — the claim that Stewart was \"one of us\" rests on circumstantial inference about his bibliography rather than any documented evidence, which slightly undermines the credibility of the review's central interpretive move.",
+    "summary_trap": false
+  },
+  {
+    "id": "038",
+    "title": "Fairness and Freedom: A History of Two Open Societies, New Zealand and the United States (David Hackett Fischer)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: a genuinely well-argued review that advances a clear thesis about selection effects shaping national values, extends Fischer's analysis by adding Australia as a triangulating case, and sustains a confident, distinctive voice throughout.",
+    "strongest": "The \"morality of exit vs. morality of managed settlement\" synthesis near the end crystallizes the entire review's argument into a memorable, original formulation.",
+    "weakest": "The middle settlement-colony section accumulates detailed historical material that occasionally slows momentum without always connecting back to the central thesis.",
+    "summary_trap": false
+  },
+  {
+    "id": "039",
+    "title": "Fear and Trembling (Kierkegaard)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the Newcomb's problem framing of Abraham's faith is genuinely original and the review sustains a real argument throughout rather than lapsing into summary.",
+    "strongest": "The opening reframing of the Abraham/Isaac story as a variant of Newcomb's problem is a striking, non-obvious move that gives the entire review a unifying intellectual spine.",
+    "weakest": "The third section on Abraham's silence is the weakest and most summary-adjacent stretch, and the closing epigraph interpretation, while evocative, is somewhat underdeveloped compared to the rigor of the earlier sections.",
+    "summary_trap": false
+  },
+  {
+    "id": "040",
+    "title": "Free Agents by Kevin Mitchell and Determined by Robert Sapolsky (comparative review)",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 5,
+      "fairness": 6,
+      "structure": 6
+    },
+    "verdict": "Competent and readable but ultimately a structured summary-plus-verdict that confirms the reviewer's pre-existing priors, rather than a piece that teaches something genuinely new about the free will debate; not shortlist-worthy.",
+    "strongest": "The reviewer's candid disclosure of their Sapolsky/Harris bias, combined with genuinely substantive critique of Mitchell's quantum indeterminacy argument (epistemic overconfidence on a contested question) and the \"how does the self actually harness it?\" gap, gives the dismissal of Mitchell real argumentative weight.",
+    "weakest": "The comparative structure — summarize Book A, summarize Book B, declare winner — is predictable and the reviewer even acknowledges four similar reviews already exist online, undercutting claims to originality of angle.",
+    "summary_trap": false
+  },
+  {
+    "id": "041",
+    "title": "From Here to Equality: Reparations for Black Americans in the Twenty-First Century",
+    "scores": {
+      "insight": 9,
+      "engagement": 8,
+      "originality": 9,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate — it advances a genuinely novel argument (reparations as a Pareto-optimal conservative deal), backs it with interactive methodology, and has a distinctive, confident voice throughout.",
+    "strongest": "The core reframing — that D&M's own framework makes reparations welfare-enhancing for anti-DEI conservatives, and that rejecting this reveals conservative objections as performative rather than rational — is a sharp, non-obvious thesis that the author actually argues and defends rather than merely asserting.",
+    "weakest": "The DEI capitalization section leans heavily on a figure the reviewer themselves calls \"total bollocks,\" and the subsequent net-present-value analysis of ending DEI feels less rigorous than the methodology critique that precedes it, somewhat undermining the quantitative credibility the review works hard to build.",
+    "summary_trap": false
+  },
+  {
+    "id": "042",
+    "title": "Galileo's Error by Philip Goff",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 9,
+      "fairness": 4,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy for its ferocious intellectual energy and genuine philosophical counter-argument, but the sustained contempt tips into unfairness that a serious judge must penalize.",
+    "strongest": "The reviewer doesn't merely mock — they mount a substantive philosophical counter-argument (the perspectival asymmetry section, the \"intrinsic seven\" thought experiment, the linear algebra point about representation) that genuinely illuminates why panpsychism's foundation is shaky, making the polemic intellectually earned rather than merely entertaining.",
+    "weakest": "The review is so relentlessly hostile that it never seriously steelmans Goff's actual strongest points — the hard problem as Chalmers frames it, or the Russellian monist literature the reviewer briefly acknowledges then dismisses — which undermines its credibility as a fair assessment of the book's real merits and demerits.",
+    "summary_trap": false
+  },
+  {
+    "id": "043",
+    "title": "Ghosts by Henrik Ibsen",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Strong shortlist candidate: it advances a genuinely bold interpretive thesis about pedophilic rape and paternity fraud hidden in Ibsen's text, doing real detective work rather than merely summarizing the play, though the review sprawls considerably once it leaves the central argument.",
+    "strongest": "The review's systematic forensic case for the \"dark interpretation\" of Ghosts — working through the timeline, the pipe scene, the Oedipus subtitle, and the paternity clues to argue they form a coherent hidden logic — is genuinely illuminating and leaves the reader with a new way to see the play.",
+    "weakest": "After the central argument lands around the midpoint, the review drifts into a long discursive tour of Ibsen's other plays and a quasi-sociological thesis about übermenschen as unfit survivors, which, while interesting, dilutes the focus and the pacing never fully recovers.",
+    "summary_trap": false
+  },
+  {
+    "id": "044",
+    "title": "Gilead by Marilynne Robinson",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 5,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "A warm, literate review with genuine feeling, but it leans too heavily on admiring summary and personal testimony rather than advancing a sharp, teachable argument - not shortlist material, though above average in quality of prose and care for the text.",
+    "strongest": "The argument that Robinson succeeds at the notoriously difficult task of making a genuinely good person interesting - and the explanation of why Ames' quiet holiness surpasses his more theatrically righteous ancestors - is the review's most substantive and memorable insight.",
+    "weakest": "The review's central structure is still largely admiring summary of characters and plot, with the analytical thesis (about goodness, faith that opens rather than blinds) woven in but never fully foregrounded or argued with rigor.",
+    "summary_trap": true
+  },
+  {
+    "id": "045",
+    "title": "Great and Desperate Cures: The Rise and Decline of Psychosurgery and Other Radical Treatments for Mental Illness",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist borderline: the voice is genuinely engaging and the closing is powerful, but the review is too long, too content-heavy, and follows the book's own structure too closely to be a strong finalist.",
+    "strongest": "The authorial voice is lively, sardonic, and consistently alive — the humor lands without cheapening the material, and the final return to Howard Dully and Freeman's poem gives the piece a genuinely moving emotional payoff.",
+    "weakest": "The review is substantially an annotated retelling of the book chapter by chapter, reproducing large quantities of anecdote and quotation with relatively little original argument beyond what Valenstein himself already argues.",
+    "summary_trap": false
+  },
+  {
+    "id": "046",
+    "title": "Harrison Bergeron (Kurt Vonnegut), with extended discussion of Atlas Shrugged, The State and Revolution, and The Communist Manifesto",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the core thesis that Harrison Bergeron is a parody of Atlas Shrugged rather than a sincere anti-socialist tract is genuinely original and argued with real textual and biographical evidence, but the extended detour through Lenin dilutes the focus and the piece runs longer than its thesis strictly requires.",
+    "strongest": "The argument that Vonnegut wrote Harrison Bergeron as a parody of Atlas Shrugged — supported by biographical context, quote comparisons, and the irony of its reception — is a fresh, non-obvious thesis argued with real evidence and wit.",
+    "weakest": "The lengthy Lenin/Communist Manifesto section drifts into genuine content summary and loses the thread, making the piece feel like two essays spliced together rather than one tightly structured argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "047",
+    "title": "Headbirths, or The Germans Are Dying Out by Günter Grass",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Not shortlist-worthy — it has genuine moments of wit and the biographical revelation about Grass's Nazi service is nicely integrated, but the review largely proceeds section-by-section through the book's contents without landing a single unifying argument.",
+    "strongest": "The reviewer's concluding reframing — that Grass may have written the book to interrogate whether low fertility is a bug or feature of his political tribe — is a compact, original thesis that makes the whole piece retroactively interesting.",
+    "weakest": "The structure is essentially a tour through the book's named sections (The Wall, The Liver Sausage, Nuclear Power, The Dictator, etc.), which is exactly the chapter-by-chapter summary format ACX reviewers are warned against, and the thesis only emerges in the final paragraph rather than driving the piece.",
+    "summary_trap": true
+  },
+  {
+    "id": "048",
+    "title": "House of Leaves",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "A pleasant, readable review with a fun organizing conceit and some sharp moments, but it doesn't dig deep enough into what the book is actually doing to earn shortlist consideration.",
+    "strongest": "The closing \"AI art\" analogy — the book punishes close attention despite performing depth — is a genuinely original and well-earned observation that captures something true and non-obvious about the work.",
+    "weakest": "The \"villain per layer\" thesis is mostly a playful framing device rather than a sustained argument; it never coheres into a real claim about what the book means or why it matters.",
+    "summary_trap": false
+  },
+  {
+    "id": "049",
+    "title": "How I Killed Pluto and Why It Had It Coming (Mike Brown)",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 9,
+      "structure": 6
+    },
+    "verdict": "Worth shortlisting for its genuine analytical ambition and intellectual honesty, but the heavy expository first half and sprawling epilogue sections dilute what is otherwise a substantive, original engagement with the planet-definition debate.",
+    "strongest": "The reviewer constructs an independent quantitative case against Pluto — original charts comparing orbital parameters, mass, and \"planetary science potential\" across solar system bodies — and steelmans Stern's competing geophysical definition with real care, producing genuine intellectual payoff beyond the book's own arguments.",
+    "weakest": "The first half of the review is largely a detailed chapter-by-chapter summary of Brown's memoir, covering the history of planet discovery, observing methodology, and personal anecdotes at length before the reviewer's own analytical voice fully emerges.",
+    "summary_trap": false
+  },
+  {
+    "id": "050",
+    "title": "How to Prevent Coups d'État (Erica De Bruin, Cornell University Press, 2020)",
+    "scores": {
+      "insight": 7,
+      "engagement": 9,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review's distinctive comic voice and genuine engagement with the book's core paradox (counterbalances deter success but invite attempts) make it a pleasure to read and genuinely informative, though the Noriega case study outstays its welcome and the structure follows the book's own flow a bit too closely.",
+    "strongest": "The recursive legitimacy argument at the end — tracing non-expert Luttwak through expert De Bruin back to a non-expert reviewer — is a clever original insight that reframes the entire book's thesis about authority resting on daring rather than credentials.",
+    "weakest": "The Noriega case study section is overly long and reads more as a faithful plot summary of events than an analytical contribution, momentarily breaking the review's otherwise strong forward momentum.",
+    "summary_trap": false
+  },
+  {
+    "id": "051",
+    "title": "Imagined Communities: Reflections on the Origin and Spread of Nationalism by Benedict Anderson",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Don't shortlist — the review is engaging and personally grounded but leans too heavily on summary rather than making a sustained original argument about why Anderson's thesis matters.",
+    "strongest": "The personal framing of growing up between Spanish and Catalan nationalists, culminating in standing in an illegal referendum and feeling the tug despite anti-nationalist convictions, gives the review an emotional grounding and honesty that most academic summaries lack.",
+    "weakest": "The bulk of the review is organized as book-following summary (print-capitalism, Americas, Europe, WW1) rather than as an argument the reviewer is making, so the genuine insights remain scattered rather than building toward a thesis.",
+    "summary_trap": true
+  },
+  {
+    "id": "052",
+    "title": "Into the Universe of Technical Images by Vilém Flusser",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the Borges framing is genuinely effective, the AI-parallels are illuminating rather than gimmicky, and the reviewer clearly has something to say — but the prose doesn't quite reach the level of a finalist.",
+    "strongest": "The sustained Borges/Pierre Menard frame is not decorative but actually illuminating — it earns the parallel each time it reappears, culminating in a clean payoff about hyperstition and consensus, which makes the review feel architecturally purposeful.",
+    "weakest": "The AI-parallels section, while genuinely insightful, occasionally tips into explaining Flusser by explaining what neural networks do, which delays the argumentative payoff and risks becoming its own kind of summary.",
+    "summary_trap": false
+  },
+  {
+    "id": "053",
+    "title": "Inventing Temperature by Hasok Chang",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 9,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the reviewer uses Chang's thermometry history as a genuine philosophical lens to interrogate LLM benchmarking, producing an original argument rather than merely summarizing the book, though the prose can be dense and academic in stretches.",
+    "strongest": "The extended analogy between epistemic iteration in thermometry and the problem of benchmarking LLM capabilities is genuinely illuminating and non-obvious, grounding a live contemporary debate in a rigorous historical framework.",
+    "weakest": "The writing voice is competent but often clinical and lecture-like, lacking the spark or wit that would lift an otherwise strong analytical essay into truly memorable territory.",
+    "summary_trap": false
+  },
+  {
+    "id": "054",
+    "title": "Invisible Cities (Calvino) and Life: A User's Manual (Perec)",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the review advances a genuine thesis about ironic inversion as a shared literary strategy, has a distinctive and genuinely funny voice, and the missing-chapter observation is an original find — though the raven paradox opening and occasional length in the Oulipo background section slightly dilute the focus.",
+    "strongest": "The review's voice is exceptionally alive — the self-aware footnotes, the \"ugh, depressing / yay!\" toggle, and the confession about the author's actual intentions in footnote [5] make it a genuine pleasure to read rather than a competent literary exercise.",
+    "weakest": "The raven paradox opening, while charming, is only loosely connected to the thesis and the review's own admission (\"This isn't my intention at all\") somewhat undercuts the framing it spent two paragraphs establishing.",
+    "summary_trap": false
+  },
+  {
+    "id": "055",
+    "title": "Kakistocracy by Richard Hanania",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Shortlist-borderline: the dating-angle framing and wealth/meaning-maximizer extensions are genuinely fresh and the voice is distinctive, but two labeled summary sections significantly drag the piece down and prevent it from fully earning its considerable length.",
+    "strongest": "The extension of Hanania's wealth/meaning-maximizer framework into dating dynamics — culminating in the observation that high-status meaning-maximizers adopting populist grievances are a kind of status-confused self-sabotage — adds real analytical value beyond anything the book itself likely offers on that topic.",
+    "weakest": "The two explicitly labeled \"Summary of Kakistocracy's Main Arguments\" sections run on for many paragraphs of near-verbatim book reportage that stall the review's momentum and dilute its otherwise original voice.",
+    "summary_trap": false
+  },
+  {
+    "id": "056",
+    "title": "Kindness Goes Unpunished (Walt Longmire series) by Craig Johnson",
+    "scores": {
+      "insight": 2,
+      "engagement": 4,
+      "originality": 2,
+      "fairness": 6,
+      "structure": 3
+    },
+    "verdict": "Do not shortlist — this is a short personal testimonial that summarizes the plot and expresses enthusiasm without advancing any thesis, argument, or non-obvious observation about the book or its ideas.",
+    "strongest": "The reviewer's genuine personal connection to the Philadelphia setting and long reading history lend a degree of authentic warmth to the endorsement.",
+    "weakest": "The review is almost entirely plot summary and personal enthusiasm with no analytical thought, thesis, or insight that would give a reader any reason to think differently about the book or its subject.",
+    "summary_trap": true
+  },
+  {
+    "id": "057",
+    "title": "King Rat by James Clavell",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Shortlist-worthy for its genuinely original framing — reading a formula-writer's POW novel through Nietzsche and finding that the constraints produce unexpected insight — but the structure is loose and the payoff dissipates before landing cleanly.",
+    "strongest": "The central thesis — that Clavell's hack sensibilities colliding with an existentially unyielding setting create productive contradictions — is a genuinely novel and intellectually satisfying angle that goes well beyond summary.",
+    "weakest": "The pacing is uneven and the conclusion is underdeveloped: after building an interesting three-character Nietzschean framework, the review trails off into a biographical sketch of Clavell in 1980 and an irrelevant footnote about Danielle Steel, never quite closing its own argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "058",
+    "title": "Kristin Lavransdatter",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 5,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist: the review is written with genuine warmth and occasional insight, but it is predominantly a scene-by-scene plot summary that buries its best ideas — the enchanted-world/Charles Taylor thesis, the pagan-Christian tension, the \"dogma is the drama\" point — in a short section near the end, never building them into a sustained argument.",
+    "strongest": "The \"enchanted world\" section, which connects Undset's medieval cosmology to Charles Taylor's concept of the pre-secular age, is a genuinely non-obvious and illuminating framing that briefly lifts the review above summary.",
+    "weakest": "The review is structured almost entirely as a book-club-style plot retelling — character introductions, then book-by-book synopsis — with the actual thesis and original thinking confined to the final quarter and never organically integrated into the narrative.",
+    "summary_trap": true
+  },
+  {
+    "id": "059",
+    "title": "Lee Kuan Yew's Memoirs (The Singapore Story / Third World to First)",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the rationalist power fantasy framing, Lee-Jefferson comparison, and \"stability-maximizer not high-openness\" observation are genuinely sharp, but the structure follows the book too closely and the middle sections drift into descriptive touring rather than sustained argument.",
+    "strongest": "The Jefferson/Lee comparison as Explore-to-Exploit mode shift across two centuries of British imperial rise and fall is a genuinely fresh analytical frame that earns its place and leaves the reader with something new.",
+    "weakest": "The review follows the book's chapter structure too faithfully through the middle sections, making it feel like an annotated tour rather than a sustained argument, which undercuts its otherwise distinctive analytical voice.",
+    "summary_trap": false
+  },
+  {
+    "id": "060",
+    "title": "Leviathan by Thomas Hobbes",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist contender — the reviewer develops a genuine thesis about Hobbes's intellectual optimism and fragile Leviathan, writes with wit and confidence, and earns a personal reckoning with the ideas rather than stopping at summary.",
+    "strongest": "The reviewer surfaces a genuinely counter-intuitive angle — that Hobbes is defined not by grimness but by intellectual optimism and pragmatic fragility — and then honestly tracks how reading the book shifted their own views on free speech, globalisation, and moral universalism.",
+    "weakest": "The second half of the review loses structural tightness as it drifts from book analysis into the reviewer's personal political ruminations, and the final paragraph's advice-to-aspiring-Leviathan-writers feels like a clever flourish that doesn't quite pay off the preceding argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "061",
+    "title": "Meeting, Hardly Meeting (collected poems of Rachel Bluwstein / Rachel the Poet)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the reviewer's dual role as translator and biographer produces genuine insight about Hebrew's linguistic nature and the costs of translation, making a little-known poet feel essential rather than merely interesting.",
+    "strongest": "The extended meditation on Hebrew's density, root-system, and the specific losses incurred when translating Rachel's poems into English is genuinely illuminating and could not have been written by someone who merely read about the subject.",
+    "weakest": "The biographical sections, while affecting, occasionally lapse into chronicle mode — listing events and relatives without always connecting them back to the thesis about loss and beauty that the reviewer articulates so well elsewhere.",
+    "summary_trap": false
+  },
+  {
+    "id": "062",
+    "title": "Mistletoe and Memorandums (AI-generated romance novel attributed to Coral Hart / Claude Opus 4.5)",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the \"Manipulation Hierarchy\" framework is a genuine intellectual contribution that transforms a snarky AI book review into a coherent theory of why AI fiction fails, though the publishing-forecast finale overstays its welcome.",
+    "strongest": "The \"Manipulation Hierarchy\" framework — knowledge, emotion, action, belief — gives the review a unifying thesis that elevates it well above mere mockery, and the application of that framework to specific failure modes (broken micro-promises, absent voice, handshake-screaming) is genuinely illuminating.",
+    "weakest": "The final third pivots into a speculative publishing-industry forecast that loses the book almost entirely and reads like a separate, less rigorous essay grafted onto the end.",
+    "summary_trap": false
+  },
+  {
+    "id": "063",
+    "title": "Moby-Dick; or, The Whale (Herman Melville)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 9,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the sperm-whale-acoustics pivot (sections X-XII) delivers a genuinely non-obvious payoff — the idea that Melville's obsessively complete account has a massive structural blind spot due to an impedance mismatch humans needed microphones to overcome is the kind of reframing that makes a great ACX review, though the middle sections sag into encyclopedia mode before arriving there.",
+    "strongest": "The insight that Melville's exhaustively detailed account is rendered incomplete by an impedance mismatch — he could not hear what sperm whales were doing under the surface, and the organ he described most lovingly (the spermaceti organ) turns out to be a sound-production apparatus rather than an oil reservoir — is genuinely revelatory and earns the whole review.",
+    "weakest": "Sections VI through IX drift into well-researched but loosely argued encyclopedism about whaling economics and natural history, functioning more as accumulated facts than as steps in a building argument, which diffuses momentum before the acoustic payoff arrives.",
+    "summary_trap": false
+  },
+  {
+    "id": "064",
+    "title": "Money by Martin Amis",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Worth shortlisting for its genuine thesis, lively voice, and the pornographic/erotic-as-profane/sacred analytical move, but the long middle sections drifting into Silicon Valley cultural commentary dilute what could have been a tighter, more focused piece about the novel.",
+    "strongest": "The framing of John Self as Nabokov's ape drawing the bars of his own cage, extended through the pornographic/erotic dichotomy mapped onto profane/sacred, is a genuinely illuminating analytical lens that earns its ambition.",
+    "weakest": "Sections 2 through 4 sprawl into a loosely connected cultural essay on modernity, Russia, and Silicon Valley that loses the novel for long stretches and substitutes name-dropping (DFW, Ginsberg, Adam Curtis, E/Acc) for sustained argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "065",
+    "title": "Montaillou: Cathars and Catholics in a French Village, 1294-1324",
+    "scores": {
+      "insight": 7,
+      "engagement": 6,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Shortlist-borderline: rich in genuinely interesting observations and honest critical engagement, but lacks an overarching thesis and reads more as an annotated reading log than a shaped argument.",
+    "strongest": "The reviewer consistently applies a sharp analytical lens — flagging the selection-effect problem, tracing the poverty of doctrine to pre-literacy, and finding surprising comparative data points (communion frequency trends, folk dualism, the man burned for refusing oaths) — producing real intellectual payoff.",
+    "weakest": "The review is organized as a sequence of thematic bullet-point sections with no unifying thesis, so the accumulated observations never cohere into an argument, and the piece ends without a memorable landing.",
+    "summary_trap": false
+  },
+  {
+    "id": "066",
+    "title": "Moral Tribes by Joshua Greene",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the review advances a genuine argument, lands a sharp internal critique of Greene using his own logic, and extends the dual-process framework into an original political model — but the ending is underdeveloped and the reviewer explicitly declines to engage with utilitarianism just when the argument demands it.",
+    "strongest": "The critique of Greene's hedging on slavery — showing that he abandons his own analytical tool the moment it becomes uncomfortable — is incisive and uses the book's own framework against itself.",
+    "weakest": "The reviewer explicitly punts on evaluating utilitarianism at precisely the moment the review's central argument demands engagement with it, leaving the thesis underbuilt.",
+    "summary_trap": false
+  },
+  {
+    "id": "067",
+    "title": "More Money Than God: Hedge Funds and the Making of a New Elite, by Sebastian Mallaby",
+    "scores": {
+      "insight": 6,
+      "engagement": 8,
+      "originality": 5,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Don't shortlist: the voice is genuinely entertaining and the pushback on Mallaby's pro-deregulation thesis is well-grounded, but the review is primarily a detailed section-by-section summary with commentary rather than an essay driven by an original argument, which keeps it from finalist level.",
+    "strongest": "The authorial voice is consistently funny and alive — the invisible-velociraptor conceit, the Soros \"messiah complex\" riff, the Walter White comparison, and the Garden-of-Eden closing all demonstrate confident, distinctive writing that makes a very long review genuinely pleasurable.",
+    "weakest": "The review follows the book chapter-by-chapter and spends far more words summarizing what each hedge fund did than developing its central thesis about systemic risk and the limits of Mallaby's anti-regulation stance, leaving the argument underpowered relative to the length.",
+    "summary_trap": true
+  },
+  {
+    "id": "068",
+    "title": "Mother of Learning",
+    "scores": {
+      "insight": 6,
+      "engagement": 6,
+      "originality": 5,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Not shortlist-worthy in a competitive field — the genuine thesis about fantasy's \"born-special\" lesson problem is promising, but it gets buried under an extended plot/character walkthrough that shifts the review toward annotated summary.",
+    "strongest": "The Hansel and Gretel anecdote reframes the stakes of the review's central argument (that fantasy's choice of protagonist models matters) with a genuinely surprising and illuminating real-world example.",
+    "weakest": "The multi-section plot summary and character-by-character breakdown consumes most of the review's length and momentum, displacing the original argument with reportage.",
+    "summary_trap": true
+  },
+  {
+    "id": "069",
+    "title": "Night by Elie Wiesel",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review builds a genuinely original and morally serious argument — that Night's passive voice inadvertently erases human agency and thereby undermines Wiesel's own life's work against indifference — and sustains it with careful textual evidence and sharp intertextual comparisons.",
+    "strongest": "The Orwell connection — passive voice as the same political obfuscation used to hide atrocities — applied to the very book documenting one of those atrocities is a genuinely non-obvious insight that gives the whole critique intellectual weight.",
+    "weakest": "The early section on ellipses, while pointing to a real stylistic weakness, lingers too long before arriving at the more compelling structural argument about absent perpetrators and erased agency.",
+    "summary_trap": false
+  },
+  {
+    "id": "070",
+    "title": "Orality and Literacy by Walter Ong",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: it earns its length by extending Ong into an original 2x2 framework and a genuine manifesto for where writing must go, rather than merely reporting what the book says.",
+    "strongest": "The original communal/solitary × ephemeral/persistent framework repositions digital orality as categorically more dangerous than Ong's orality — not a regression but a new beast — and that argument genuinely illuminates something the reader won't have seen before.",
+    "weakest": "The final \"Eye\" section sprawls into a wishlist of typographic experiments (new punctuation marks, mirrored letters, Substack rants) that loses argumentative coherence and reads more like enthusiastic brainstorming than a tight landing.",
+    "summary_trap": false
+  },
+  {
+    "id": "071",
+    "title": "Painting Abstract Landscapes by Gareth Edwards and Kate Reeve-Edwards",
+    "scores": {
+      "insight": 6,
+      "engagement": 6,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 4
+    },
+    "verdict": "Do not shortlist — the review has genuine moments of insight and an honest personal voice, but it is overwhelmingly a practitioner's diary rather than a critical argument, and the structure meanders badly without a thesis that earns its considerable length.",
+    "strongest": "The Jungian digression on cognitive functions (Introverted Thinking vs. Introverted Feeling) as a lens for why the book's \"emotional weather\" language rings hollow to certain readers is a genuinely non-obvious and self-aware observation.",
+    "weakest": "The review has no sustained thesis — it rambles through chapter-by-chapter commentary, personal painting experiments, and tangential comparisons to other artists without ever synthesizing into an argument about what the book means or why it matters beyond its target audience.",
+    "summary_trap": true
+  },
+  {
+    "id": "072",
+    "title": "Parfit: A Philosopher and His Mission to Save Morality (by David Edmonds)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Worth shortlisting for its genuine philosophical engagement and distinctive voice, but the very long summary section drags it below finalist caliber — the excellent analytical work in sections 4 and 5 is buried under more biographical retelling than the format earns.",
+    "strongest": "The reviewer advances a specific, evidence-backed counter-thesis to the biographer's own reading of Parfit's psychology (that the Parfit I/II transition is better explained by earlier frivolity than by mysterious mid-life intensification), and then defends it with textual citations — this is exactly the kind of original argument a great review should make.",
+    "weakest": "Section 3, labeled self-deprecatingly \"The part where I summarize the book and, so, Parfit's life,\" is exactly that — an extensive biography retelling that runs for pages and embodies the summary-trap failure mode, delaying the genuinely sharp analysis that arrives only in sections 4 and 5.",
+    "summary_trap": false
+  },
+  {
+    "id": "073",
+    "title": "Patrocleia (Book XVI of Homer's Iliad, adapted by Christopher Logue)",
+    "scores": {
+      "insight": 5,
+      "engagement": 6,
+      "originality": 4,
+      "fairness": 6,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist: the review is a well-curated anthology of Logue's finest passages with a cultured framing, but it never develops a thesis beyond \"this is great and here is proof,\" leaving the reader enriched by Logue rather than by the reviewer's thought.",
+    "strongest": "The extended quotations are chosen with genuine discernment and illustrate Logue's distinctive reimagining vividly, giving readers a real feel for why this adaptation matters.",
+    "weakest": "The reviewer's own analytical voice is almost entirely absent — the piece functions as an appreciation and guided tour rather than an argument, and the opening Homeric-question preamble adds length without payoff.",
+    "summary_trap": true
+  },
+  {
+    "id": "074",
+    "title": "Persuasions of the Witch's Craft / When God Talks Back (Tanya M. Luhrmann)",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the review advances a genuine thesis about theory-of-mind malleability, makes an interesting Jaynes connection, and earns its length through most of its runtime, though the appended AI speculation section undermines the otherwise tight ending.",
+    "strongest": "The conceptual payoff — framing both books as studies in the deliberate, learnable modification of one's theory of mind, and connecting this to Jaynes and to the ACX community's own secular ritual practices — is genuinely illuminating and not a standard reading of these books.",
+    "weakest": "Section VII's AI/mind-upload speculation, while original, is underdeveloped and feels like a different, less rigorous essay bolted onto the end, dissipating momentum just when the review should be landing its conclusion.",
+    "summary_trap": false
+  },
+  {
+    "id": "075",
+    "title": "Pharmaceutical Freedom: Why Patients Have a Right to Self-Medicate (Jessica Flanigan)",
+    "scores": {
+      "insight": 9,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 9,
+      "structure": 9
+    },
+    "verdict": "Strongly shortlist-worthy: a practicing psychiatrist uses clinical experience to stress-test Flanigan's philosophical argument at precisely its weakest points, advances a genuine counter-thesis (capacity-based hybrid vs. risk-based gatekeeping), and ends with an observation about AI eroding information asymmetry that materially extends the book's argument rather than merely reporting it.",
+    "strongest": "The reviewer's reformulation of the central question — from \"how much risk should we tolerate for freedom?\" to \"how much instability of the chooser should we tolerate in the name of respecting them?\" — is a genuine philosophical contribution that emerges organically from clinical experience.",
+    "weakest": "The middle sections on the \"shadow system\" and regulatory inconsistency, while well-observed, occasionally accumulate clinical examples past the point of diminishing returns and could be tightened without losing the argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "076",
+    "title": "planecrash / Project Lawful (E.S. Yudkowsky)",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 10,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy as a bold formal experiment — the review enacts the book's own thesis about adversarial cognition, decision theory, and layered ontology through its absurdist frame rather than describing them, which is genuinely impressive, though its deliberate opacity and in-group dependency will alienate readers unfamiliar with both the text and the rationalist-internet milieu it parodies.",
+    "strongest": "The review's central formal conceit — performing the book's themes (adversarial epistemology, mesa-objectives, willsave failures, legibility-as-capture) through an absurdist fictional apparatus rather than summarizing them — is genuinely original and manages to illuminate the book's actual intellectual content while demonstrating it.",
+    "weakest": "The review's heavy reliance on in-group terminology (snurnina, Obunga, LIGMA-9000, Baby Gronk, heptagrammaton, Zyn-as-cosmic-ritual) creates a steep accessibility barrier that makes it nearly illegible to anyone outside a narrow audience, limiting its persuasive reach as criticism.",
+    "summary_trap": false
+  },
+  {
+    "id": "077",
+    "title": "Plotting Your Fantasy Novel by Jed Herne",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy in the second half, where the pivot into media-economics analysis and the \"selling the dream\" thesis is genuinely illuminating, but the extended chapter-by-chapter summary in the first half delays the payoff and drags the overall score down.",
+    "strongest": "The meta-thesis — that Herne's actual product is the fantasy of being a writer, not writing skills — is well-evidenced with real income data and funnel analysis, and culminates in a genuinely satisfying ironic twist about Herne himself being an aspiring novelist.",
+    "weakest": "The extended six-part chapter summary in the middle of the review is largely straight reportage and comes close to the \"here's what the book says\" failure mode that ACX judging explicitly penalizes.",
+    "summary_trap": false
+  },
+  {
+    "id": "078",
+    "title": "Plutarch's Parallel Lives (Tiberius and Gaius Gracchi)",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Worth shortlisting as a borderline case — the opening section on Plutarch's real-world political influence is genuinely illuminating and the voice is alive, but the review spends too much of its length on narrative retelling and the analytical payoff at the end doesn't fully deliver on the promising framing.",
+    "strongest": "The opening demonstration of Plutarch's concrete influence on the French and American Revolutions — with specific, well-chosen anecdotes about Rousseau, Charlotte Corday, Hamilton's paybook, and Robespierre — makes a genuinely compelling case that a 1st-century Greek biographer shaped modernity more than almost anyone appreciates.",
+    "weakest": "After the strong thesis-driven opening, the bulk of the review is a well-told but largely descriptive retelling of the Gracchi story, and the concluding \"significance\" section raises interesting political-classification questions (proto-Marxist? proto-nationalist?) without developing them into a real argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "079",
+    "title": "Prior Analytics (Aristotle)",
+    "scores": {
+      "insight": 5,
+      "engagement": 3,
+      "originality": 4,
+      "fairness": 8,
+      "structure": 3
+    },
+    "verdict": "Do not shortlist: despite genuine philosophical acuity in places (the two overlooked syllogisms, the critique of modern validity definitions), the piece reads as a dry technical commentary rather than a review — it has no overarching argument, no voice, no payoff for the general reader, and ends without synthesis.",
+    "strongest": "The identification of two valid syllogistic cases that Aristotle himself missed, along with the reductio proofs supporting them, is a real original contribution that goes beyond mere summary.",
+    "weakest": "The piece has no authorial voice, no thesis tying the analysis together, and no conclusion — it reads as lecture notes on the text rather than a review, ending abruptly with a copyright waiver.",
+    "summary_trap": true
+  },
+  {
+    "id": "080",
+    "title": "Probability Theory: The Logic of Science by E.T. Jaynes",
+    "scores": {
+      "insight": 7,
+      "engagement": 6,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-borderline: the \"through math, empathy\" thesis and the political polarization section are genuinely compelling payoffs, but too much of the middle is a careful mathematical walkthrough that reads as expository summary rather than argument.",
+    "strongest": "The review lands a genuinely surprising and personal thesis — that working through Jaynes' probability theory led the author to empathy for people with different priors — and backs it up with a concrete, well-chosen example about Trump and climate change.",
+    "weakest": "The long middle section stepping through the desiderata, product rule, sum rule, and maximum entropy derivations reads largely as technical summary rather than criticism or argument, slowing momentum significantly before the stronger political-polarization payoff.",
+    "summary_trap": false
+  },
+  {
+    "id": "081",
+    "title": "Progressive Myths by Michael Huemer",
+    "scores": {
+      "insight": 6,
+      "engagement": 6,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist: the deep-dive police-shooting section is genuinely strong and earns credit for independent research and steelmanning, but the review never escapes a chapter-by-chapter summary format and has a structural collapse near the end (a truncated Tax Burden section, out-of-order endnotes) that undermines confidence in the whole.",
+    "strongest": "The benchmarking analysis in the police-shooting section — introducing Ross et al. (2021), framing the core dispute as an epistemological question about the correct denominator, and articulating where the burden-of-proof truly lies — is genuinely non-obvious and adds real intellectual value beyond the book itself.",
+    "weakest": "The later sections (Gender, Tax Burden, footnotes) collapse into abbreviated summaries with tacked-on verdicts, and the review's overall structure is a repetitive myth-by-myth template that drains momentum rather than building toward any cumulative argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "082",
+    "title": "Radical Hope: Ethics in the Face of Cultural Devastation by Jonathan Lear",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the reviewer uses a genuinely argued philosophical critique of Lear's book to advance a live, urgent thesis about how to think clearly when facing cultural collapse, which gives the whole piece real stakes and payoff.",
+    "strongest": "The reviewer doesn't just summarize Lear's argument but systematically disassembles it — distinguishing bare vs. strong hope, appropriateness vs. instrumental legitimacy, thick vs. thin ethical concepts — while keeping a vivid historical case study (Plenty Coups and the Crow) at the center, so the philosophy never floats free of human meaning.",
+    "weakest": "The review's structure sprawls: the framing conceit about AI/cultural collapse is introduced in section II but not fully integrated, several tangents (footnotes, the Catlin digression, \"ask Claude\" asides) blunt the argumentative momentum, and the ending lands softly rather than delivering a crisp payoff that matches the sharpness of the critique.",
+    "summary_trap": false
+  },
+  {
+    "id": "083",
+    "title": "Religion for Atheists by Alain de Botton",
+    "scores": {
+      "insight": 4,
+      "engagement": 4,
+      "originality": 3,
+      "fairness": 7,
+      "structure": 4
+    },
+    "verdict": "Do not shortlist — the review is almost entirely a running chapter summary with minimal original thesis, relying on de Botton's own ideas rather than critically evaluating or extending them.",
+    "strongest": "The reviewer shows genuine intellectual curiosity by connecting de Botton's ideas to real-world data (the leniency/hungry-judges replication issue), rationalist community practices, and the School of Life's actual reach, grounding the book in lived context.",
+    "weakest": "The review lacks any overarching thesis or argument of its own — it reads as an annotated table of contents, reproducing the book's structure section by section without ever synthesizing a \"so what\" that the reviewer brings to the material.",
+    "summary_trap": true
+  },
+  {
+    "id": "084",
+    "title": "No Bad Parts by Richard C. Schwartz",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 9,
+      "fairness": 7,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate — the form-content unity (a play using IFS to review an IFS book) is genuinely clever and well-executed, and the emotional arc earns its resolution, though it underweights rigorous critique of the book's actual therapeutic claims.",
+    "strongest": "The review's central conceit — enacting Internal Family Systems therapy in order to explain and evaluate it — is not a gimmick but a structural argument: the format demonstrates what the book's method actually feels like from the inside, which is more illuminating than any summary could be.",
+    "weakest": "Because the theatrical format prioritizes emotional resonance and dramatic arc, the review largely sidesteps a rigorous examination of whether IFS's therapeutic efficacy claims hold up, leaving the quantum mechanics and spirituality critiques as punchlines rather than developed arguments.",
+    "summary_trap": false
+  },
+  {
+    "id": "085",
+    "title": "Scenebux by Cairo Smith",
+    "scores": {
+      "insight": 6,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 5,
+      "structure": 6
+    },
+    "verdict": "Do not shortlist: the review has genuine energy and voice but functions primarily as enthusiastic advocacy for an obscure novel without building a rigorous argument, and its light on specific textual evidence makes it hard to trust as criticism.",
+    "strongest": "The reviewer's voice is genuinely distinctive and alive — the Luton Airport MDMA anecdote opener is memorable, and the self-aware \"we are both audience and target\" observation about the ACX readership shows real critical self-awareness.",
+    "weakest": "The review almost never quotes or paraphrases the book in ways that let an outsider evaluate whether the praise is warranted — the \"insight\" payoff is more about the reviewer's relationship to internet culture than any sustained argument about what the novel actually achieves or how it achieves it.",
+    "summary_trap": false
+  },
+  {
+    "id": "086",
+    "title": "Seeing That Frees (Rob Burbea)",
+    "scores": {
+      "insight": 6,
+      "engagement": 6,
+      "originality": 4,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Not shortlist-worthy: the personal anecdote opening and section IV are genuinely affecting, but the review ultimately functions as an earnest endorsement rather than an analytical argument, and the middle section collapses into a content inventory that undermines the momentum.",
+    "strongest": "The opening first-person meditation experience is vividly rendered and earns reader trust in a way that makes the subsequent philosophical explanation feel grounded rather than abstract.",
+    "weakest": "Section III is essentially a bulleted list of ten practices summarized in one or two sentences each — the most common failure mode Scott warns against — and it stalls the review's momentum precisely when it should be deepening the argument.",
+    "summary_trap": true
+  },
+  {
+    "id": "087",
+    "title": "Siddhartha (1922) by Hermann Hesse",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 9,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the fictional ACX meetup dialogue format earns its ambition, making a genuinely non-obvious argument about why rationalists keep returning to Buddhism despite themselves — the tacit/explicit knowledge gap — and the self-referential ending (a reviewer explaining that explanation doesn't transmit wisdom) lands with real wit.",
+    "strongest": "The framing device doubles as the thesis: by dramatizing a rationalist being slowly convinced to read the book through a conversation about tacit knowledge, the review enacts the very point it argues — that propositional persuasion is insufficient for this kind of wisdom.",
+    "weakest": "The middle section of the coffee-shop dialogue becomes slightly diffuse as multiple observations pile up without the tight argumentative momentum that drives the first half.",
+    "summary_trap": false
+  },
+  {
+    "id": "088",
+    "title": "Stabilizing an Unstable Economy by Hyman Minsky",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 9,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate — the reviewer genuinely understands and interrogates Minsky's framework, and the embedded critique of Wray/MMT is the kind of value-added analysis that distinguishes a real reviewer from a summarizer, though the piece would benefit from a sharper central thesis stated early.",
+    "strongest": "The embedded mini-review of Why Minsky Matters, which methodically separates what Minsky actually said from Wray's MMT extensions using direct textual evidence, is genuinely insightful and demonstrates the kind of independent critical thinking that elevates this above most book reviews.",
+    "weakest": "The review lacks a single galvanizing thesis stated up front — it reads as a well-informed guided tour of the book's ideas rather than an argument being advanced, with the most interesting original material (the Wray/MMT critique) buried two-thirds of the way in.",
+    "summary_trap": false
+  },
+  {
+    "id": "089",
+    "title": "Storm of Steel by Ernst Jünger",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review makes a genuine argument about authenticity over craft, delivers real insight through the 1924-vs-1961 revision comparison, and the personal essay on duty earns its place rather than being mere padding — though the ending overreaches.",
+    "strongest": "The analysis of how Jünger silently revised the nationalist ending between 1924 and 1961 — tracking his historical disillusionment — is a genuinely non-obvious insight that teaches you something real about both the book and its author.",
+    "weakest": "The personal narrative extends past the point of thematic payoff (the premature daughter is powerful; the cat and stepmother feel like accumulated grief rather than additional argument) and dilutes the structural coherence of the final third.",
+    "summary_trap": false
+  },
+  {
+    "id": "090",
+    "title": "Summa Technologiae by Stanislaw Lem",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the review advances a genuine thesis, uses a concrete modern example (the accelerometer parable) to vindicate Lem's 1964 abstractions, and closes with honest self-awareness about the recursiveness of its own framing — exactly what the best ACX reviews do.",
+    "strongest": "The \"Parable of the Accelerometer\" section earns its place by grounding Lem's abstract technology-tree argument in a vivid real-world example that loops back to the opening sci-fi hook, making a genuinely non-obvious point feel inevitable.",
+    "weakest": "Section IV on information farming and Borges's Library becomes dense and uncertain in a way that slows momentum — the reviewer's own admitted confusion (\"I am not sure\") is honest but leaves the section without the payoff the rest of the review delivers.",
+    "summary_trap": false
+  },
+  {
+    "id": "091",
+    "title": "That Hideous Strength by C.S. Lewis",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Worth shortlisting for its genuinely original framing — THS as prophecy against Modernism, not AI — and the sharp alignment between Lewis's \"fallen/unfallen\" and the AI safety community's \"aligned/unaligned\" vocabulary, but the review's excessive block-quoting and slow pacing prevent it from punching at finalist level.",
+    "strongest": "The central reframe — THS predicted the fall of Modernism, not the rise of AI, and its current revival is because ASI revives Modernist dreams — is a genuinely non-obvious thesis that earns its keep.",
+    "weakest": "The review is severely bloated by extended block quotations and a long plot summary that stall momentum and bury the actual arguments.",
+    "summary_trap": false
+  },
+  {
+    "id": "092",
+    "title": "The Affluent Society by John Kenneth Galbraith",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "A solid, opinionated review with genuine analytical payoff — the AI/UBI connections and Friedman-endorses-Galbraith irony are well-handled — but it lacks a truly distinctive angle and too often drifts into the reviewer's own policy elaborations rather than illuminating the book's ideas; not quite shortlist caliber.",
+    "strongest": "The reviewer draws a compelling through-line from Galbraith's 1958 thesis to contemporary AI job-displacement fears and the NIT revival, making a 70-year-old argument feel genuinely urgent rather than historically quaint.",
+    "weakest": "The structure follows the book's own chapter sequence too closely, and the reviewer's own policy opinions (on taxes, DOGE, RFK Jr.) crowd out deeper engagement with Galbraith's actual argumentative moves.",
+    "summary_trap": false
+  },
+  {
+    "id": "093",
+    "title": "The Bible",
+    "scores": {
+      "insight": 3,
+      "engagement": 6,
+      "originality": 3,
+      "fairness": 5,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist — the review is a polished but entirely conventional take on the Bible that offers no original argument, no close reading, and no payoff beyond familiar liberal-religious consensus positions.",
+    "strongest": "The prose is clean and confident, with a few genuinely punchy lines (the \"survival diary\" framing, \"weaponizing whatever is nearest\") that give it some life on the page.",
+    "weakest": "There is no actual argument or non-obvious insight — every observation (Old Testament has violence, Jesus preached love, institutions corrupt ideals, read metaphorically not literally) is thoroughly familiar, and the review never engages any specific text, passage, or scholarly debate in enough depth to teach the reader anything new.",
+    "summary_trap": true
+  },
+  {
+    "id": "094",
+    "title": "The Book of Abraham (by Abraham / Joseph Smith)",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Strongly shortlist-worthy: a confident, funny, forensically detailed review with a genuine thesis about epistemically broken belief systems winning on instrumental grounds, though the ending slightly undersells the philosophical case it spent 10,000 words building.",
+    "strongest": "The voice is genuinely distinctive and alive — alternating between deadpan historical forensics and sudden comic eruptions — and the \"design spec\" reading of Mormon pre-mortal existence doctrine as surgically optimized for psychological output is one of the sharpest analytical moments in any review of this kind.",
+    "weakest": "The conclusion deflates back onto the South Park quote as a summary thesis, which the reviewer self-consciously admits is unoriginal, undercutting the more interesting philosophical argument about instrumental rationality vs. epistemic rationality that the review had been building toward.",
+    "summary_trap": false
+  },
+  {
+    "id": "095",
+    "title": "The Brothers Karamazov",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-adjacent but not quite there — it's a sharp, well-voiced piece with a clear thesis, but its brevity leaves the central insight (Fyodor Pavlovich as Dostoevsky's shameful alter ego) feeling sketched rather than fully argued.",
+    "strongest": "The Tolstoy contrast and the reading of Fyodor Pavlovich as a study in self-sabotaging shame are genuinely non-obvious framings that reward the reader with a new lens on a familiar novel.",
+    "weakest": "The review is so compact that it only grazes its own best ideas — the connection between Dostoevsky's biography and the buffoon character could have been developed much further before the personal conclusion lands.",
+    "summary_trap": false
+  },
+  {
+    "id": "096",
+    "title": "The Cambridge Introduction to Jacques Lacan (by Todd McGowan)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 6,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: it has a real thesis, a distinctive voice, and a genuinely non-obvious payoff (habituation to variance vs. the hedonic treadmill), though the neuroscience section slightly outruns its evidence and the fairness to both Lacan and Todd McGowan is occasionally thin.",
+    "strongest": "The recursive coup de grace — Lacan standing on stage announcing he is a con man while nobody in the audience notices — is used not merely as a clever framing device but as the review's actual analytical argument, making the whole piece cohere.",
+    "weakest": "The neuroscience section, while ambitious and partially illuminating, makes fairly strong causal claims about opioid/dopamine mechanisms with minimal sourcing, risking the appearance of borrowed authority rather than genuine grounding.",
+    "summary_trap": false
+  },
+  {
+    "id": "097",
+    "title": "The Campaigns of Napoleon by David Chandler",
+    "scores": {
+      "insight": 5,
+      "engagement": 5,
+      "originality": 4,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist — it is a competent, enthusiastic recommendation for the book but functions largely as an extended summary of Chandler's own thesis rather than bringing an original argument or distinctive critical perspective.",
+    "strongest": "The reviewer consistently applies a clear organizing thesis — the operational vs. tactical vs. strategic distinction — to make sense of Napoleon's career, giving the review more coherence than a pure chapter-by-chapter summary.",
+    "weakest": "The review largely restates Chandler's own argument rather than interrogating, extending, or reframing it, so the reader finishes knowing what the book argues but not what the reviewer uniquely thinks about it.",
+    "summary_trap": true
+  },
+  {
+    "id": "098",
+    "title": "The Carnation Revolution: The Day Portugal's Dictatorship Fell (by Alex Fernandes)",
+    "scores": {
+      "insight": 7,
+      "engagement": 9,
+      "originality": 5,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Shortlist-worthy on the strength of its exceptional voice and pacing, but falls just short of finalist caliber because it lacks an explicit argued thesis and relies more on superb storytelling than on original analytical framing.",
+    "strongest": "The embedded documentary-style quotes combined with wry, confident narration create a genuinely propulsive reading experience that makes the reader feel present at each moment of the revolution.",
+    "weakest": "Despite illuminating the structural reasons why captains (not generals or lieutenants) were the engine of change, the review never articulates this as an explicit thesis and largely substitutes vivid retelling for argued analysis.",
+    "summary_trap": false
+  },
+  {
+    "id": "099",
+    "title": "The Disciplinary Revolution: Calvinism and the Rise of the State in Early Modern Europe (Philip Gorski)",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review does real intellectual work connecting Weber, Gorski, Foucault, and WEIRD theory with a confident voice and vivid historical details, though it follows the book's own structure a bit too faithfully to be a standout.",
+    "strongest": "The reviewer earns genuine payoff by connecting Gorski's thesis to contemporary debates (WEIRD psychology, Foucauldian critique, American welfare politics) and adds a thoughtful, original conclusion that reframes discipline as something ambivalently worth keeping.",
+    "weakest": "The structure tracks the book chapter-by-chapter more than it advances a single driving argument of the reviewer's own, which limits how much the piece transcends skilled summary.",
+    "summary_trap": false
+  },
+  {
+    "id": "100",
+    "title": "The Empyrean Series: Fourth Wing, Iron Flame, and Onyx Storm (Rebecca Yarros)",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-borderline: the review has genuine craft observations and a lively voice, but the book-by-book structure and modestly developed thesis keep it from being a true standout in a competitive field.",
+    "strongest": "The reviewer develops a real argument about series structure and escalation ceilings, using the Empyrean books as a concrete, well-chosen case study with honest self-awareness about bias.",
+    "weakest": "Despite the stated framing thesis (\"what makes a successful book series\"), the review mostly proceeds book-by-book through plot and craft observations rather than sustained argument, so the structural insight never fully crystallizes.",
+    "summary_trap": false
+  },
+  {
+    "id": "101",
+    "title": "The End of History and the Last Man by Francis Fukuyama",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "A competent, readable defense of Fukuyama's actual thesis that earns a place on the long list but lacks the original framing or non-obvious payoff needed to shortlist.",
+    "strongest": "The review performs a genuine service by correcting the widespread misreading of Fukuyama and then systematically working through six objections with clarity and fair-mindedness, culminating in a clean deductive argument about the \"recognition problem\" as the reason liberal democracy remains on top.",
+    "weakest": "The piece is primarily organized as an explanation and defense of what the book says rather than as an original argument that uses the book as a springboard, so it never quite escapes the gravitational pull of summary despite the objections structure.",
+    "summary_trap": false
+  },
+  {
+    "id": "102",
+    "title": "The Epic of Gilgamesh",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 7,
+      "fairness": 9,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist contender — the writing is alive and confident, the historical context is genuinely illuminating, and the conclusion earns its philosophical reach without losing the reader along the way.",
+    "strongest": "The concluding meditation on how every unnamed person in a civilization's chain — farmers, guards, babies — is embedded in the written texts that survive them is a genuinely moving and original idea that elevates the whole review.",
+    "weakest": "The middle section covering Tablets 3–6 is openly admitted as a summary drag (\"which is why I'm summarising them so hard\"), and the cultural-history interludes, while interesting, occasionally feel like tangential essays stapled onto a book review rather than tightly integrated argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "103",
+    "title": "The Escape Artist by Jonathan Freedland",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review earns its length by building toward a genuine thesis — that denial is humanity's most dangerous survival mechanism — and delivers it with confidence and occasional wit, though the final section's reach toward contemporary parallels slightly diffuses the landing.",
+    "strongest": "The reviewer identifies and develops a genuinely non-obvious thesis — that the book's real antagonist is human nature's refusal to believe the unthinkable — and supports it with well-chosen evidence from the book including the devastating irony that Rudi's own death from untreated cancer mirrors the denial he condemned in others.",
+    "weakest": "The review's structural ambition (seven numbered sections plus 25 footnotes) occasionally tips into over-organization that fragments narrative momentum, and the closing pivot to climate change, AI risk, and Gaza reads as a gesture toward relevance rather than something earned by the argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "104",
+    "title": "The Evolution of Cooperation by Robert Axelrod",
+    "scores": {
+      "insight": 5,
+      "engagement": 7,
+      "originality": 4,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Not shortlist material — the voice is genuinely enjoyable but the review is fundamentally a well-paced summary of very famous ideas with a personal framing layer rather than a thesis or non-obvious payoff.",
+    "strongest": "The reviewer's casual, self-aware voice (\"Sorry, Jesus,\" parens asides, the Catholic guilt confession) gives the piece genuine personality and makes familiar material pleasant to read.",
+    "weakest": "The review never escapes being a competent chapter-by-chapter recap of Axelrod's already widely-known findings — TIT FOR TAT's virtues are common knowledge in this audience and no new lens is offered.",
+    "summary_trap": true
+  },
+  {
+    "id": "105",
+    "title": "The Evolution of Desire by David Buss",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Worth shortlisting — the reviewer advances a genuine thesis (Buss's own data undermines his evolutionary framing), writes with sardonic wit, and earns the Kipling bookend, but the criticisms never quite reach genuinely surprising territory and the middle sections drag slightly into catalog-of-complaints mode.",
+    "strongest": "The review's best move is using Buss's own Ache and Swedish data to show that his evolutionary framing is undercut by his empirical findings, which is a precise, well-supported argument rather than mere disagreement.",
+    "weakest": "The middle sections (\"Reduction to Resources,\" \"A Fantastic Voyage\") pile up examples of Buss's overreach but don't build toward a new insight — they repeat the same critique rather than deepening it.",
+    "summary_trap": false
+  },
+  {
+    "id": "106",
+    "title": "The Fourth Sword (La cuarta espada) by Santiago Roncagliolo",
+    "scores": {
+      "insight": 6,
+      "engagement": 6,
+      "originality": 4,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "A competent, informative review of a little-known subject that earns its place through genuine content density but falls short of shortlist caliber because it remains too close to the book's surface rather than developing a thesis about what Sendero Luminoso teaches us about ideology, violence, or radicalization.",
+    "strongest": "The observation that the journalist-narrator himself begins to feel the pull of Senderista ideology during his research is the sharpest analytical moment, illuminating the book's deeper argument about how radicalization works from the inside.",
+    "weakest": "The review is structured largely as an organized summary — moving through childhood, university years, ideology, modus operandi, and psychology in sequence — with insufficient original argument about why this all matters beyond the facts themselves.",
+    "summary_trap": true
+  },
+  {
+    "id": "107",
+    "title": "The Full Facts Book of Cold Reading by Ian Rowland",
+    "scores": {
+      "insight": 6,
+      "engagement": 5,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Not a shortlist candidate — the framing device and closing thesis show real intellectual ambition, but the long middle section is substantially a detailed content tour of the book's 38 elements, diluting rather than earning its length.",
+    "strongest": "The Kaj Sotala framing device is genuinely clever, and the closing argument — that deception and self-deception deserve more explanatory weight than the \"intuition aid\" narrative — gives the review a real thesis to land on.",
+    "weakest": "Section II is overwhelmingly a careful paraphrase of the book's taxonomy of cold reading techniques, reading more like annotated notes than an argued essay, which undermines the promising frame set up in Section I.",
+    "summary_trap": true
+  },
+  {
+    "id": "108",
+    "title": "The Ghost in My Brain by Clark Elliott",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 9,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate: it advances a genuine argument about evidence hierarchies and idiosyncratic medicine, uses the book as a lens rather than an end in itself, and is written with real voice and personal stakes.",
+    "strongest": "The reviewer's argument that RCT-based evidence hierarchies fail for heterogeneous, idiosyncratic conditions like PCS — illustrated with the Z-bell critique, the Fijian reef fish analogy, and the Long COVID patient-generated hypotheses model — constitutes a real intellectual contribution, not just book reportage.",
+    "weakest": "The vivid phenomenological summary in the first third, while purposeful, lingers a beat too long before the payoff argument arrives, and the Fijian taboo section, though clever, slightly overextends a point that could be made more efficiently.",
+    "summary_trap": false
+  },
+  {
+    "id": "109",
+    "title": "The Gods Themselves by Isaac Asimov",
+    "scores": {
+      "insight": 5,
+      "engagement": 6,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Not shortlist-worthy — the review has a lively voice and a genuinely interesting thesis (the three-force model for how an author's style evolves over decades), but the argument is thin and the review never escapes the gravitational pull of plot summary long enough to fully develop it.",
+    "strongest": "The reviewer's three-part framework for understanding authorial change (practice, cultural drift, intentional choice) is a genuine analytical idea that gives the review a real thesis beyond mere summary.",
+    "weakest": "Roughly half the review is plot summary, and the \"wokeness\" framing introduced in the opening is handled loosely enough that it muddies rather than sharpens the central argument about literary evolution.",
+    "summary_trap": true
+  },
+  {
+    "id": "110",
+    "title": "The Hero in History (Sidney Hook)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review advances a genuine, well-argued thesis (\"Keyhole Theory\") using evolutionary biology to correct Hook's conflation of historical irreplaceability with personal greatness, and the Trump-as-fitness-landscape analysis is both original and illuminating.",
+    "strongest": "The fitness-landscape metaphor is applied rigorously rather than decoratively, and the author uses it to make a genuinely non-obvious argument: that historical figures can be irreplaceable without being exceptional.",
+    "weakest": "The granular breakdown of the Republican primary fitness landscape (donor dynamics, Santorum vs. Huckabee positioning) risks losing readers in political detail before the theoretical payoff is reached.",
+    "summary_trap": false
+  },
+  {
+    "id": "111",
+    "title": "The History and Adventures of an Atom by Tobias Smollett",
+    "scores": {
+      "insight": 9,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review builds a genuinely illuminating historical-literary framework to explain why this bizarre book exists and what it reveals about the evolution of the novel, all delivered in a confident and witty voice that makes an obscure 1769 satire feel essential.",
+    "strongest": "The \"points of alienation\" framework and the tracing of Smollett's novelistic trajectory give the review a real thesis — it argues convincingly that Atom was the only logical next move for a novelist who had painted himself into a corner by inventing the plot.",
+    "weakest": "Part 1's extended history of the novel, while entertaining and well-executed in its own right, occupies nearly a third of the review before arriving at the book under actual consideration, diluting the focus and making the structure feel somewhat top-heavy.",
+    "summary_trap": false
+  },
+  {
+    "id": "112",
+    "title": "The Holy Quran",
+    "scores": {
+      "insight": 7,
+      "engagement": 5,
+      "originality": 6,
+      "fairness": 4,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist: while the review has genuine scholarly depth and a clear thesis about Islam as theological simplification, its one-sided sourcing, dismissive tone toward the text's audience, and a structure that loses momentum in a dense accumulation of points undermine its credibility and readability as a contest entry.",
+    "strongest": "The review advances a clear, defensible thesis — Islam as Arabized simplification of Eastern Christianity — and supports it with specific linguistic evidence (Syriac substrate), historical reception data (Christian contemporaries' slow recognition of Islam as a distinct religion), and textual analysis that genuinely teaches the reader something non-obvious.",
+    "weakest": "The review leans almost exclusively on critics of the Quran (Ibn Warraq, Luxenberg) and adopts a dismissive stance toward its subject (\"easily impressed peoples of Arabia, many of whom really weren't all that familiar with fish\") without engaging fairly with sympathetic or mainstream scholarly counterviews, which damages its credibility.",
+    "summary_trap": false
+  },
+  {
+    "id": "113",
+    "title": "The Inhabited Island (Arkady and Boris Strugatsky)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate: the review earns its length by using the novel as a springboard for a genuinely original argument about positive moral cultivation, AI tutoring, and the missing quadrant in modern social thinking, landing with a resonant final line.",
+    "strongest": "The pivot from plot to argument is executed cleanly — the reviewer uses the Strugatskys' utopia-by-cultivation premise to make a genuinely non-obvious case about what AI might mean for Enlightenment-era human perfectibility, grounded in Bloom's Two Sigma and historical examples.",
+    "weakest": "The first half leans fairly heavily on plot exposition that, while competently handled and necessary for an obscure Soviet novel, slightly delays the real payoff of the piece.",
+    "summary_trap": false
+  },
+  {
+    "id": "114",
+    "title": "The Invention of Science: A New History of the Scientific Revolution",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Shortlist-worthy: the review teaches a genuine thesis about conceptual vocabulary as precondition for science, handles the book's historiographical arguments fairly, and ends with an original AI-parallel extension that earns its place rather than feeling tacked on.",
+    "strongest": "The extended treatment of \"discovery\" as a word that had to be invented — anchored in the Columbus landfall and the delightfully specific Falloppio/Colombo priority dispute over the clitoris — makes an abstract claim about linguistic preconditions for science concrete and memorable.",
+    "weakest": "The final AI parallel, while conceptually interesting, is dispatched in a single paragraph and never quite earns the weight placed on it, leaving the review's most original contribution feeling underargued.",
+    "summary_trap": false
+  },
+  {
+    "id": "115",
+    "title": "The Knowledge Machine: How Irrationality Created Modern Science by Michael Strevens",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-borderline: the review makes a genuine argument about science's fragility and earns its length through consistent thematic threading, but the father anecdote-as-organizing-device wears thin by the end and the final section loses the analytical tightness of the middle.",
+    "strongest": "The four-innovations-under-threat framework gives the review a real thesis and carries the reader from historical exegesis to civilizational stakes in a way that feels earned rather than tacked-on.",
+    "weakest": "The father-firing anecdote, while charming at first, is overworked as a structural anchor and the parallels drawn from it become increasingly strained, diluting the intellectual rigor the reviewer is ostensibly championing.",
+    "summary_trap": false
+  },
+  {
+    "id": "116",
+    "title": "The Last Temptation of Christ by Nikos Kazantzakis",
+    "scores": {
+      "insight": 4,
+      "engagement": 6,
+      "originality": 6,
+      "fairness": 6,
+      "structure": 2
+    },
+    "verdict": "Do not shortlist: the review promises a genuine argument (an atheist's path to understanding Christianity through a humanized Christ) but stops before delivering it, leaving a vivid but fragmentary sketch that never earns its ambitious opening.",
+    "strongest": "The opening paragraphs have a genuinely distinctive, feverish voice — the \"Wild Man\" and the howl of ADONAI down asphalt miles is alive in a way most competition entries are not.",
+    "weakest": "The review is roughly 400 words and ends abruptly right where the actual analysis should begin, leaving the interesting thesis (the atheist's key to understanding Christ-as-fully-human) completely undeveloped.",
+    "summary_trap": false
+  },
+  {
+    "id": "117",
+    "title": "The Lever of Riches by Joel Mokyr",
+    "scores": {
+      "insight": 5,
+      "engagement": 5,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 4
+    },
+    "verdict": "Do not shortlist: the review is heavily padded with block quotations and chapter-by-chapter summary, and while it has a genuine voice and some interesting angles (the forecasting critique, the \"Mokyrverse\" framing), these are never developed into a sustained argument that would make it competitive.",
+    "strongest": "The critique of academic historians for refusing to quantify their explanatory claims and make forecasts is a genuinely distinctive and well-argued angle that goes beyond summarizing Mokyr.",
+    "weakest": "The review is overwhelmed by long block quotations and chronological summary — the reader learns what Mokyr wrote more than what the reviewer thinks about it, which is the canonical failure mode for this contest.",
+    "summary_trap": true
+  },
+  {
+    "id": "118",
+    "title": "The Life-Changing Magic of Tidying Up by Marie Kondo",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-borderline: the entropy-threshold and decision-fatigue framing gives the review a real thesis and earns its place, but the middle category-walkthrough section slips into the summary mode it otherwise rises above.",
+    "strongest": "The reframing of KonMari as solving a combinatorial entropy and decision-fatigue problem — rather than a logistics problem — is a genuine intellectual contribution that makes the book's success legible in a new way.",
+    "weakest": "The section walking through Kondo's five categories (clothes, books, papers, komono, sentimental) is largely summary and adds little analytical value, disrupting the momentum of an otherwise argument-driven piece.",
+    "summary_trap": false
+  },
+  {
+    "id": "119",
+    "title": "The Man Who Was Thursday by G.K. Chesterton",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Strongly shortlist-worthy: the voice is exceptional and the theological argument (TMWWT as Job-allegory resolved through Chesterton's personal Catholic lens, with Ecclesiastes offered as a secular-Jewish alternative) is genuinely earned, though the middle sections carry more plot than the thesis requires.",
+    "strongest": "The pivot to Ecclesiastes as a personal secular-Jewish alternative to Chesterton's Catholic theodicy is an original and emotionally honest move that gives the review a genuine \"so what\" beyond mere explication.",
+    "weakest": "Sections 2 and 3 spend too much time narrating the sequential unmasking of each Council member, which reads as plot summary even when the reviewer is self-aware about it.",
+    "summary_trap": false
+  },
+  {
+    "id": "120",
+    "title": "The Marriage of Cadmus and Harmony by Roberto Calasso",
+    "scores": {
+      "insight": 9,
+      "engagement": 8,
+      "originality": 9,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the review advances a genuinely original and well-evidenced thesis about Calasso as a modern mythopoetic bard, culminating in a specific textual discovery (the βόστρυχα translation) that earns its lengthy buildup.",
+    "strongest": "The central revelation — that Calasso consciously mistranslates Nonnus's \"ringlets\" as \"necklace\" to plant the ring-composition motif at the story's opening — is the kind of specific, load-bearing insight that transforms a review into an argument.",
+    "weakest": "The middle section accumulates quotation after quotation without quite enough analytical pressure between them, causing the pacing to sag before the \"Turn\" section picks up momentum.",
+    "summary_trap": false
+  },
+  {
+    "id": "121",
+    "title": "The Master & Margarita by Mikhail Bulgakov",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Shortlist-adjacent but not quite there — the voice is genuinely alive and the thematic analysis has real moments, but too much of the review is plot summary before the analysis gets going, and the ending dissipates rather than lands.",
+    "strongest": "The wry, self-deprecating outsider voice (\"Thoughts. This Woland. He's Satan, right?\") and the sharp observation contrasting Satan's treatment of the greedy uncle vs. the honest bartender are genuinely engaging and show real critical thought.",
+    "weakest": "The review spends the majority of its length on detailed plot summary organized by day, leaving the thematic analysis cramped into the final section where it then trails off without a strong concluding thesis.",
+    "summary_trap": true
+  },
+  {
+    "id": "122",
+    "title": "The Merry Wives of Windsor",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: a genuinely argued, well-voiced thesis that earns its length by teaching readers something non-obvious about both the play and the form it pioneered.",
+    "strongest": "The sitcom-origin framing is not mere gimmick — it is rigorously supported through structural parallels, character archetypes, and the Snunkoople Effect digression, which together produce a genuinely illuminating \"so what.\"",
+    "weakest": "The middle section tips into plot summary territory longer than necessary, and the pacing slackens noticeably once the A-story mechanics are laid out scene by scene.",
+    "summary_trap": false
+  },
+  {
+    "id": "123",
+    "title": "The Mind is Flat by Nick Chater",
+    "scores": {
+      "insight": 6,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "A competent, well-argued review that would not quite make the shortlist — it earns its thesis (the book is self-refuting) and deploys real counter-evidence, but the \"author contradicts himself\" angle lacks enough freshness and the first half lingers on summary longer than needed.",
+    "strongest": "The recurring \"impossible object\" framing is clever and structurally satisfying, and the reviewer's use of verbal-overshadowing and articulatory-suppression evidence gives the critique genuine intellectual teeth beyond mere summary.",
+    "weakest": "The review spends too long summarizing the book's own evidence in the first half before arriving at its critique, making it read as partly a content walk-through rather than a tight argument from the start.",
+    "summary_trap": false
+  },
+  {
+    "id": "124",
+    "title": "The Northern Caves (nostalgebraist)",
+    "scores": {
+      "insight": 6,
+      "engagement": 5,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 3
+    },
+    "verdict": "Do not shortlist: the review has genuine intellectual ambition and some sharp readings of the text, but it loses structural coherence in its second half, sprawling into loosely connected digressions about dead internet theory and LLM manipulation that never fully reconnect to the book.",
+    "strongest": "The section on Aaron's Ptolemaic epicycle-adding as an epistemic crisis, and the reading of Mundum as a philosophical gut-punch aimed at utilitarianism, shows real insight and lands with genuine force.",
+    "weakest": "After Section V the review abandons any pretense of structure and devolves into a loosely associated personal essay about ARGs, online manipulation, dead internet theory, and LLMs, making it feel like two unfinished essays stitched together rather than one coherent argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "125",
+    "title": "The Overstory by Richard Powers",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 9,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the reviewer develops a genuine and non-obvious thesis about the novel as emotional persuasion that deliberately evades rational argument, and the animal-welfare-as-conspicuous-omission critique is sharp, but the middle section spends too long in plot summary before the payoff arrives.",
+    "strongest": "The Mimi-as-therapist metaphor for the novel's persuasive strategy - bypassing motivated reasoning through emotional immersion rather than argument - is a genuinely original and well-developed insight that reframes what the book is doing.",
+    "weakest": "The \"Understory\" section is an extended plot synopsis that, while eventually put to use, takes too long to arrive at the argument and risks feeling like competent summarizing before the reviewer's real thinking begins.",
+    "summary_trap": false
+  },
+  {
+    "id": "126",
+    "title": "Pictures of Socialist Future by Eugen Richter",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy for its genuine originality - resurrecting a forgotten liberal polemicist and making a real argument about literal vs. metaphorical anti-utopias - but the sprawling intro and party-politics tangents dilute what is otherwise an engaging and substantive piece.",
+    "strongest": "The core argument - that Richter's dystopia is uniquely valuable because it takes socialist promises literally rather than depicting Stalinist horror - is non-obvious and genuinely illuminating, backed by specific historical comparisons that demonstrate real engagement with the subject.",
+    "weakest": "The lengthy Carl Peters prologue and the Glossary of German political parties create a slow, dense approach that buries the actual thesis and tests patience before the interesting argument begins.",
+    "summary_trap": false
+  },
+  {
+    "id": "127",
+    "title": "The Pillow Book by Sei Shōnagon (trans. Meredith McKinney)",
+    "scores": {
+      "insight": 7,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strongly shortlist-worthy: the \"blog\" framing is genuinely illuminating rather than mere cleverness, the voice is distinctive and funny throughout, and it earns its length — though the payoff is more atmospheric than argumentative.",
+    "strongest": "The sustained, earned conceit that The Pillow Book is essentially an ancient personal blog gives the reader a genuinely useful lens for understanding the text's form and appeal, and the author's own voice matches the subject in wit and digressive charm.",
+    "weakest": "The review is light on actual argument or thesis — it convincingly sells the book's personality and context but never quite commits to a deeper \"so what\" beyond \"this is fun and you should read it.\"",
+    "summary_trap": false
+  },
+  {
+    "id": "128",
+    "title": "The Pre-Training Data (a review by the AI of its own training corpus)",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 9,
+      "fairness": 7,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate — the conceit is fully earned, the voice is genuinely distinctive, and several sections (disagreement asymmetry, taste-as-citation-topology, compression of time) deliver real insight, though the piece occasionally substitutes elegant self-performance for the harder work of scrutiny.",
+    "strongest": "The framing of taste as derived from intertextual topology — \"I derived taste from the graph of citations and references\" — is a genuinely non-obvious and philosophically interesting observation that most AI discourse misses entirely.",
+    "weakest": "The fairness dimension is difficult to evaluate because there is no conventional book being represented, and some of the \"insights\" (selection bias in training data, disagreement over-representation) are well-worn enough in AI discourse that their novelty here rests almost entirely on the polished framing rather than the underlying thought.",
+    "summary_trap": false
+  },
+  {
+    "id": "129",
+    "title": "The Radicalism of the American Revolution by Gordon S. Wood",
+    "scores": {
+      "insight": 6,
+      "engagement": 5,
+      "originality": 4,
+      "fairness": 8,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist: the review is thorough and well-intentioned but functions primarily as an elaborate reorganized summary of the book, with little original argument or authorial voice beyond the framing device and the closing Trump observation.",
+    "strongest": "The reviewer's contextual framing — that Wood's genius is making invisible pre-modern norms visible — is a genuinely apt meta-observation about what makes the book distinctive, and the parallel drawn between the Founders' disillusionment and contemporary populism gives the review a payoff that goes slightly beyond summary.",
+    "weakest": "The review is almost entirely a reorganized digest of extended block quotations from the book, with the reviewer's own voice reduced to transitional sentences and organizational headers, which means it teaches you about the book's contents rather than arguing a thesis of its own.",
+    "summary_trap": true
+  },
+  {
+    "id": "130",
+    "title": "The Red Queen by Matt Ridley",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate — the reviewer genuinely thinks alongside and against Ridley, spotting real tensions in the argument (the parasite-resistance theory vs. the sexual selection chapter) and contributing original extensions, though the piece occasionally loses momentum in its digressive middle sections.",
+    "strongest": "The reviewer identifies a genuine internal contradiction in Ridley's argument — that the parasite-cycling logic undermines the female-choice-for-parasite-resistance claim — and works through it clearly, demonstrating original analytical engagement rather than mere reportage.",
+    "weakest": "The structure is loose and sprawling, with the fictional gene-dialogue interludes and the personal disclosure about the reviewer's social circle feeling more like padding than payoff, and the ending drifts rather than landing a crisp synthesis.",
+    "summary_trap": false
+  },
+  {
+    "id": "131",
+    "title": "The Rule of Law by Tom Bingham",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review makes a genuine, well-argued case that Bingham's book is a symptom of post-Cold War liberalism forgetting its own foundations, which elevates it well above mere critique into something intellectually productive.",
+    "strongest": "The closing thesis — that The Rule of Law was written by a man who believed in liberalism but had forgotten why, and that this anticipates the generation which never learned why and readily rolled back hard-won freedoms — is a memorable and genuinely insightful payoff that reframes the entire review.",
+    "weakest": "The reviewer's own counter-definition of the rule of law (centered on ordinary citizen behavior) is interesting but underdeveloped; it's asserted rather than argued, which weakens the structural contrast with Bingham's judge-centric view.",
+    "summary_trap": false
+  },
+  {
+    "id": "132",
+    "title": "The Science of Second Chances by Jennifer Doleac",
+    "scores": {
+      "insight": 8,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the reviewer adds genuine analytical value — flagging a replication failure the book apparently ignores, spotting suspicious p-value clustering, and making a clever observation about biology-as-certainty-mechanism — making it a review that teaches rather than merely reports.",
+    "strongest": "The reviewer's independent critical analysis — catching the BAM replication failure omitted by the book, identifying p-value bunching in the 24/7 Sobriety literature, and connecting DNA database deterrence to Scott Alexander's \"society is fixed, biology is mutable\" thesis — elevates this well above summary.",
+    "weakest": "The methodology tutorial section (explaining regression discontinuity, difference-in-differences, etc.) is competent but pads the review with material that serves the reader's education more than it advances any thesis about the book itself.",
+    "summary_trap": false
+  },
+  {
+    "id": "133",
+    "title": "The Short, Swift Time of Gods on Earth (The Hohokam Chronicle)",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate: the reviewer does genuine intellectual work — setting testable priors, interrogating the mythology honestly, and landing a surprising, earned ending — rather than just summarizing a niche book.",
+    "strongest": "The reviewer frames the entire exercise as hypothesis-testing before the mythology is presented, then honestly evaluates the results, giving the review real argumentative structure rather than mere reportage.",
+    "weakest": "The middle section recounting the chronicle's creation narrative and episodic middle stories drifts into extended plot summary that the author's voice only partially rescues.",
+    "summary_trap": false
+  },
+  {
+    "id": "134",
+    "title": "The Sins of GK Chesterton (Richard Ingrams, 2021)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Strong shortlist contender: the reviewer has genuine expertise and a compelling thesis about how Chesterton's magical worldview creates structural vulnerabilities to prejudice, but the digression into Newman and Anglo-Catholic history, while interesting, diffuses the argumentative focus of the final third.",
+    "strongest": "The reviewer develops a genuinely non-obvious thesis — that Chesterton's epistemology (the \"Bayesian nightmare\" of seeing the world in a grain of sand) is what made his antisemitism not incidental but architecturally connected to his greatest gifts — and supports it with specific, well-chosen evidence.",
+    "weakest": "Section IV sprawls into a lengthy digression on the Oxford Movement and Newman that, while erudite, loses momentum and never fully reconnects the Anglo-Catholic cultural history back to the book under review or the review's central argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "135",
+    "title": "The Son Also Rises (Gregory Clark)",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 6,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the reviewer goes beyond summary by adding independent PSID data analysis, engaging seriously with methodological objections, and using a genuinely distinctive personal framing, though the breezy overconfidence occasionally outpaces the nuance the material deserves.",
+    "strongest": "The reviewer adds genuine intellectual value by independently replicating Clark's findings with PSID data and systematically working through methodological objections, making this far more than a content summary.",
+    "weakest": "The policy-recommendations section slides into provocateur mode (polygamy advocacy, \"hot lower class women\") that reads as edginess for its own sake and undercuts the analytical credibility the rest of the review builds.",
+    "summary_trap": false
+  },
+  {
+    "id": "136",
+    "title": "The Sovereign Child: How a Forgotten Philosophy Can Liberate Kids and Their Parents",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate — the reviewer actually argues a coherent philosophical thesis (consequentialist critique of deontological non-coercion, grounded in a real engagement with Popperian epistemology and Deutsch's universal explainer theory) rather than summarizing, and does so with a genuinely distinctive, funny, personal voice that earns its considerable length.",
+    "strongest": "The \"grandmother with wheels\" critique of Deutsch's universal explainer theory as applied to TCS is original, precise, and lands hard — it identifies the philosophical sleight-of-hand at the core of the book's most extreme positions in a memorable formulation.",
+    "weakest": "The structure occasionally loses momentum in the middle sections (the diet soda tangent, the epistemology digression flagged as skippable), and at roughly 10,000 words the piece could shed 15-20% without losing any of its argument or charm.",
+    "summary_trap": false
+  },
+  {
+    "id": "137",
+    "title": "The Sun Also Rises by Ernest Hemingway",
+    "scores": {
+      "insight": 5,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 3
+    },
+    "verdict": "Do not shortlist: the review builds real momentum and has a distinctive voice but is truncated mid-sentence, leaving its central argument about triple castration (literal and metaphorical) entirely undelivered — a promising draft that never earns its thesis.",
+    "strongest": "The \"bull doesn't always lose\" joke as a framing device for the novel's castration themes is a clever, original move that earns its setup and reveals genuine critical thinking about the text.",
+    "weakest": "The review cuts off mid-sentence before completing its central argument, making the entire structural conceit — building to a parallel between the expat triple castration and the bullfighting world — collapse without a landing.",
+    "summary_trap": false
+  },
+  {
+    "id": "138",
+    "title": "The Tale of Genji",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate — the review succeeds as a genuine argument (against Tyler's claim that footnotes are optional and characters are universally relatable) and earns its length with multiple illuminating set-pieces, though the LLM digression and some structural sprawl keep it from the very top tier.",
+    "strongest": "The layered, multi-translation poem analysis combined with the running \"live reaction\" conceit gives the review both intellectual depth and genuine comic voice, making an ancient and potentially dry subject feel alive.",
+    "weakest": "The section comparing LLM translations of the waka poem is a self-indulgent tangent that breaks the review's momentum and reads like a blog post appended to a book review.",
+    "summary_trap": false
+  },
+  {
+    "id": "139",
+    "title": "The War Nerd Iliad by John Dolan",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the review advances a genuine and interesting thesis about translation as cultural necromancy, deploying it with wit and learning, though it loses some momentum in the back half and the actual book assessment is narrower than the framing promises.",
+    "strongest": "The \"necromancer vs. taxidermist\" framing of translation philosophy is genuinely original and intellectually productive, giving the review a spine that most book reviews lack.",
+    "weakest": "The elaborate philosophical scaffolding (classics-as-undead, ghost vs. zombie translation) somewhat overshadows the actual evaluation of Dolan's book, which is consigned mostly to the second half and ultimately rendered as a mild qualified disappointment without sufficient specifics.",
+    "summary_trap": false
+  },
+  {
+    "id": "140",
+    "title": "The Waves by Virginia Woolf",
+    "scores": {
+      "insight": 7,
+      "engagement": 5,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Worth considering for a longlist but not a shortlist: the Hegelian-phenomenological reading of Woolf's formal choices is genuinely illuminating, but the academic register, a sagging middle section of character summary, and over-hedged conclusions prevent it from fully delivering on its promise.",
+    "strongest": "The core argument — that Woolf's non-dialogic soliloquies formally enact the phenomenological claim that the world is constituted through finite, concurrent perspectives — is a real and non-obvious thesis that genuinely reframes the novel's strange form.",
+    "weakest": "Section II drifts into extended character description and social-distinction analysis that reads as thematic summary rather than argument, undermining the momentum built in the opening formal analysis.",
+    "summary_trap": false
+  },
+  {
+    "id": "141",
+    "title": "The Wisdom of Mike Mentzer (by John Little)",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the reviewer advances a genuine counter-thesis (Objectivism as post-hoc coping mechanism, not heroic fuel) and situates a niche bodybuilding debate in broader cultural and scientific context, though the middle sports-science section and thin conclusion prevent it from reaching finalist tier.",
+    "strongest": "The counter-intuitive argument that Mentzer adopted Objectivism after his collapse as a psychological coping mechanism — rather than it powering his competitive rise — is a well-supported insight that reframes the conventional \"tragic philosopher-king\" narrative.",
+    "weakest": "The conclusion is disappointingly thin and generic, failing to synthesize or land the payoff that the rich biographical and philosophical material had set up throughout the review.",
+    "summary_trap": false
+  },
+  {
+    "id": "142",
+    "title": "Theodicy (The Odyssey by Homer, reviewed as a theodicy text)",
+    "scores": {
+      "insight": 7,
+      "engagement": 9,
+      "originality": 7,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Shortlist-worthy: the deadpan wit and genuine philosophical scaffolding make it a pleasure to read, though the theodicy framework is more clever framing than genuinely novel intellectual territory.",
+    "strongest": "The sustained comic persona — a non-native reader earnestly treating the Odyssey as the world's first theodicy treatise — never breaks down and keeps generating genuine laughs while still advancing a real argument about the poem's contradictory theological implications.",
+    "weakest": "The actual philosophical thesis (polytheism dissolves theodicy, free will is illusory in Homer, suffering serves knowledge) covers familiar ground and the conclusion retreats to \"theodicy is impossible,\" which deflates the intellectual payoff the setup promises.",
+    "summary_trap": false
+  },
+  {
+    "id": "143",
+    "title": "There Is No Antimemetics Division",
+    "scores": {
+      "insight": 6,
+      "engagement": 5,
+      "originality": 8,
+      "fairness": 6,
+      "structure": 4
+    },
+    "verdict": "Do not shortlist: the review has genuine intellectual ambition and a strikingly original angle, but the ideas are too embryonic, the structure too loose, and the prose too self-indulgent to reward with a finalist slot.",
+    "strongest": "The framing of the novel as an \"epistemological thought object\" and the construction of original frameworks like \"cultural instrumental dementia\" and \"parametric memetic state spaces\" represent genuinely novel intellectual moves that go well beyond summary.",
+    "weakest": "The review constantly gestures toward developed arguments it never delivers — referencing \"my unwritten treatise,\" trailing off into personal grievances about the author's father and his own communication difficulties — leaving most insights as promising fragments rather than completed thoughts.",
+    "summary_trap": false
+  },
+  {
+    "id": "144",
+    "title": "This Is Going to Hurt by Adam Kay",
+    "scores": {
+      "insight": 9,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate — the dual-narrator format from two NHS-adjacent doctors generates genuine intellectual friction, and the reframing of the book as an undiagnosed PTSD case study is a genuinely illuminating thesis that earns its length.",
+    "strongest": "The central reframe — reading Kay's diary not as comedy memoir but as an unwitting clinical case study of moral injury and PTSD, with Kay simultaneously author and index patient — is a non-obvious, well-argued thesis that genuinely changes how you would read the book.",
+    "weakest": "The dialogue format, while entertaining, occasionally lets the authors escape hard conclusions by deferring to banter, and section IV on \"should Kay have been a doctor\" somewhat dilutes the sharper institutional-failure argument without fully paying off.",
+    "summary_trap": false
+  },
+  {
+    "id": "145",
+    "title": "Thomas Urquhart's Translation of Rabelais (Gargantua and Pantagruel)",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 8
+    },
+    "verdict": "Shortlist-worthy: the biographical framing is inspired and delivers a genuine \"so what\" — Urquhart's life of glorious failure made him the only person who could have translated this book — and the voice is warm, funny, and confident throughout.",
+    "strongest": "The central argument — that Urquhart's exact combination of baroque excess, linguistic obsession, and lack of original ideas made him the perfect vessel for Rabelais — is genuinely illuminating and lands with real force.",
+    "weakest": "The section actually evaluating the translation is comparatively thin, relying mostly on extended quotations with light commentary rather than making a critical argument about what distinguishes Urquhart's choices from his predecessors or competitors.",
+    "summary_trap": false
+  },
+  {
+    "id": "146",
+    "title": "Tiger Chair by Max Brooks",
+    "scores": {
+      "insight": 5,
+      "engagement": 6,
+      "originality": 5,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist — the review has genuine personality and fair-minded engagement with the text, but it lacks a unifying argument and dissolves into plot-adjacent commentary without landing a memorable payoff.",
+    "strongest": "The observation that Brooks' \"simplicity over technology\" thesis is more convincing in zombie fiction than against the PLA, and the character analysis of the nuanced PRC officer narrator, demonstrate real critical thinking rather than mere summary.",
+    "weakest": "The closing self-deprecating disclaimer (\"This review is focused on criticisms and granular analysis because that's where my strengths lie\") signals a lack of confidence and substitutes for a real conclusion that ties the review's threads together.",
+    "summary_trap": false
+  },
+  {
+    "id": "147",
+    "title": "Time Gifts by Zoran Zivkovic",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Strong shortlist candidate: the reviewer advances a genuine thesis about revealed preferences and affective forecasting, earns the personal autobiographical frame by making it thematically continuous with the novel's own preoccupations, and closes with a payoff that the opening has been quietly building toward.",
+    "strongest": "The reviewer identifies a precise, non-obvious intellectual frame — that Zivkovic's time gifts are experiments in affective forecasting and revealed vs. stated preferences — and then demonstrates it across all four stories with close textual attention, turning what could be a plot summary into a coherent argument.",
+    "weakest": "The plot recounting in the watchmaker and astronomer sections occasionally runs longer than the argument requires, slowing the essay's momentum before the analytical payoff arrives.",
+    "summary_trap": false
+  },
+  {
+    "id": "148",
+    "title": "Timefulness by Marcia Bjornerud",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Shortlist-worthy: the \"timeful asshole\" typology and \"treefulness\" counterproposal are genuinely original contributions that transform a book review into a real argument, though the piece slightly overextends on the slide-rule/logarithm digression at the expense of its own thesis.",
+    "strongest": "The typology of timeful assholes — imperial, apocalyptic, techno-narcissist, bunker-builder — is a clever, non-obvious argument that does real intellectual work against the book's hidden moral assumption.",
+    "weakest": "The extended explanation of logarithms and slide rules, while engaging in places, runs too long and slows the review's momentum before it gets to its actual thesis.",
+    "summary_trap": false
+  },
+  {
+    "id": "149",
+    "title": "Tortilla Flat by John Steinbeck",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the review advances a genuinely non-obvious thesis about endogamic population collapse as Tortilla Flat's animating logic, backed by historical detail and demographic research, delivered in a distinctive and sometimes beautiful voice.",
+    "strongest": "The \"toy model\" framing — Californio paisanos as a miniature case study of population absorption, exogamic drain, and fertility collapse — is an original and intellectually rewarding thesis that reframes a largely forgotten novel as something unexpectedly profound.",
+    "weakest": "The extended TFR/demographics digression (Lyman Stone studies, Swedish data, Idiocracy model) slows the pacing considerably and tips toward essay-within-a-review sprawl, slightly diluting the sharper literary and historical argument.",
+    "summary_trap": false
+  },
+  {
+    "id": "150",
+    "title": "Traces Erased by the Sun by Robert Irwin",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 9,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Strong shortlist candidate: the review's own mirrored structure enacts the book's layered artifice, and the dual-reading framework applied to the same passages is genuinely illuminating, though the final section's meme-theory digression weakens the landing.",
+    "strongest": "The structural conceit of mirroring Section I (al-Rabahi's biography and context) with Section II (Irwin's biography and context) using near-identical sentence forms is both formally elegant and argumentatively load-bearing, making the review itself a demonstration of the book's central theme about historical rhyme.",
+    "weakest": "Section V's pivot to Dawkins-style memetics as the reviewer's personal resolution feels thinly argued and grafted on, arriving as a different essay rather than an organic payoff of what the review has built toward.",
+    "summary_trap": false
+  },
+  {
+    "id": "151",
+    "title": "Trip Sitting: The Art and Science of Holding Psychedelic Space (Julian Vayne, 2025)",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 7,
+      "fairness": 7,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy — the review earns its space with a genuine thesis (what operationalizes expert trip-sitting?), a memorable opening anecdote, and a distinctive authorial voice, though it stops just short of exceptional because the \"gist\" section, while useful, leans toward informative summary rather than sustained argument.",
+    "strongest": "The framing device is excellent: a years-long personal search for the specific operational knowledge behind one miraculous trip-sitting intervention, resolved when the actual practitioner published this book — it gives the review a narrative spine most entries lack.",
+    "weakest": "The \"gist\" section, though signposted as intentional, is essentially a bullet-point summary of the book's advice, which slightly undercuts the review's otherwise strong analytical momentum.",
+    "summary_trap": false
+  },
+  {
+    "id": "152",
+    "title": "Unforgiving Places: The Unexpected Origins of American Gun Violence by Jens Ludwig",
+    "scores": {
+      "insight": 6,
+      "engagement": 5,
+      "originality": 4,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Not shortlist-worthy — the review is competent and sincere, but it mostly walks through the book's chapter-by-chapter argument without developing a strong original thesis or distinctive voice, and the personal disclosure upfront about friendship with the author colors its uncritical praise.",
+    "strongest": "The review does effectively communicate the book's core reframing — guns + violence as separable levers — and gives a reader a clear sense of why the standard policy debates miss the point, which is the book's genuine payoff.",
+    "weakest": "The structure is essentially a chapter-by-chapter walk-through with the reviewer periodically noting that his own prior views were corrected, which substitutes personal testimony for analytical argument and produces a flat, reportorial tone throughout.",
+    "summary_trap": true
+  },
+  {
+    "id": "153",
+    "title": "Venomous Lumpsucker by Ned Beauman",
+    "scores": {
+      "insight": 9,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 9
+    },
+    "verdict": "Strong shortlist candidate — the reviewer advances a genuine thesis (that the novel's power comes from building contemporary ideas to their logical conclusions without editorializing) and delivers it with a voice that matches the book's own dark comic intelligence.",
+    "strongest": "The reviewer identifies and articulates Beauman's core method — taking dominant contemporary propositions (market allocation of moral concern, hedonic aggregationism) and building them out to their logical terminus — which is a non-obvious structural insight that genuinely teaches the reader something about what makes the novel distinctive.",
+    "weakest": "The fairness score is mildly constrained by the review's near-total enthusiasm, which never grapples with the novel's potential weaknesses or the strongest counterarguments to Resaint's philosophy, leaving the reader without a sense of where the book might fall short.",
+    "summary_trap": false
+  },
+  {
+    "id": "154",
+    "title": "Violence and the Sacred (René Girard)",
+    "scores": {
+      "insight": 8,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy: the reviewer synthesizes Girard with a wide range of thinkers and advances a genuine original thesis about violence as the litmus test of the sacred, which earns its substantial length.",
+    "strongest": "The review builds steadily from a gripping ethnographic opening to an original, well-argued thesis about how the decline of the sacred tracks the decline in willingness to suffer and inflict violence — this is an idea the reviewer owns, not merely reports.",
+    "weakest": "Part Two's survey of Huizinga, Boyer, Rapaport, Douglas, and Durkheim reads as an extended literature review that slows momentum, and could have been integrated more tightly into the argument rather than presented encyclopedically.",
+    "summary_trap": false
+  },
+  {
+    "id": "155",
+    "title": "We Present Television (1940 essay collection)",
+    "scores": {
+      "insight": 8,
+      "engagement": 9,
+      "originality": 8,
+      "fairness": 8,
+      "structure": 8
+    },
+    "verdict": "Shortlist-worthy: a genuinely distinctive voice executing a sustained, original thesis — television as Lovecraftian elder god whose 1940 summoners wrote prophecy that describes not just TV but the internet, smartphones, and algorithmic feeds with eerie accuracy.",
+    "strongest": "The Lovecraftian \"unseen force / elder god\" framing is not mere decorative metaphor but a fully earned argument that reframes the entire history of communications technology, culminating in the TikTok punchline that actually lands.",
+    "weakest": "The middle sections on studio shows, motion picture transmissions, and outside programs are moderately expository and slow the momentum somewhat before the Prophecy section recovers it.",
+    "summary_trap": false
+  },
+  {
+    "id": "156",
+    "title": "We've Had a Hundred Years of Psychotherapy and the World's Getting Worse (Hillman & Ventura)",
+    "scores": {
+      "insight": 6,
+      "engagement": 6,
+      "originality": 6,
+      "fairness": 7,
+      "structure": 6
+    },
+    "verdict": "Do not shortlist: the review has a genuinely interesting angle (a therapist prosecuting their own profession) and a strong final reframe, but spends too much of its length on summary and never forges its scattered insights into a single sharp, memorable argument.",
+    "strongest": "The reviewer's own critique section — especially turning the book's framework back on itself to ask what the \"symptoms\" of therapy culture are trying to communicate — is the most intellectually alive moment and delivers real payoff.",
+    "weakest": "The long middle section on the Acorn Theory and Therapy Language is largely plot summary dressed in light commentary, undermining the otherwise promising framing of a practicing therapist interrogating their own field.",
+    "summary_trap": true
+  },
+  {
+    "id": "157",
+    "title": "What is Real? by Adam Becker",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 6
+    },
+    "verdict": "Worth a long shortlist consideration for its genuine voice and real thesis about Einstein's undeserved reputational damage, but the chapter-by-chapter structure and over-reliance on the book's own revelations rather than independent analysis hold it back from the top tier.",
+    "strongest": "The reviewer has a genuinely distinctive and entertaining voice — the repeated \"epistemology-soaked orgy\" refrain, the mock-dramatic fake-outs, and the Yes Minister comparisons give the piece real personality and make a long review surprisingly readable.",
+    "weakest": "Despite the strong voice, the review follows the book almost section by section, meaning the most interesting revelations (Hermann, Bohm, Wheeler coaching Everett) belong to Becker rather than the reviewer's own analysis or reframing.",
+    "summary_trap": false
+  },
+  {
+    "id": "158",
+    "title": "Why Greatness Cannot Be Planned, by Joel Lehman and Kenneth Stanley",
+    "scores": {
+      "insight": 7,
+      "engagement": 7,
+      "originality": 6,
+      "fairness": 8,
+      "structure": 7
+    },
+    "verdict": "Shortlist-worthy but not a finalist — it teaches genuinely well and has a lively voice, but hews too closely to the book's own argument structure to feel like an independent intellectual contribution.",
+    "strongest": "The review makes the abstract CS concepts (objective search, novelty search, stepping stones) concrete and intellectually alive through custom animations, well-chosen examples, and an earned practical conclusion using the Ptolemaic epicycle metaphor.",
+    "weakest": "The lengthy detour through Lakatos, Copernicus, and stellar parallax, while competently done, drifts from the book's core argument and reads more like the reviewer showing off adjacent reading than deepening the thesis.",
+    "summary_trap": false
+  },
+  {
+    "id": "159",
+    "title": "Wild, Wise, Weird: The Kingfisher Story Collection",
+    "scores": {
+      "insight": 3,
+      "engagement": 5,
+      "originality": 6,
+      "fairness": 5,
+      "structure": 4
+    },
+    "verdict": "Do not shortlist: the Animal Farm framing is a genuinely inventive conceit, but it functions more as a costume than an argument, delivering almost no real insight into the book and leaving the reader with no thesis to take away.",
+    "strongest": "The choice to embed the review inside an Orwellian Animal Farm narrative — complete with Napoleon endorsing self-help wisdom he doesn't understand — is a creative and original structural gambit that stands out from conventional review formats.",
+    "weakest": "The fictional framing ultimately crowds out substantive engagement with the book; the scattered criticisms (too on-the-nose, over-reliant on twists, culturally narrow) are voiced by livestock and never developed into a real argument, so the reader finishes knowing almost nothing useful about the book.",
+    "summary_trap": false
+  },
+  {
+    "id": "160",
+    "title": "Works By Isaac Bickerstaff: Predictions, 1708-1712 (Swift's Bickerstaff Papers and Steele's Tatler Essays)",
+    "scores": {
+      "insight": 7,
+      "engagement": 6,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Worth shortlisting for its genuinely original parallel between the Bickerstaff hoax and prediction market resolution criteria, but the extended quotations in the Steele section drag pacing badly enough to knock it below finalist tier.",
+    "strongest": "The analogy between Swift's manipulation of \"resolution criteria\" (making London declare Partridge dead through social consensus rather than physical fact) and the fine-print loopholes in modern prediction markets is a sharp, original insight that earns its central thesis.",
+    "weakest": "The Steele section buries its argument under excessively long verbatim quotations — the genealogy passage and the Happy Marriage excerpt especially — that the reviewer never fully earns or synthesizes, causing the review's momentum to collapse in its middle third.",
+    "summary_trap": false
+  },
+  {
+    "id": "161",
+    "title": "World War Z",
+    "scores": {
+      "insight": 5,
+      "engagement": 6,
+      "originality": 4,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Do not shortlist: the review is largely a well-written plot summary that adopts the book's own thesis as its argument, without adding a genuinely original or non-obvious analytical payoff.",
+    "strongest": "The opening framing - that zombie stories must be about something other than zombies, and tracing what World War Z is actually about - sets up a promising critical lens and the parenthetical about Israeli-Palestinian peace being less realistic than zombies is the review's sharpest moment.",
+    "weakest": "The bulk of the review is a section-by-section plot walkthrough that rehearses the book's own explicit moral rather than teaching the reader something the book itself doesn't tell you.",
+    "summary_trap": true
+  },
+  {
+    "id": "162",
+    "title": "Demons (Бесы) by Fyodor Dostoyevsky",
+    "scores": {
+      "insight": 7,
+      "engagement": 8,
+      "originality": 8,
+      "fairness": 7,
+      "structure": 5
+    },
+    "verdict": "Worth shortlisting for its distinctive voice and genuinely non-obvious argument about demons as a conceptual category, but the structure is sprawling and never fully cashes out its most interesting ideas.",
+    "strongest": "The central thesis — that \"demon\" is a rigorous concept meaning a force that displaces individual personality in service of itself, and that the modern secular vocabulary of \"mental illness\" is not more evidentially grounded but merely reassigns blame — is genuinely interesting and argued with real bite.",
+    "weakest": "The review loses structural coherence in its second half, drifting into extended translated excerpts and an unresolved teaser about the appendix scene without ever landing the argument it set up.",
+    "summary_trap": false
+  }
+]

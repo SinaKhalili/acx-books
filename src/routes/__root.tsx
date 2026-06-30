@@ -19,7 +19,12 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'TanStack Start Starter',
+        title: 'ACX Book Review Contest — Judged by Claude Opus 4.8',
+      },
+      {
+        name: 'description',
+        content:
+          'A simulation of the Astral Codex Ten 2026 Book Review Contest, with every entry scored by an AI judge against a five-part rubric.',
       },
     ],
     links: [
