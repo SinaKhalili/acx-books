@@ -1,5 +1,4 @@
-import { byId, reviews, scoredReviews } from './reviews'
-import { tournament } from './tournament'
+import { scoredReviews } from './reviews'
 
 /** Average-rank (tie-corrected) ranks for a list of values. */
 function averageRanks(vals: number[]): number[] {
@@ -49,36 +48,7 @@ export function strength(rho: number): string {
 /** Canonical rubric rank (1 = best) by review id. */
 export const rubricRank = new Map(scoredReviews.map((r, i) => [r.id, i + 1]))
 
-// ── (1) Do the rankings agree? ─────────────────────────────────────────────
-
-/** Rubric seeding vs. the comparative tournament, over the top 50. */
-export const rubricVsTournament = (() => {
-  const points = tournament.standings.map((s, i) => ({
-    id: s.id,
-    title: byId.get(s.id)?.title ?? s.title,
-    slug: byId.get(s.id)?.slug ?? '',
-    rubricRank: s.seed + 1, // seed is 0-based rubric position
-    tourneyRank: i + 1,
-  }))
-  const rho = spearman(points.map((p) => [p.rubricRank, p.tourneyRank]))
-  return { rho, n: points.length, points }
-})()
-
-/** Sonnet's first pass vs. Opus's re-judge, over entries scored by both. */
-export const sonnetVsOpus = (() => {
-  const both = reviews.filter((r) => r.sonnet && r.opus)
-  const points = both.map((r) => ({
-    id: r.id,
-    title: r.title,
-    slug: r.slug,
-    sonnet: r.sonnet!.weighted,
-    opus: r.opus!.weighted,
-  }))
-  const rho = spearman(points.map((p) => [p.sonnet, p.opus]))
-  return { rho, n: points.length, points }
-})()
-
-// ── (2) Rank vs. Pangram's AI estimate ─────────────────────────────────────
+// ── Rank vs. Pangram's AI estimate ─────────────────────────────────────────
 
 export const rankVsAi = (() => {
   const points = scoredReviews
