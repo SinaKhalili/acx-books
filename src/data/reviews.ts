@@ -19,6 +19,17 @@ export type ModelVerdict = {
 
 export type Judge = 'opus' | 'sonnet'
 
+export type Pangram = {
+  /** 0–1 share of the review Pangram judged AI-generated. */
+  fractionAi: number
+  fractionAiAssisted: number
+  fractionHuman: number
+  /** Short label: "AI", "Mixed", or "Human". */
+  prediction: string
+  /** Pangram's full sentence verdict. */
+  verdict: string
+}
+
 export type ReviewEntry = {
   id: string
   slug: string
@@ -33,6 +44,7 @@ export type ReviewEntry = {
   summaryTrap: boolean | null
   sonnet: ModelVerdict | null
   opus: ModelVerdict | null
+  pangram: Pangram | null
   rank?: number
 }
 

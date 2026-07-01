@@ -1,4 +1,4 @@
-import { createFileRoute, Link } from '@tanstack/react-router'
+import { createFileRoute } from '@tanstack/react-router'
 import { useMemo, useState } from 'react'
 import { ChevronDown, ExternalLink, Search } from 'lucide-react'
 import {
@@ -79,47 +79,6 @@ function FieldHistogram() {
         </div>
       </div>
     </div>
-  )
-}
-
-function Podium() {
-  const top = scoredReviews.slice(0, 3)
-  if (top.length < 3) return null
-  const order = [top[1], top[0], top[2]]
-  const heights = ['sm:mt-8', 'sm:mt-0', 'sm:mt-12']
-  return (
-    <section className="mt-10 grid gap-4 sm:grid-cols-3">
-      {order.map((r, i) => {
-        const rank = scoredReviews.findIndex((x) => x.id === r.id) + 1
-        return (
-          <a
-            key={r.id}
-            href={reviewUrl(r.slug)}
-            target="_blank"
-            rel="noreferrer"
-            className={`island-shell feature-card flex flex-col rounded-2xl p-6 no-underline ${heights[i]}`}
-          >
-            <div className="flex items-baseline justify-between">
-              <span className={`rank-medal text-2xl font-semibold ${medalClass(rank)}`}>
-                {rank === 1 ? '1st' : rank === 2 ? '2nd' : '3rd'}
-              </span>
-              <span className={`score-figure text-4xl font-semibold ${medalClass(rank)}`}>
-                {r.weighted?.toFixed(1)}
-              </span>
-            </div>
-            <div className="mt-3">
-              <JudgeBadge judge={r.judge} />
-            </div>
-            <h3 className="display-title mt-2 text-xl leading-snug font-semibold text-[var(--ink)]">
-              {r.title}
-            </h3>
-            <p className="mt-2 text-sm leading-relaxed text-[var(--ink-soft)]">
-              {r.verdict}
-            </p>
-          </a>
-        )
-      })}
-    </section>
   )
 }
 
@@ -295,21 +254,6 @@ function Leaderboard() {
       </section>
 
       <FieldHistogram />
-
-      {s.scored >= 3 && <Podium />}
-
-      <Link
-        to="/tournament"
-        className="island-shell rank-row mt-4 flex items-center justify-between gap-4 rounded-xl px-5 py-3.5 no-underline"
-      >
-        <span className="text-sm text-[var(--ink-soft)] sm:text-base">
-          These scores only seeded the field — a 34-agent tournament picked the
-          actual winner, and it wasn't the rubric's #1.
-        </span>
-        <span className="shrink-0 font-semibold text-[var(--gold)]">
-          The Tournament →
-        </span>
-      </Link>
 
       <section className="mt-12">
         <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">

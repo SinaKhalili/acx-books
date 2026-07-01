@@ -29,11 +29,11 @@ export default function Header() {
             Standings
           </Link>
           <Link
-            to="/tournament"
+            to="/analysis"
             className="nav-link"
             activeProps={{ className: 'nav-link is-active' }}
           >
-            Tournament
+            Analysis
           </Link>
           <Link
             to="/about"

@@ -32,6 +32,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 111
 },
 {
@@ -67,6 +74,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 133
 },
 {
@@ -115,6 +129,13 @@
 "weakest": "The \"Bayesian update\" framing is empty jargon that restates the plot without adding insight, and the 300-word footnote digression about the Wisconsin theater (which the reviewer admits editors wanted cut) is self-indulgent bloat that the piece does not need.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 21
 },
 {
@@ -150,6 +171,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 160
 },
 {
@@ -185,6 +213,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 151
 },
 {
@@ -232,6 +267,13 @@
 "strongest": "The character-as-political-archetype structure paired with the recurring deadpan refrain, which turns what could have been plot summary into a witty taxonomy of 1920 American political sentiment, all carried by a confident, funny authorial voice.",
 "weakest": "The thesis stays at the level of \"this novel shows how mainstream these attitudes were\" rather than advancing a sharper, more contestable argument; the suggestive 2020 framing bookends the piece but is never developed into a real claim, leaving the deepest payoff implied rather than earned.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 72
 },
@@ -281,6 +323,13 @@
 "weakest": "The closing \"lessons\" occasionally collapse into generic self-help, and the EA analogy is celebrated rather than stress-tested — the review never asks whether the parallel should worry EAs or what it would mean if the missionaries were the cautionary tale.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 22
 },
 {
@@ -328,6 +377,13 @@
 "strongest": "The fusion of a genuine personal stake (raising kids inside some worldview) with a faithful, vivid reconstruction of Taylor's hardest ideas, so that the book's argument about secularity-as-achievement becomes something the reader actually feels rather than merely learns. The voice is distinctive and consistently a pleasure.",
 "weakest": "It is almost entirely admiring; the reviewer ventriloquizes Taylor beautifully but rarely tests him, and a few breezy analogies (porous self = BPD) slightly distort the source for the sake of a quick handle. A touch of trimming in the disenchantment section would tighten the pacing.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 9
 },
@@ -377,6 +433,13 @@
 "weakest": "The boxing-announcer and Sarah McLachlan bits, while funny, occasionally tip from voice into shtick and slightly pad the middle three-story section before the real argument arrives.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 34
 },
 {
@@ -412,6 +475,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 161
 },
 {
@@ -460,6 +530,13 @@
 "weakest": "The LLM experiment section is the weakest stretch: it references screenshots/responses that the text format cannot display (\"This is GPT-5.5's response...\"), so its payoff lands as a told-not-shown anticlimax and reaches only \"inconclusive.\"",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 10
 },
 {
@@ -495,6 +572,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 84
 },
 {
@@ -543,6 +627,13 @@
 "weakest": "The intellectual payoff is more appreciative than argumentative. The Goedelian \"true but unprovable for you personally\" idea is invoked twice as the conceptual peak but never fully unpacked for a reader who doesn't already understand incompleteness, and the review's central \"so what\" stays closer to enthusiastic recommendation than a sharp thesis. The withheld final-riddle ending, while in keeping with the spirit, also slightly defers the climactic payoff the piece spends its length earning.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 64
 },
 {
@@ -578,6 +669,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 97
 },
 {
@@ -613,6 +711,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 122
 },
 {
@@ -648,6 +753,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 104
 },
 {
@@ -695,6 +807,13 @@
 "strongest": "The double-dissociation demolition of the Beast Machine theory (anesthesia, slow-wave sleep, pure autonomic failure all severing the consciousness-homeostasis link in both directions) is a genuinely sharp, well-targeted argument, and pairing it with Chalmers' own pre-emptive X-factor objection shows the author engaging the literature at the strongest level rather than strawmanning.",
 "weakest": "Length and discipline: the review runs far past what it needs, the framing migrates from reviewing Seth into the author's own treatise, and load-bearing empirical claims (especially the brain-LLM alignment study and the Anthropic functional-emotion results) are asserted with thin sourcing and a last-minute-discovery caveat that undercuts confidence.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 32
 },
@@ -744,6 +863,13 @@
 "weakest": "The middle plot-and-character sections (the conspiracy narrative, the Catiline biography) sag slightly into summary and the piece is long enough that a tighter edit would sharpen the payoff.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 5
 },
 {
@@ -779,6 +905,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 129
 },
 {
@@ -814,6 +947,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 155
 },
 {
@@ -861,6 +1001,13 @@
 "strongest": "The fusion of Bano's research with the reviewer's firsthand aid-work anecdotes (Afghan hashar, Zimbabwean VOs, Nepali HIV networks, Ethiopian SHGs) gives the book's thesis concrete, vivid corroboration and elevates it from summary to lived argument.",
 "weakest": "It runs long and the final EA-implications and SHG sections, while strong, soften the momentum a touch as the piece extends well past its most powerful payoff.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 1
 },
@@ -910,6 +1057,13 @@
 "weakest": "The compulsive meme/pop-culture diction (gigachad, mogs, Super Saiyan, \"full galaxy brain meme,\" \"We're not in Honduras anymore Toto\") is overused to the point of distraction and sometimes substitutes verbal flash for argument, and Part 1 is long enough that the essay reads as half exposition before the actual thesis arrives.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 56
 },
 {
@@ -945,6 +1099,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 149
 },
 {
@@ -980,6 +1141,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.1798,
+"fractionAiAssisted": 0.1813,
+"fractionHuman": 0.6388,
+"prediction": "Mixed",
+"verdict": "We believe that this document is a mix of AI-generated, AI-assisted, and human-written content"
+},
 "rank": 85
 },
 {
@@ -1028,6 +1196,13 @@
 "weakest": "It is not a book review and barely engages the book; combined with the heavily defensive, objection-immunizing scaffolding and an unfalsifiable frame that absorbs any outcome, it asks the reader to accept a large ontology on faith while pre-empting the most natural criticisms.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.1806,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.8194,
+"prediction": "Mixed",
+"verdict": "We believe that this document is primarily human-written, with some AI-generated content detected"
+},
 "rank": 131
 },
 {
@@ -1063,6 +1238,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 77
 },
 {
@@ -1110,6 +1292,13 @@
 "strongest": "The dual reframing - Catullus 16 as a rap diss track and then as friendly banter - paired with disciplined honesty about the thin evidence, plus genuinely instructive material on Roman sexual norms and Latin meter delivered in a funny, confident voice.",
 "weakest": "It accumulates many smart observations without committing to one driving thesis; the most penetrating question (is the poem only shock value?) is raised and then somewhat hedged rather than fully resolved.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 23
 },
@@ -1159,6 +1348,13 @@
 "weakest": "Pacing and structure: two long up-front digressions delay the argument, the chapter-by-chapter spine remains a table-of-contents march, and the \"the effective altruist would find this...\" framing turns into a mechanical refrain.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 70
 },
 {
@@ -1206,6 +1402,13 @@
 "strongest": "The unifying thesis: it takes \"Stock Responses\" and \"Deathworks\" and uses them to make a marginal poetry book feel like a live argument about how art trains feeling — with the Eliot critique and the grief poem both reframed through the same idea, so the structure pays off rather than just accumulating.",
 "weakest": "It is largely an exposition-and-defense of Lewis's view rather than a critical engagement with it; the universalist \"Civilisation vs Barbarism\" claim and the Deathworks framework are accepted with little resistance, leaving the strongest counterarguments unexplored.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 47
 },
@@ -1255,6 +1458,13 @@
 "weakest": "Structural bloat and drift: roughly the final third abandons the book for a detailed policy white paper (jury logistics, budgets, oath text, LLM exercise), and the Socratic-dialogue conceit pads heavily, straining the case that the length is earned.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 57
 },
 {
@@ -1302,6 +1512,13 @@
 "strongest": "The argument-by-elimination structure culminating in the \"risk is independent of the payoff\" insight, which makes the psychological thesis (Mark Thatcher Syndrome) feel discovered rather than imposed; paired with a genuinely funny, controlled voice that uses Mann's own self-mythologizing prose as evidence.",
 "weakest": "The closing generalization of the Syndrome to founders, cops, and Alexander the Great is asserted more than argued, and the reviewer's own hedge (\"ramblings I will quickly disown\") signals he knows the leap is underjustified; a few mid-review digressions (bomb chemistry, military hardware pricing) are fun but loosely tethered to the thesis.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 35
 },
@@ -1351,6 +1568,13 @@
 "weakest": "It largely follows the book's own sequential structure and advances no competing thesis of its own; the voice is clear and competent but rarely distinctive, leaving it closer to an exceptional explainer than a reframing review.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 71
 },
 {
@@ -1398,6 +1622,13 @@
 "strongest": "Distinctive, confident voice married to a real argument: it converts an intimidating tome into a vivid, escalating case and lands a genuine thesis (Spengler refutes Spengler) rather than just summarizing. The Kristianstad and Scott/Trump illustrations make abstract claims concrete and memorable.",
 "weakest": "The \"Spenglerism as forerunner of Spenglerism\" meta-section is the most self-indulgent and least rigorous stretch, layering Inception-style speculation that adds atmosphere but little argumentative payoff and slightly dilutes an otherwise disciplined critique.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 36
 },
@@ -1447,6 +1678,13 @@
 "weakest": "Pacing: the (admittedly entertaining) colonial-history and prose-quirks sections consume a lot of runtime before the core evaluation of Museveni's actual rule, which is the most argumentative and valuable part.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 17
 },
 {
@@ -1482,6 +1720,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 103
 },
 {
@@ -1529,6 +1774,13 @@
 "strongest": "The unifying thesis — that everyone in the book is \"awake\" but only Baochai is awake and stays, and that her composure is the cost we mistake for capacity — is then earned through concrete textual evidence (the Cold Fragrance Pill, the bare room, the pavilion reflex) rather than asserted.",
 "weakest": "The middle stretch leans on incantatory short-line repetition (\"She is not the only one who is awake. / Lin Daiyu is awake...\") that becomes a rhetorical tic, padding the pacing and slightly diluting an otherwise tight argument.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 1.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.0,
+"prediction": "AI",
+"verdict": "We believe that this document is fully AI-generated"
 },
 "rank": 48
 },
@@ -1578,6 +1830,13 @@
 "weakest": "The middle-to-late stretch (running water failing, Charlie, the typhoid outbreak, Joey's death) leans into chronological plot summary where the interpretive argument momentarily recedes, making part of the piece feel more like reporting than thinking.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 49
 },
 {
@@ -1625,6 +1884,13 @@
 "strongest": "The \"selection effects all the way down\" thesis combined with the Australia triangulation — adding a third comparison point Fischer ignored, then using it to explain divergence (timing of dispatch, type of settler, nature of the indigenous counterparty), which transforms a binary into a genuine causal argument.",
 "weakest": "Length and pacing in the back half: the military-ethos section becomes an anecdote and block-quote pileup (especially the Rommel/Freyberg sequence), and the immigration section partly repeats earlier points, so the thesis gets diluted rather than sharpened.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 43
 },
@@ -1674,6 +1940,13 @@
 "weakest": "The full Genesis 22 block quotation and the more expository middle sections slacken the momentum; in stretches it reports Kierkegaard's argument faithfully rather than pressing the reviewer's own thesis, leaving the strongest original turn for the very end.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 41
 },
 {
@@ -1709,6 +1982,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 126
 },
 {
@@ -1756,6 +2036,13 @@
 "strongest": "The central move - reading a parenthetical concession (reparations would end all future race-specific policies) as the opening of a real bargain, then turning it into a \"tax on bullshit\" dilemma that forces anti-DEI conservatives to either support reparations or admit their opposition is performative - is a genuinely novel, non-obvious thesis executed with rigor and wit.",
 "weakest": "The DEI-offset half leans on a $94bn figure the author himself calls \"total bollocks\" and on jury-rigged regressions and Claude-generated treaty datasets, so the quantitative scaffolding propping up the \"net positive\" conclusion is shakier than the confident framing implies.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 2
 },
@@ -1805,6 +2092,13 @@
 "weakest": "Fairness and accuracy. It strawmans a defensible philosophical move (primary/secondary qualities, the hard problem), waves away the very point it admits it isn't answering (\"this isn't the experience of yellow\"), and overclaims (\"We know precisely what quantum mechanics tells us about reality\"), letting contempt override engagement with the strongest version of the book.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 109
 },
 {
@@ -1853,6 +2147,13 @@
 "weakest": "It presents a deliberately ambiguous, speculative reading with more rhetorical certainty than the evidence warrants (much of it inference plus a single contested 1996 essay), and it functions more as a decoding manual than a review — it never quite addresses whether or for whom the play is worth reading, and the canon-spanning back third loosens the otherwise tight argument.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 58
 },
 {
@@ -1888,6 +2189,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 119
 },
 {
@@ -1923,6 +2231,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 78
 },
 {
@@ -1958,6 +2273,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 86
 },
 {
@@ -1993,6 +2315,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 123
 },
 {
@@ -2028,6 +2357,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 114
 },
 {
@@ -2063,6 +2399,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 87
 },
 {
@@ -2111,6 +2454,13 @@
 "weakest": "The \"so what\" beyond the book's own findings stays underdeveloped, and the extended Noriega case study slides into narration/summary, diluting the analytical payoff that the rest of the review promises.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 67
 },
 {
@@ -2146,6 +2496,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 127
 },
 {
@@ -2181,6 +2538,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 76
 },
 {
@@ -2228,6 +2592,13 @@
 "strongest": "The closing application of Chang's epistemic-iteration and nomic-measurement frameworks to LLM benchmarking, which transforms a book review into an original argument and connects thermometry to METR, Fodor, and the extrapolator's circle without lapsing into mere name-dropping.",
 "weakest": "Voice and pacing: the prose is competent and clear but rarely distinctive or playful, and the historical middle is faithful exposition that delays the genuinely original analysis.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 63
 },
@@ -2277,6 +2648,13 @@
 "weakest": "The unifying thesis (formal perfection dramatizing human futility) is well-argued but not deeply surprising for these authors, and across two books the \"so what\" stays closer to elegant appreciation than to a reframing that changes how you see the wider world.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 37
 },
 {
@@ -2312,6 +2690,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 105
 },
 {
@@ -2347,6 +2732,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 162
 },
 {
@@ -2382,6 +2774,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 98
 },
 {
@@ -2417,6 +2816,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 124
 },
 {
@@ -2452,6 +2858,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 79
 },
 {
@@ -2499,6 +2912,13 @@
 "strongest": "The central reframing — that Leviathan is bloodless, optimistic, anxious about the state's weakness rather than awed by its power, and quietly self-refuting because Hobbes \"preaches obedience while being constitutionally incapable of remaining obedient himself\" — is non-obvious and genuinely illuminating.",
 "weakest": "The closing argument that more \"Leviathans roaming the earth\" correlates with declining human suffering is asserted rather than seriously interrogated, and the reviewer waves it through with a quick caveat instead of testing the strongest objections to his own conclusion.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 24
 },
@@ -2548,6 +2968,13 @@
 "weakest": "Pacing and focus: the biographical narrative and the linguistics digressions sometimes compete rather than reinforce, the conjugation table over-explains, and typos plus a slightly diffuse section structure keep it from the tightness of a true standout. The \"so what\" is strong but spread across the piece rather than driven home.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 50
 },
 {
@@ -2583,6 +3010,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 80
 },
 {
@@ -2631,6 +3065,13 @@
 "weakest": "It is more a whaling/cetacean-acoustics essay than a review of the book as a work; the connection to Melville frays in the second half, and the final \"lessons for the next Leviathans\" question promises a payoff it never delivers.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 59
 },
 {
@@ -2666,6 +3107,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 81
 },
 {
@@ -2701,6 +3149,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 118
 },
 {
@@ -2736,6 +3191,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 88
 },
 {
@@ -2771,6 +3233,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 110
 },
 {
@@ -2806,6 +3275,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 130
 },
 {
@@ -2853,6 +3329,13 @@
 "strongest": "The argument that Wiesel's passive voice and absent perpetrators (\"We were counted,\" chairs \"tipped over\" by no one) strip human agency from the Holocaust — and that this aesthetic failure actively contradicts Wiesel's own anti-indifference activism — is a genuinely non-obvious, well-supported, and provocative thesis, buttressed effectively by Orwell, Arendt, and the Vonnegut/McCarthy contrasts.",
 "weakest": "Fairness: the review names but never seriously engages the strongest defense of Wiesel's style — that flat, dissociative, agency-less prose is the authentic register of trauma and a deliberate convention of witness literature — raising such counters mainly to dismiss them, which leaves the central charge feeling slightly stacked.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 74
 },
@@ -2902,6 +3385,13 @@
 "weakest": "The back third's prescriptive wishlist (new AI punctuation marks, mirrored Joyce letters, larger fonts for yelling) gets a bit indulgent and drifts from Ong, and the review leans on its own assertions about Ong/Havelock/Luria without ever pushing back on or testing the book's claims, so fairness/accuracy is more \"faithful relay\" than \"critical engagement.\" A few claims (brain-scan-detects-literacy, exact \"70%/50% literacy\" figures) are asserted without sourcing.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 18
 },
 {
@@ -2937,6 +3427,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 134
 },
 {
@@ -2985,6 +3482,13 @@
 "weakest": "Structure and pacing: roughly half the wordcount is a self-acknowledged chapter-by-chapter chronological summary, so the review doesn't fully earn its considerable length and buries its best ideas.",
 "summaryTrap": true
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 99
 },
 {
@@ -3020,6 +3524,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 150
 },
 {
@@ -3067,6 +3578,13 @@
 "strongest": "The structuring of the analysis as a chain of falsifiable skeptical objections, culminating in the theory-of-mind synthesis and the inverted causality thesis (\"you don't practice religion because you believe; you act as if God is real so God can become real\"). It teaches a real, non-obvious framework and the reviewer never substitutes summary for argument.",
 "weakest": "Section VII (mind upload speculation) is the soft spot: it drifts from the books into loosely-tethered futurism that adds length without proportional payoff and slightly undercuts the otherwise disciplined argument. The prose also gets over-dense in places with a handful of typos.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.1827,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.8173,
+"prediction": "Mixed",
+"verdict": "We believe that this document is primarily human-written, with some AI-generated content detected"
 },
 "rank": 19
 },
@@ -3116,6 +3634,13 @@
 "weakest": "It is long and occasionally repeats the same asymmetry point (concentrated vs. dispersed harm) across several sections, and a couple of moments (the stray closing quotation mark in Section VII) betray light proofing.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 1.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.0,
+"prediction": "AI",
+"verdict": "We believe that this document is fully AI-generated"
+},
 "rank": 6
 },
 {
@@ -3163,6 +3688,13 @@
 "strongest": "It enacts its thesis - the overwhelming, lesson-saturated, boundary-refusing form mirrors the very excess it diagnoses in the book, so the reader literally \"fails willsave\" the way the review claims the book makes you.",
 "weakest": "The dense meme/in-group encryption frequently tips from distinctive voice into noise, making the genuinely sharp readings (Lawful evil as locally-correct-but-globally-damned, decision theory across copies, indexical non-privilege, Otolmens economics) hard to extract and impossible to fully verify.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.8408,
+"fractionAiAssisted": 0.0577,
+"fractionHuman": 0.1015,
+"prediction": "AI",
+"verdict": "We believe that this document is mainly AI-generated, with some AI-assisted and human-written content"
 },
 "rank": 100
 },
@@ -3212,6 +3744,13 @@
 "weakest": "The first third is a competent but summary-heavy walkthrough of the book's frameworks that runs longer than its payoff requires; the review takes a while to get to the argument that makes it special.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 38
 },
 {
@@ -3247,6 +3786,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 101
 },
 {
@@ -3282,6 +3828,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 156
 },
 {
@@ -3317,6 +3870,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 112
 },
 {
@@ -3352,6 +3912,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 135
 },
 {
@@ -3400,6 +3967,13 @@
 "weakest": "Length and the recurring \"ask Claude\" parentheticals occasionally drag, the metaethics in section VI risks losing a general reader, and the broken/placeholder graphs leave a visible gap in the otherwise carefully built opening. The deliberate refusal to name the AI frame outright is mostly an asset but creates a small risk of the central stakes being missed.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 7
 },
 {
@@ -3435,6 +4009,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 159
 },
 {
@@ -3483,6 +4064,13 @@
 "weakest": "By staging an emotionally satisfying conversion arc, it largely sidesteps the actual evidentiary question it raised (quantum mechanics, \"spiritual beings,\" the cult vibes), ending on a deliberate \"I don't know\" that dodges rather than resolves the skeptic's strongest objections.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 62
 },
 {
@@ -3518,6 +4106,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 116
 },
 {
@@ -3553,6 +4148,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 136
 },
 {
@@ -3600,6 +4202,13 @@
 "strongest": "The framing device is brilliant and self-justifying: the review enacts its own thesis (you can't transmit wisdom by explanation) and lands a recursive twist where the meta-frame, the self-referential ending, and the rationalist-coded reading all reinforce the central argument about tacit knowledge.",
 "weakest": "The all-dialogue conceit means relatively little direct, accurate engagement with the actual text of Siddhartha (only two quotes, and the narrator/author even jokes about half-remembering the plot), so the book itself stays somewhat thin behind the cleverness.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 73
 },
@@ -3649,6 +4258,13 @@
 "weakest": "Voice is competent but largely flavorless, and several expository stretches (the accounting digression, the two-price system) slow the pace without delivering proportional payoff.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 68
 },
 {
@@ -3696,6 +4312,13 @@
 "strongest": "The cross-edition close reading (1924 vs. 1961) of the dead British soldier passage and the changed endings, used to overturn the inherited \"sociopath\" reading of Junger with textual evidence rather than assertion. Paired with the genuinely fresh comparative critique of All Quiet (Remarque's five weeks at the front; the food contradiction), this is real analysis, not summary.",
 "weakest": "The personal NICU narrative, while powerful, runs long enough to risk crowding out the book, and the \"why is Storm of Steel the best\" bulleted list is the flattest, most assertion-heavy section. The core thesis that the novel's greatness lies in mere unmediated reportage is more stated than fully defended as a critical claim.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 25
 },
@@ -3745,6 +4368,13 @@
 "weakest": "Section IV (information farming / \"instantiating theory directly on the substrate of the universe\") is the murkiest stretch; the reviewer candidly cannot tell what Lem means and the argument dissipates rather than landing, blunting the build-up the structure had earned toward a \"strategic victory against Nature.\"",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 20
 },
 {
@@ -3780,6 +4410,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 102
 },
 {
@@ -3815,6 +4452,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 115
 },
 {
@@ -3850,6 +4494,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 1.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.0,
+"prediction": "AI",
+"verdict": "We believe that this document is fully AI-generated"
+},
 "rank": 158
 },
 {
@@ -3897,6 +4548,13 @@
 "strongest": "The interleaved structure: the forensic \"Parts\" advancing the case while the \"Interludes\" deliver escalating, self-contained Joseph Smith stories, all unified by the recurring \"how do we square this?\" refrain that pays off in the rationalization-as-superpower conclusion.",
 "weakest": "The core thesis (faith as instrumentally rational coordination tech) is fairly well-trodden ACX territory, and the author self-admittedly lands on an unoriginal South Park ending; a few quantitative claims about Mormon charity/wealth are asserted without sourcing.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 26
 },
@@ -3946,6 +4604,13 @@
 "weakest": "It deliberately stays small, illuminating a single scene and one psychological pattern rather than engaging the novel's larger philosophical machinery, so the payoff is vivid but limited in scope.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 27
 },
 {
@@ -3994,6 +4659,13 @@
 "weakest": "Fairness/accuracy: it largely abandons the book to push the reviewer's own confident-but-speculative neuroscience model, presents that model as established truth, and reduces Lacan to \"con man\" without engaging the strongest version of his ideas, ironically mirroring the unfalsifiability it condemns.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 44
 },
 {
@@ -4029,6 +4701,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 152
 },
 {
@@ -4077,6 +4756,13 @@
 "weakest": "It is almost entirely chronological plot summary with no developed thesis or \"so what\" — it never engages the book as a book or extracts a transferable, non-obvious idea from a story full of them.",
 "summaryTrap": true
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 146
 },
 {
@@ -4112,6 +4798,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 89
 },
 {
@@ -4147,6 +4840,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 106
 },
 {
@@ -4182,6 +4882,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 120
 },
 {
@@ -4229,6 +4936,13 @@
 "strongest": "The thesis lands and pays off: it weaves the LLM-as-training-data conceit (via Scott's own \"Turing Test\") into the ancient theme of immortality-through-deeds, then subverts both with the tavern-keeper's \"let your belly be full\" to argue that simply having lived means you \"made it\" - a payoff the whole structure builds toward.",
 "weakest": "The middle tablets (the Humbaba/Bull-of-Heaven adventures) sag into plot summary, which the author candidly admits (\"which is why I'm summarising them so hard\"), and the considerable length means a few stretches of historical context, while interesting, slightly outpace the argument.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 11
 },
@@ -4278,6 +4992,13 @@
 "weakest": "Sections I–VI lean heavily on chronological retelling of the escape; the narrative is engaging but a meaningful share of the length is summary that delays the genuinely original thesis, and several contemporary parallels are predictable for the audience.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 45
 },
 {
@@ -4313,6 +5034,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 138
 },
 {
@@ -4348,6 +5076,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 90
 },
 {
@@ -4383,6 +5118,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 137
 },
 {
@@ -4418,6 +5160,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 132
 },
 {
@@ -4466,6 +5215,13 @@
 "weakest": "The middle-to-late thesis sprawl (Fijian reef fish, Cartwright, Body Politic) is the right kind of ambition but slightly over-stuffs the back half, diluting momentum before the strong closing.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 12
 },
 {
@@ -4501,6 +5257,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 144
 },
 {
@@ -4548,6 +5311,13 @@
 "strongest": "The original Keyhole Theory thesis, built rigorously and then adversarially tested against its hardest cases (Lenin, Napoleon, the \"merely eventful\" objection) using the key/keyhole and founder-effect metaphors as genuine analytical tools rather than decoration.",
 "weakest": "Multiple referenced diagrams are missing from the text, leaving load-bearing fitness-landscape claims unillustrated; the framework also flirts with unfalsifiability since nearly any leader can be retroactively described as fitting a \"keyhole.\"",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 51
 },
@@ -4597,6 +5367,13 @@
 "weakest": "The review is structurally lopsided: two long preambles (history of the novel, history of Smollett) crowd out Part 3 so the titular Atom gets comparatively thin analysis, leaning on shock-value quotation more than argument.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 28
 },
 {
@@ -4632,6 +5409,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 141
 },
 {
@@ -4679,6 +5463,13 @@
 "strongest": "It turns the book's brainwashing towers into a live thesis about society-scale positive cultivation and AI, capped by the chilling, earned final line \"the towers are already here.\"",
 "weakest": "The AI-tutoring section leans slightly on contestable empirical claims (Bloom's Two Sigma, \"already beating the gold standard\") asserted more than supported, and the fragmented opening is a touch mannered.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 13
 },
@@ -4728,6 +5519,13 @@
 "weakest": "The reviewer largely transmits Wootton's theses rather than independently testing them; the strong philological claims are accepted on the author's authority without scrutiny, so the review is more a brilliant exposition than an original argument of its own.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.2776,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.7224,
+"prediction": "Mixed",
+"verdict": "We believe that this document is primarily human-written, with some AI-generated content detected"
+},
 "rank": 60
 },
 {
@@ -4763,6 +5561,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 107
 },
 {
@@ -4798,6 +5603,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 154
 },
 {
@@ -4833,6 +5645,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 153
 },
 {
@@ -4868,6 +5687,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 91
 },
 {
@@ -4915,6 +5741,13 @@
 "strongest": "The Job-to-Ecclesiastes pivot in the final section: it converts what could have been a clever close-reading into a personal argument with stakes, and the reviewer's confession that Koheleth is the text that actually works for them (\"Koheleth is Job who failed in the test... if it were me, so would I be\") lands as both insight and voice.",
 "weakest": "Pacing in the middle: large stretches are plot summary scaffolded by long block quotes, and the deliberate withholding of the thesis means much of the length is spent reporting the novel's reveals rather than thinking about them.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 54
 },
@@ -4964,6 +5797,13 @@
 "weakest": "It borrows its showpiece discovery (the Nonnus debt and the first-paragraph translation) heavily from a single 2003 scholarly article, so the most striking \"trick\" is reported rather than independently found, and the Prestige/Pledge/Turn framing occasionally over-eggs the magician conceit.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 14
 },
 {
@@ -4999,6 +5839,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 128
 },
 {
@@ -5047,6 +5894,13 @@
 "weakest": "The core causal claim (\"Shakespeare pioneered situation comedy\") is more charming pattern-match than demonstrated lineage; the review shows that Merry Wives resembles a sitcom structurally but does not really establish that the modern form descends from this play rather than from broader comic tradition. The Snunkoople/Comedy-K digression is the one stretch where the entertainment outruns the payoff.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 29
 },
 {
@@ -5082,6 +5936,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 121
 },
 {
@@ -5117,6 +5978,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.1667,
+"fractionAiAssisted": 0.0896,
+"fractionHuman": 0.7437,
+"prediction": "Mixed",
+"verdict": "We believe that this document is primarily human-written, with some AI-generated and AI-assisted content detected"
+},
 "rank": 147
 },
 {
@@ -5165,6 +6033,13 @@
 "weakest": "The \"Understory\" section is a long straight plot summary that, despite being partly justified by the later point about Powers making you forget the human drama, still drags and flirts with the summary trap before the analysis kicks in.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 52
 },
 {
@@ -5200,6 +6075,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 92
 },
 {
@@ -5247,6 +6129,13 @@
 "strongest": "The voice-driven reframing of the book as a proto-blog/listicle feed, sustained with wit and backed by genuinely informative cultural and textual context (utamakura, Heian court life, the four manuscript lineages) and quotes that earn their length.",
 "weakest": "The thesis stays at \"delightful reframing plus good context\" and never escalates into a deeper argument; some stretches (reading order, manuscript genealogy) tip into enthusiast cataloging that thins the payoff.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 46
 },
@@ -5296,6 +6185,13 @@
 "weakest": "It reviews no actual book, so it sidesteps the fairness/accuracy dimension that grounds the contest, and its claims about itself are unfalsifiable vibes by its own admission, which risks reading as a clever stunt rather than a review.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 1.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.0,
+"prediction": "AI",
+"verdict": "We believe that this document is fully AI-generated"
+},
 "rank": 39
 },
 {
@@ -5331,6 +6227,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 142
 },
 {
@@ -5366,6 +6269,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 65
 },
 {
@@ -5401,6 +6311,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 93
 },
 {
@@ -5448,6 +6365,13 @@
 "strongest": "Genuine re-analysis of the primary studies behind the book's claims (e.g., unpacking the fast/slow-charge deterrence-vs-detection distinction in the Danish DNA study, flagging the cluster of just-under-0.05 p-values), paired with the original reframing of DNA/sobriety enforcement as an inversion of \"society is fixed, biology is mutable.\"",
 "weakest": "The final third (failed-interventions list, Big Picture, conclusion) slides toward conventional summary and stock phrasing, and some stylistic tics plus repeated tech analogies make the voice feel effortful rather than effortlessly distinctive.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 69
 },
@@ -5497,6 +6421,13 @@
 "weakest": "The amateur reconstruction of the Hohokam collapse is acknowledged as bias-driven speculation, and the spectacular Westworld-style closing riff, while thrilling, leans more on rhetorical flourish than on the book itself.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 3
 },
 {
@@ -5545,6 +6476,13 @@
 "weakest": "The extended Oxford Movement / Newman digression in section IV, which is well-informed but loosens the structure and demands more background knowledge than it repays for the central argument.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 53
 },
 {
@@ -5580,6 +6518,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 108
 },
 {
@@ -5628,6 +6573,13 @@
 "weakest": "The two skippable epistemology-nerd sections, while good, slightly over-extend an already long piece and risk losing readers who came for the parenting payoff rather than the IQ/AGI digressions.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 15
 },
 {
@@ -5663,6 +6615,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 140
 },
 {
@@ -5711,6 +6670,13 @@
 "weakest": "The middle stretch of culture-context sections (aesthetics, hierarchy, mono no aware) leans toward encyclopedic exposition and slightly tests the reader's stamina before the stronger translation and \"is it a novel\" sections arrive.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 16
 },
 {
@@ -5746,6 +6712,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 66
 },
 {
@@ -5781,6 +6754,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 117
 },
 {
@@ -5816,6 +6796,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 94
 },
 {
@@ -5864,6 +6851,13 @@
 "weakest": "The gag-first commitment limits intellectual depth: it lands on \"theodicy is futile\" as a thesis but argues it lightly, and engages real theodicy literature only via name-drops rather than substantive engagement.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 55
 },
 {
@@ -5899,6 +6893,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 139
 },
 {
@@ -5946,6 +6947,13 @@
 "strongest": "The central thesis, that the book is \"a textbook case study of moral injury and post-traumatic stress... with the diagnosis hidden in plain sight,\" is non-obvious, argued rigorously against the DSM criteria, and recasts both the heroic and misogyny readings convincingly.",
 "weakest": "The two-voice (A/B) conceit, while mostly effective and genuinely dialectical, occasionally pads the length and lets the same point (martyr complex, humor-as-defense) get restated more than it needs to be.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.1948,
+"fractionAiAssisted": 0.1246,
+"fractionHuman": 0.6806,
+"prediction": "Mixed",
+"verdict": "We believe that this document is a mix of AI-generated, AI-assisted, and human-written content"
 },
 "rank": 8
 },
@@ -5995,6 +7003,13 @@
 "weakest": "The explicit critical \"so what\" about the translation arrives late and leans heavily on extended quotation in place of analysis, so the payoff is more aesthetic appreciation than sustained argument.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 30
 },
 {
@@ -6030,6 +7045,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 145
 },
 {
@@ -6078,6 +7100,13 @@
 "weakest": "The connective intellectual scaffolding (stated vs. revealed preferences, affective forecasting) is gestured at competently but stays fairly surface-level, repeated rather than deepened, so the \"so what\" leans more emotional than analytically novel.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 31
 },
 {
@@ -6113,6 +7142,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 95
 },
 {
@@ -6160,6 +7196,13 @@
 "strongest": "The central thesis is genuinely novel and well-executed: reframing a \"minor\" comic novel as a captured snapshot of a population winking out, and articulating the one-way osmotic-barrier / endogamic-decline mechanism (\"There are no more Californios. There are more Californios than ever.\") with both historical grounding and close textual support from Dana and the novel itself.",
 "weakest": "The fertility-spiral apparatus tips from book-illumination into thesis-driving, and the explicit refusal to name the \"too ugly, too speculative\" modern group it keeps gesturing toward lets the review enjoy a charged implication without owning or defending it.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
 },
 "rank": 61
 },
@@ -6209,6 +7252,13 @@
 "weakest": "It reviews a non-existent book without ever clearly disclosing the fabrication, which strains the contest's fairness/accuracy expectation and risks deceiving rather than delighting the reader; the dense formal-logic argument in Section IV is also the driest stretch and slightly over-explains a point the parables already made.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 42
 },
 {
@@ -6244,6 +7294,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 75
 },
 {
@@ -6279,6 +7336,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 143
 },
 {
@@ -6326,6 +7390,13 @@
 "strongest": "The central thesis that the novel takes contemporary moral propositions (markets as moral allocators, hedonic utilitarianism) and faithfully builds them out, leaving the ethical work to the reader, is genuinely illuminating and reframes the book as something other than ordinary climate fiction.",
 "weakest": "It leans heavily on retelling the plot and Resaint's reasoning at length, so the reviewer's own argument, while present and good, occupies less of the wordcount than the book's content does, and the closing \"black holes already exist\" turn is more atmospheric than incisive.",
 "summaryTrap": false
+},
+"pangram": {
+"fractionAi": 0.7517,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.2483,
+"prediction": "Mixed",
+"verdict": "We believe that this document is a mix of AI-generated, and human-written content"
 },
 "rank": 40
 },
@@ -6375,6 +7446,13 @@
 "weakest": "Part Three's sprawl. The general indictment of liberalism, democracy, capitalism, sovereignty, and biopolitics is engaging but drifts from the book under review and occasionally substitutes a parade of thinkers for tight argument, leaving the central thesis (violence as the litmus of the sacred) more asserted than demonstrated.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.1781,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.8219,
+"prediction": "Mixed",
+"verdict": "We believe that this document is primarily human-written, with some AI-generated content detected"
+},
 "rank": 33
 },
 {
@@ -6423,6 +7501,13 @@
 "weakest": "It runs long and the middle \"tour of the studio\" occasionally drifts toward cataloguing before the prophecy section reignites the argument.",
 "summaryTrap": false
 },
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 4
 },
 {
@@ -6458,6 +7543,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.3743,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 0.6257,
+"prediction": "Mixed",
+"verdict": "We believe that this document is a mix of AI-generated, and human-written content"
+},
 "rank": 125
 },
 {
@@ -6493,6 +7585,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 82
 },
 {
@@ -6528,6 +7627,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 96
 },
 {
@@ -6563,6 +7669,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 157
 },
 {
@@ -6598,6 +7711,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 113
 },
 {
@@ -6633,6 +7753,13 @@
 "summaryTrap": true
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 148
 },
 {
@@ -6668,6 +7795,13 @@
 "summaryTrap": false
 },
 "opus": null,
+"pangram": {
+"fractionAi": 0.0,
+"fractionAiAssisted": 0.0,
+"fractionHuman": 1.0,
+"prediction": "Human",
+"verdict": "We believe that this document is fully human-written"
+},
 "rank": 83
 }
 ]

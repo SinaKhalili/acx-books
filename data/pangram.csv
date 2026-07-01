@@ -1,0 +1,325 @@
+id,title,full_word_count,truncated,prediction,prediction_short,fraction_ai,fraction_ai_assisted,fraction_human,num_ai_segments,num_ai_assisted_segments,num_human_segments,version,stage,error
+
+036-dream-of-the-red-chamber,Dream of the Red Chamber,4619,True,We believe that this document is fully AI-generated,AI,1.0,0.0,0.0,6,0,0,3.3.2,STAGE_SUCCESS,
+
+075-pharmaceutical-freedom-why-patients-have-a-right-to-self-medicate,Pharmaceutical Freedom: Why Patients Have a Right to Self-Medicate,6339,True,We believe that this document is fully AI-generated,AI,1.0,0.0,0.0,6,0,0,3.3.2,STAGE_SUCCESS,
+
+093-the-bible,The Bible,339,False,We believe that this document is fully AI-generated,AI,1.0,0.0,0.0,1,0,0,3.3.2,STAGE_SUCCESS,
+
+128-the-pre-training-data,The Pre-Training Data,3065,True,We believe that this document is fully AI-generated,AI,1.0,0.0,0.0,5,0,0,3.3.2,STAGE_SUCCESS,
+
+076-planecrash-es-yudwkosky,planecrash – E.S. Yudwkosky,5176,True,"We believe that this document is mainly AI-generated, with some AI-assisted and human-written content",AI,0.8408233523368835,0.05770154297351837,0.10147512704133987,6,1,1,3.3.2,STAGE_SUCCESS,
+
+153-venomous-lumpsucker,Venomous Lumpsucker,2456,True,"We believe that this document is a mix of AI-generated, and human-written content",Mixed,0.7517304420471191,0.0,0.24826952815055847,4,0,2,3.3.2,STAGE_SUCCESS,
+
+156-weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse,We've Had a Hundred Years of Psychotherapy and the World's Getting Worse,2043,True,"We believe that this document is a mix of AI-generated, and human-written content",Mixed,0.37428924441337585,0.0,0.6257107257843018,3,0,4,3.3.2,STAGE_SUCCESS,
+
+114-the-invention-of-science-a-new-history-of-the-scientific-revolution,The Invention of Science: A New History of the Scientific Revolution,2451,True,"We believe that this document is primarily human-written, with some AI-generated content detected",Mixed,0.27761873602867126,0.0,0.7223812937736511,2,0,4,3.3.2,STAGE_SUCCESS,
+
+144-this-is-going-to-hurt,This is Going to Hurt,12475,True,"We believe that this document is a mix of AI-generated, AI-assisted, and human-written content",Mixed,0.19481626152992249,0.12456304579973221,0.6806206703186035,1,1,5,3.3.2,STAGE_SUCCESS,
+
+074-persuasion-of-the-witchs-craft-and-when-god-talks-back,"""Persuasion of the Witch's Craft"" and ""When God Talks Back""",8328,True,"We believe that this document is primarily human-written, with some AI-generated content detected",Mixed,0.18270614743232727,0.0,0.8172938823699951,1,0,5,3.3.2,STAGE_SUCCESS,
+
+025-capitalist-realism,Capitalist Realism,6519,True,"We believe that this document is primarily human-written, with some AI-generated content detected",Mixed,0.1805782914161682,0.0,0.8194217085838318,1,0,6,3.3.2,STAGE_SUCCESS,
+
+024-candide,Candide,2543,True,"We believe that this document is a mix of AI-generated, AI-assisted, and human-written content",Mixed,0.17981448769569397,0.18134626746177673,0.6388392448425293,1,1,4,3.3.2,STAGE_SUCCESS,
+
+154-violence-and-the-sacred,Violence and the Sacred,13882,True,"We believe that this document is primarily human-written, with some AI-generated content detected",Mixed,0.17806409299373627,0.0,0.8219358921051025,1,0,5,3.3.2,STAGE_SUCCESS,
+
+124-the-northern-caves,The Northern Caves,4843,True,"We believe that this document is primarily human-written, with some AI-generated and AI-assisted content detected",Mixed,0.16665315628051758,0.08961154520511627,0.7437353134155273,1,1,5,3.3.2,STAGE_SUCCESS,
+
+005-a-history-of-the-jews,A History of the Jews,2480,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+001-17776-by-jon-bois,17776 by Jon Bois,3130,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+004-a-game-of-thrones,A Game Of Thrones,1225,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,4,3.3.2,STAGE_SUCCESS,
+
+006-a-poor-wise-man,A Poor Wise Man,3013,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+002-1984-by-george-orwell,1984 by George Orwell,5947,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+003-a-christmas-carol-by-charles-dickens,A Christmas Carol by Charles Dickens,5624,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+008-a-secular-age,A Secular Age,5306,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+012-agatha-christies-works,Agatha Christie's Works,3114,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+014-antonio-damasios-feeling-knowing-making-minds-conscious,Antonio Damasio’s Feeling & Knowing: Making Minds Conscious,6210,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+013-alice-in-puzzle-land-by-raymond-smullyan,Alice in Puzzle-Land by Raymond Smullyan,3023,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+015-application-for-release-from-the-dream,Application for Release from the Dream,3421,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+007-a-residence-of-twenty-one-years-in-the-sandwich-islands,A Residence of Twenty-One Years in the Sandwich Islands,8446,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+011-aesopian-language-in-russian-literature,Aesopian Language in Russian Literature,6572,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+009-a-swim-in-a-pond-in-the-rain-by-george-saunders,A Swim in a Pond in the Rain (by George Saunders),7938,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+017-being-you-a-new-science-of-consciousness-by-anil-seth,Being You: A New Science of Consciousness by Anil Seth,10013,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+010-a-world-appears-by-michael-pollan,"""A World Appears"" by Michael Pollan.",3570,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+016-ballpark-baseball-in-the-american-city,Ballpark: Baseball in the American City,8531,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+021-breakdown-in-pakistan-how-aid-is-eroding-institutions-for-collective-action,Breakdown in Pakistan: How Aid Is Eroding Institutions for Collective Action,8305,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+019-between-two-fires,Between Two Fires,2901,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+018-bellum-catilinae-the-catiline-conspiracy,Bellum Catilinae -- The Catiline Conspiracy,7244,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+022-bronze-age-mindset-an-exhortation,Bronze Age Mindset: An Exhortation,9269,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+023-brook-farm-the-dark-side-of-utopia,Brook Farm: The Dark Side of Utopia,15540,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+029-collected-poems-by-cs-lewis,Collected Poems by C.S. Lewis,3843,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+030-coriolanus,Coriolanus,27587,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+031-cry-havoc,Cry Havoc,7274,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+026-careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism,"Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism",6080,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+034-dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed,Dictator Book Club: Yoweri Museveni’s Sowing The Mustard Seed,6651,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+028-chuang-tzu-the-inner-chapters-by-a-c-graham,Chuang-Tzu: The Inner Chapters by A. C. Graham,7332,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+035-dont-bang-denmark,Don't Bang Denmark,3304,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+037-earth-abides,Earth Abides,2518,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+027-catullus-16,Catullus 16,4242,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,7,3.3.2,STAGE_SUCCESS,
+
+033-der-untergang-des-abendlandes,Der Untergang des Abendlandes,6531,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+039-fear-and-trembling,Fear and Trembling,3577,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+040-free-agents-by-kevin-mitchell-and-determined-by-robert-sapolsky-a-comparative-review,Free Agents by Kevin Mitchell and Determined by Robert Sapolsky (a comparative review),3605,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+020-bleeding-edge-by-thomas-pynchon,Bleeding Edge by Thomas Pynchon,6058,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+032-cultural-evolution,Cultural Evolution,6587,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+042-galileos-error,Galileo's error,6372,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+044-gilead,Gilead,3716,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+045-great-and-desperate-cures-the-rise-and-decline-of-psychosurgery-and-other-radical-treatments-for-mental-illness,Great and Desperate Cures: The Rise and Decline of Psychosurgery and Other Radical Treatments for Mental Illness,19191,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+046-harrison-bergeron,Harrison Bergeron,6101,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+047-headbirths-of-the-germans-are-dying-out-by-gunter-grass,Headbirths of The Germans are Dying Out by Gunter Grass,4023,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+049-how-i-killed-pluto-and-why-it-had-it-coming,How I Killed Pluto and Why It Had It Coming,12733,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+038-fairness-and-freedom-a-history-of-two-open-societies-new-zealand-and-the-united-states,"Fairness and Freedom: A History of Two Open Societies, New Zealand and the United States",9655,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+041-from-here-to-equality,From Here to Equality,9838,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+050-how-to-prevent-coups-dtat,How to Prevent Coups d’État,3262,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+043-ghosts,Ghosts,5234,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+048-house-of-leaves,House Of Leaves,1520,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,4,3.3.2,STAGE_SUCCESS,
+
+056-kindness-goes-unpunished,Kindness Goes Unpunished,351,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,1,3.3.2,STAGE_SUCCESS,
+
+054-invisible-cities-and-life-a-users-manual,Invisible Cities and Life: A User's Manual,5302,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+051-imagined-communities-relfections-on-the-origin-and-spread-of-nationalism,Imagined Communities: Relfections on the Origin and Spread of Nationalism,4511,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+052-into-the-universe-of-technical-images,Into the Universe of Technical Images,3131,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+059-lee-kuan-yews-memoirs,Lee Kuan Yew’s Memoirs,7353,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+060-leviathan,Leviathan,4561,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+061-meeting-hardly-meeting,"Meeting, Hardly Meeting",5544,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,8,3.3.2,STAGE_SUCCESS,
+
+053-inventing-temperature,Inventing Temperature,5151,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+063-moby-dick-or-the-whale,"Moby-Dick; or, The Whale",5317,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+065-montaillou-cathars-and-catholics-in-a-french-village-1294-1324,"Montaillou: Cathars and Catholics in a French Village, 1294-1324",5442,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+062-mistletoe-and-memorandums-by-claude,"""Mistletoe and Memorandums"" by Claude",10428,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+064-money-by-martin-amis,Money by Martin Amis,6414,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+068-mother-of-learning,Mother of Learning,5858,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+067-more-money-than-god-hedge-funds-and-the-making-of-a-new-elite-by-sebastian-mallaby,"More Money Than God: Hedge Funds and the Making of a New Elite, by Sebastian Mallaby",16783,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+058-kristin-lavransdatter,Kristin Lavransdatter,9684,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+055-kakistocracy-by-richard-hanania,"Kakistocracy, by Richard Hanania",9355,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+066-moral-tribes,Moral Tribes,2923,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+057-king-rat,King Rat,2939,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+071-painting-abstract-landscapes,Painting Abstract Landscapes,7196,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+073-patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue,"Patrocleia. Book XVI of Homer’s Iliad, adapted by Christopher Logue",2137,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+072-parfit-a-philosopher-and-his-mission-to-save-morality,Parfit: A Philosopher and his Mission to Save Morality,16812,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+077-plotting-your-fantasy-novel,Plotting Your Fantasy Novel,5348,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+070-orality-and-literacy-by-walter-ong,Orality and Literacy by Walter Ong,6980,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+078-plutarchs-parallel-lives-tiberius-and-gaius-gracchi,Plutarchs' Parallel Lives - Tiberius and Gaius Gracchi,5082,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+080-probability-theory-the-logic-of-science,Probability Theory: The Logic of Science,3894,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+079-prior-analytics,Prior Analytics,8149,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+069-night-by-elie-wiesel,Night by Elie Wiesel,4681,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+081-progressive-myths,Progressive Myths,6067,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+084-richard-c-schwartzs-no-bad-parts,"Richard C. Schwartz's ""No Bad Parts""",4782,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+085-scenebux-a-novel,Scenebux: A Novel,1931,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+083-religion-for-atheists,Religion for Atheists,5647,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+087-siddhartha-1922-by-hermann-hesse,Siddhartha (1922) by Hermann Hesse,4063,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+089-storm-of-steel,Storm of Steel,8538,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+088-stabilizing-an-unstable-economy,Stabilizing an Unstable Economy,8206,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+082-radical-hope-ethics-in-the-face-of-cultural-devastation-by-jonathan-lear,Radical Hope: Ethics in the Face of Cultural Devastation by Jonathan Lear,9692,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+091-that-hideous-strength,That Hideous Strength,16710,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+086-seeing-that-frees,Seeing That Frees,2947,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+096-the-cambridge-introduction-to-jacques-lacan,The Cambridge Introduction to Jacques Lacan,3498,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+094-the-book-of-abraham,The Book of Abraham.,14120,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+090-summa-technologiae,Summa Technologiae,6790,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+097-the-campaigns-of-napoleon,The Campaigns of Napoleon,2385,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+098-the-carnation-revolution,The Carnation Revolution,10395,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+099-the-disciplinary-revolution-calvinism-and-the-rise-of-the-state-in-early-modern-europe,The Disciplinary Revolution: Calvinism and the Rise of the State in Early Modern Europe,5235,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+092-the-affluent-society-by-john-kenneth-galbraith,The Affluent Society by John Kenneth Galbraith,5829,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+095-the-brothers-karamazov,The Brothers Karamazov,1151,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,4,3.3.2,STAGE_SUCCESS,
+
+102-the-epic-of-gilgamesh,The Epic of Gilgamesh,11835,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+106-the-fourth-sword,The Fourth Sword,5495,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+105-the-evolution-of-desire-by-david-buss,The Evolution of Desire by David Buss,3781,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+108-the-ghost-in-my-brain,The Ghost In My Brain,4193,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+103-the-escape-artist,The Escape Artist,7734,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+110-the-hero-in-history,The Hero in History,5816,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+100-the-empyrean-series-fourth-wing-iron-flame-and-onyx-storm,"The Empyrean Series: Fourth Wing, Iron Flame, and Onyx Storm",7952,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+109-the-gods-themselves,The Gods Themselves,2419,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+111-the-history-and-adventures-of-an-atom-by-tobias-smollett,The History and Adventures of an Atom by Tobias Smollett,6004,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+112-the-holy-quran,The Holy Quran,5740,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+113-the-inhabited-island,The Inhabited Island,2813,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+107-the-full-facts-book-of-cold-reading,The Full Facts Book Of Cold Reading,5944,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+115-the-knowledge-machine,The Knowledge Machine,8431,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+116-the-last-temptation-of-christ,The Last Temptation of Christ,571,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,2,3.3.2,STAGE_SUCCESS,
+
+118-the-life-changing-magic-of-tidying-up,The Life-Changing Magic of Tidying Up,5610,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+120-the-marriage-of-cadmus-and-harmony,The Marriage of Cadmus and Harmony,8780,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+117-the-lever-of-riches,The Lever of Riches,11554,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,7,3.3.2,STAGE_SUCCESS,
+
+119-the-man-who-was-thursday,The Man Who Was Thursday,12277,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+121-the-master-margarita,The Master & Margarita,3783,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+123-the-mind-is-flat-by-nick-chater,The Mind is Flat by Nick Chater,7043,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+104-the-evolution-of-cooperation-by-robert-axelrod,The Evolution of Cooperation (by Robert Axelrod),2569,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+126-the-pictures-of-socialist-future,The Pictures of Socialist Future,5864,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+125-the-overstory,The Overstory,3856,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+130-the-red-queen,The Red Queen,7895,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+129-the-radicalism-of-the-american-revolution,The Radicalism of the American Revolution,7634,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+101-the-end-of-history-and-the-last-man,The End of History and the Last Man,3996,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+131-the-rule-of-law,The Rule of Law,2877,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+122-the-merry-wives-of-windsor,The Merry Wives of Windsor,7800,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+133-the-short-swift-time-of-gods-on-earth,"The Short, Swift Time of Gods on Earth",9954,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+127-the-pillow-book,The Pillow Book,5462,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+132-the-science-of-second-chances,The Science of Second Chances,7802,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+137-the-sun-also-rises,The Sun Also Rises,1512,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+138-the-tale-of-genji,The Tale of Genji,9850,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+135-the-son-also-rises,The Son Also Rises,7586,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+139-the-war-nerd-iliad,The War Nerd Iliad,4503,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+134-the-sins-of-gk-chesterton,The Sins of GK Chesterton,7734,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+136-the-sovereign-child,The Sovereign Child,8980,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+145-thomas-urquharts-translation-of-rabelais,Thomas Urquhart's Translation of Rabelais,4604,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+141-the-wisdom-of-mike-mentzer,The Wisdom of Mike Mentzer,6806,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+143-there-is-no-antimemetics-division,There Is No Antimemetics division,4516,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+146-tiger-chair,Tiger Chair,1255,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,4,3.3.2,STAGE_SUCCESS,
+
+147-time-gifts,Time Gifts,4931,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+148-timefulness,Timefulness,2744,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+151-trip-sitting-the-art-and-science-of-holding-psychedelic-space,Trip Sitting: The Art and Science of Holding Psychedelic Space,1108,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,3,3.3.2,STAGE_SUCCESS,
+
+150-traces-erased-by-the-sun,Traces Erased by the Sun,3580,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+152-unforgiving-places-the-unexpected-origins-of-american-gun-violence,Unforgiving Places: The Unexpected Origins of American Gun Violence,2397,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,5,3.3.2,STAGE_SUCCESS,
+
+142-theodicy,Theodicy,5061,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+149-tortilla-flat-by-john-steinbeck,Tortilla Flat by John Steinbeck,5962,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+155-we-present-television,We Present Television,9198,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+158-why-greatness-cannot-be-planned-by-joel-lehman-and-kenneth-stanley,"Why Greatness Cannot Be Planned, by Joel Lehman and Kenneth Stanley",5267,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+157-what-is-real,What is Real?,10106,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+159-wild-wise-weird,Wild Wise Weird,1508,False,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,4,3.3.2,STAGE_SUCCESS,
+
+162-undertook-learn-russian-about-ten-years,Бесы,4801,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+140-the-waves,The Waves,4631,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+160-works-by-isaac-bickerstaff,Works By Isaac Bickerstaff,7380,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,
+
+161-world-war-z,World War Z,3559,True,We believe that this document is fully human-written,Human,0.0,0.0,1.0,0,0,6,3.3.2,STAGE_SUCCESS,

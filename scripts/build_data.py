@@ -1,15 +1,42 @@
-import os, re, json
+import os, re, json, csv
 
 ROOT = "/Users/sina/fun/acx-claude-books"
 TXT = os.path.join(ROOT, "data/reviews_txt")
 MANIFEST = os.path.join(ROOT, "data/manifest.json")
 SCORES = os.path.join(ROOT, "data/scores.json")
 SCORES_OPUS = os.path.join(ROOT, "data/scores_opus.json")
+PANGRAM = os.path.join(ROOT, "data/pangram.csv")
 OUT_INDEX = os.path.join(ROOT, "src/data/index.json")
 
 WEIGHTS = {"insight":.30,"engagement":.25,"originality":.15,"fairness":.15,"structure":.15}
 
 manifest = json.load(open(MANIFEST))
+
+
+def load_pangram(path):
+    """Pangram AI-detection results, keyed by the 3-digit review id prefix."""
+    out = {}
+    if not os.path.exists(path):
+        return out
+    with open(path, newline="") as f:
+        for row in csv.DictReader(f):
+            rid = (row.get("id") or "").strip()
+            if not rid:
+                continue
+            try:
+                frac_ai = float(row["fraction_ai"])
+            except (TypeError, ValueError, KeyError):
+                continue
+            out[rid[:3]] = {
+                "fractionAi": round(frac_ai, 4),
+                "fractionAiAssisted": round(float(row.get("fraction_ai_assisted") or 0), 4),
+                "fractionHuman": round(float(row.get("fraction_human") or 0), 4),
+                "prediction": (row.get("prediction_short") or "").strip(),
+                "verdict": (row.get("prediction") or "").strip(),
+            }
+    return out
+
+pangram = load_pangram(PANGRAM)
 
 def load_scores(path):
     out = {}
@@ -59,6 +86,8 @@ for r in manifest:
         # both passes for comparison
         "sonnet": sonnet,
         "opus": opus,
+        # Pangram AI-detection result (None if not analyzed)
+        "pangram": pangram.get(rid),
     })
 
 # rank by canonical weighted desc
